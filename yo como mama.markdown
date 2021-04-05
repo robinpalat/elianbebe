@@ -1,11 +1,21 @@
 ---
 layout: page
-title: Cartas
-permalink: /cartas/
+title: Yo Como Mamá
+permalink: /yo_como_mama/
+custom_css: /assets/css/transc
+nav_order: 2
 ---
 
-<h2>Yo como madre</h2>
+<table class="notable">
+<td><h2>Yo Como Mamá</h2>
 <h4>Maria Jaqueline Ramires Ojeda</h4>
 <h1 class="western" align="left">&nbsp;</h1>
+</td>
+<td>
+<img src="/elianbebe/assets/images/yo_como_madre.png" alt="drawing" width="200"/>
+</td>
+</table>
+
+
 <p style="text-align:justify">Ya que algunas personas pusieron en duda duda mi rol de madre, voy a presentar aqu&iacute; los muchos cuidados que tuve con mi hija Millarai, que hoy d&iacute;a tiene 7 a&ntilde;os y que actualmente esta al cuidado de mis padres. Puedo decir y comprobar con documentos, fichas cl&iacute;nicas, fotos, testimonio de educadoras de p&aacute;rbulo, t&iacute;as, ect. que yo me preocupe de distintas maneras del cuidado de ella. Llev&aacute;ndola por ejemplo a todos los controles que tenia la ni&ntilde;a en el hospital &ldquo;El Paula&rdquo;. Esos controles eran debido a que mi hija es especial. Me maneje yo sola. Gestione el carnet de discapacidad en el Compin. Gestione ademas el subsidio por discapacidad. Tambi&eacute;n en lo referente a educaci&oacute;n, fui a hablar a varios establecimientos para que asistiera en un colegio con integraci&oacute;n, por ejemplo el colegio &ldquo;Reina de Chile&rdquo;, o el colegio &ldquo;Mi refugio&rdquo; de cerrillos. Tambi&eacute;n gestione la inscripci&oacute;n de mi hija en &ldquo;La casa del dirigente&rdquo; de Cerrillos para que le ense&ntilde;aran a hablar en su primeros a&ntilde;itos. Mas adelante tambi&eacute;n intente que la inscriban en la escuela de lenguaje &ldquo;Santa Teresita de los andes&rdquo;, en Cerrillos. En los a&ntilde;os que estuvo conmigo yo participaba con las t&iacute;as en actividades de la sala, iba a todas las reuniones de apoderados, apoyaba al colegio con las cosas que me solicitaban, pagaba siempre la mensualidad del a&ntilde;o. En casa, por indicaciones del pediatra, yo cumpl&iacute;a con los cuidados especiales de ella. Tambi&eacute;n fui constante con los ejercicios y tareas del fonoaudiologo del hospital &ldquo;San Borja Arriagan&rdquo;. Asi mismo por consejo del colegio le ense&ntilde;e o intente ense&ntilde;arle de buenas maneras varios h&aacute;bitos &uacute;tiles para su vida futura. Aparte gestione para que el bus del colegio la pasara a buscar por frente de mi casa. Tambi&eacute;n le consegu&iacute; los lentes para ella con el pediatra del &ldquo;el Paula&rdquo;. Todo esto se interrumpi&oacute; por los problemas de violencia intrafamiliar que tuve con mi ex-pareja, ya que por ese motivo el cuidado de mi hija se lo derivo a mis padres. Porque ellos deseaban que este al cuidado de ellos. Ellos pretend&iacute;an tener la ni&ntilde;a a su cargo. Yo quede sola, viviendo en mi casa, sin trabajo estable, la situaci&oacute;n me supero debido a mi salud, porque en ese momento, de esa crisis , quede con depresi&oacute;n. Ademas mis padres me aseguraban que mi hija estaba bien con ellos y que me dedicara a trabajar. Pero yo nunca pens&eacute; en dej&aacute;rsela definitivamente. Tambi&eacute;n en ese momento, ingenuamente, nunca pens&eacute; en la mala intenci&oacute;n de mis padres de quedarse definitivamente con mi hija. Lo mismo tambi&eacute;n sucedi&oacute; con el cuidado de mi hijo mayor, cuando yo tenia 18 a&ntilde;os ellos me convencieron para que se los pase al cuidado de ellos, porque mi ex-pareja pasaba mucho tiempo fuera de la casa y yo quedaba sola. Me hicieron firmar un papel que no lo le&iacute; por confiar en ellos. No tuve apoyo de ex-pareja porque el no era el padre biol&oacute;gico de mi hijo. Hoy d&iacute;a mis padres perversamente dicen a todos que yo abandone a mis hijos, que soy un peligro para ellos, que estoy demente, ect. Esto lo hacen (por pretenci&oacute;n y capricho de mi mama, mi papa solo act&uacute;a en consecuencia de ella) para que me internen en un siqui&aacute;trico y disponer de mi casa y mis hijos. </p>
 <p>&nbsp;</p>
