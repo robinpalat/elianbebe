@@ -5,3 +5,6 @@ permalink: /about/
 ---
 
 Yaquelin y robin
+
+
+![useful image]({{ site.url }}/assets/images/20210102_085946.jpg)
