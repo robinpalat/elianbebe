@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Quienes Somos
+title: Jaquelin y Robin
 permalink: /about/
+nav_order: 2
 ---
 
 Yaquelin y robin
