@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Yo Como Mamá
+title: Escritos
 permalink: /yo_como_mama/
 custom_css: /assets/css/transc
-nav_order: 2
+nav_order: 3
 ---
 
 <table class="notable">

@@ -14,8 +14,8 @@ This is the base Jekyll theme. You can find out more info about customizing your
 
 
 <div class="Div_a">
-<div><iframe width="300" height="60" src="https://vocaroo.com/embed/17TG4DSRlgms?autoplay=0" frameborder="0" allow="autoplay"></iframe></div>
-<p class="western" lang="es-CL" align="left"><strong>Sra Graciela: &iexcl;</strong>A el no lo tienen en cuenta! &iexcl;Nadie lo tiene en cuenta a el! &iexcl;Aqu&iacute; tenes que defender vos a tu hijo! &iexcl;No el! &iexcl;A el no lo tienen en cuenta en ning&uacute;n lado! &iexcl;No&hellip; no existe el! &iexcl;Existe como papa de la guagua porque vos dec&iacute;s que es el papa de la guagua, nada mas! &iexcl;Pero a el no lo <span style="color: #000000;"><span style="font-size: medium;">toman</span></span> en cuenta! &iexcl;El no puede ni opinar me dijeron! &iexcl;Porque si el le pillan que te da droga, va ir hasta preso!</p>
+<iframe src="https://archive.org/embed/a-el-no-lo-tienen-en-cuenta" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p class="western" lang="es-CL" align="left"><strong>Sra Graciela: &iexcl;</strong>A el no lo tienen en cuenta! &iexcl;Nadie lo tiene en cuenta a el! &iexcl;Aqu&iacute; tenes que defender vos a tu hijo! &iexcl;No el! &iexcl;A el no lo tienen en cuenta en ning&uacute;n lado! &iexcl;No&hellip; no existe el! &iexcl;Existe como papa de la guagua porque vos dec&iacute;s que es el papa de la guagua, nada mas! &iexcl;Pero a el no lo toman en cuenta! &iexcl;El no puede ni opinar me dijeron! &iexcl;Porque si el le pillan que te da droga, va ir hasta preso!</p>
 <p class="western" lang="es-CL" align="left"><strong>Yaquelin:</strong> &iexcl;Nosotros no tomamos ni fumamos!</p>
 <p class="western" lang="es-CL" align="left"><strong>Sra Graciela:</strong> No, de tomar toman, porque todos te vieron acarrear botellas de cerveza.</p>
 <p class="western" lang="es-CL" align="left"><strong>Yaquelin: </strong>&iexcl;No nadie fuma, ni nadie toma!</p>
@@ -26,7 +26,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 
 
 <div class="Div_a">
-<div><iframe width="300" height="60" src="https://vocaroo.com/embed/17TG4DSRlgms?autoplay=0" frameborder="0" allow="autoplay"></iframe></div>
+<iframe src="https://archive.org/embed/discutiendo-sobre-droga" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p class="western" lang="es-CL" align="left"><strong>Yaquelin:</strong> Yo no puedo decir algo que no soy, no soy drogadicta.</p>
 <p class="western" lang="es-CL" align="left"><strong>Sra Graciela: </strong>Pero a lo mejor el te da pues</p>
 <p class="western" lang="es-CL" align="left"><strong>Yaquelin:</strong> &iexcl;No, el tampoco es drogadicto!</p>
@@ -54,7 +54,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 
 
 <div class="Div_a">
-<div><iframe width="300" height="60" src="https://vocaroo.com/embed/17TG4DSRlgms?autoplay=0" frameborder="0" allow="autoplay"></iframe></div>
+<iframe src="https://archive.org/embed/no-vengas-a-opinar-vos" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p class="western" lang="es-CL" align="left"><strong>Yaquelin:</strong> Si es mi hijo yo lo tengo que venir a ver, igual aqu&iacute; como hacia en el hospital, cuando estaba conmigo.</p>
 <p class="western" lang="es-CL" align="left"><strong>Don Ricardo: </strong>No, no vengas a opinar tu</p>
 <p class="western" lang="es-CL" align="left"><strong>Sra Graciela: </strong>Si quer&eacute;s venir a hacer paz, no vengas a opinar aqu&iacute; negra.</p>
@@ -63,7 +63,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 <br>
 
 <div class="Div_a">
-<div><iframe width="300" height="60" src="https://vocaroo.com/embed/17TG4DSRlgms?autoplay=0" frameborder="0" allow="autoplay"></iframe></div>
+<iframe src="https://archive.org/embed/que-te-va-a-hacer-mas-de-lo-que-te-hizo-ya" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p class="western" lang="es-CL" align="left"><strong>Yaquelin:</strong> El Fredy no cumpli&oacute; la orden de alejamiento, no tiene respeto a nadie.</p>
 <p class="western" lang="es-CL" align="left"><strong>Sra Graciela: </strong>No si ya se termino eso, ya ya venci&oacute;.</p>
 <p class="western" lang="es-CL" align="left"><strong>Yaquelin:</strong> Si pero esta ah&iacute; esta en la palestra eso, yo igual puedo ir a denunciarlo de nuevo que venci&oacute; la orden de alejamiento. Porque ese si que es loco. Ese si que se droga. Maneja drogado... fuma&hellip; &iexcl;Ese si que es loco!</p>
