@@ -5,24 +5,24 @@ permalink: /testtoxicologico/
 ---
 
 
-<h2>Examen de detección de drogas en orina</h2>
+<h2>Exámen de detección de drogas en orina</h2>
 <h4>Robinson Palatnik Gualtieri</h4>
 <h1 class="western" align="left">&nbsp;</h1>
 
 <p style="text-align:justify">
-Mientras Jaquelin se encontraba hospitalizada en maternidad, le informan que su exámen toxicológico arrojó un resultado "POSITIVO" (más adelante supimos que fue "PRESUNTO POSITIVO"), ella al decirme esto por teléfono y al saber nosotros que no tenemos hábito de consumo de drogas, solicitamos inmediatamente otro exámen para corregir ese resultado. El personal del hospital se negó al principio alegando de que era un test costoso. Pero, después de mucho insistir, una doctora dijo que haria una excepción. Se realizó un segundo exámen (a dos días del primero), dando un resultado “NEGATIVO”.<br>Sin embargo y a modo de sugerir el carácter tendencioso del informe de la funcionaria Carla Jara (Maternidad - hospital El Carmen), hago notar que este segundo resultado no fue dado a conocer en el informe, solo se aplico “positivo para thd” (cannabis). Además, en ese mismo sentido, en la audiencia preparatoria del 16 de febrero y por pedido nuestro, la representante del hospital informo por primera vez el segundo exámen. Aunque con información “errónea”; Dijo que decidieron suspender la lactancia materna porque el exámen toxicológico dio "POSITIVO" y que tambien existio un exámen posterior con resultado "PRESUNTO NEGATIVO".
+Mientras Jaquelin se encontraba hospitalizada en maternidad, le informan que su exámen toxicológico arrojó un resultado positivo (más adelante supimos que fue "PRESUNTO POSITIVO"). Ella al decirme esto por teléfono y al saber nosotros que no tenemos hábito de consumo de drogas, solicitamos inmediatamente otro exámen para corregir ese resultado. El personal del hospital se negó al principio alegando de que era un test costoso. Pero después de mucho insistir, una doctora dijo que haria una excepción. Se realizó entonces un segundo exámen (a dos días del primero), dando un resultado “NEGATIVO”.<br>Sin embargo y a modo de sugerir el carácter tendencioso del informe de la funcionaria Carla Jara (Maternidad - hospital El Carmen), hago notar que este segundo resultado no fue dado a conocer en el informe, solo se aplico “positivo para thd” (cannabis). Además y en ese mismo sentido, en la audiencia preparatoria del 16 de febrero y por pedido nuestro, la representante del hospital informo por primera vez el segundo exámen. Aunque con información “errónea”; Dijo que decidieron suspender la lactancia materna porque el exámen toxicológico dio "POSITIVO" y que tambien existio un exámen posterior con resultado "PRESUNTO NEGATIVO".
 </p>
 
-
+<br>
 Añado el extracto de un review de la renombrada Mayo Clinic que expone la probabilidad de falsos positivos en exámenes toxicologicos de orina y las condiciones de que estos tests deben realizarse para que sus resultados puedan tomarse como válidos.
 
-<br>
+
 
 
 Traducción del Ingles del resumen y la conclusión del articulo:
 
 
-## Examen de detección de drogas en orina: Guía práctica para médicos
+## Exámen de detección de drogas en orina: Guía práctica para médicos
 
 <h4>Karen E. Moeller, Pharmd, BCPP - Kelly C. Lee, Pharmd, BCPP - Julie C. Kissack, Pharmd, BCPP</h4>
 
