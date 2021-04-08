@@ -2,22 +2,10 @@
 layout: default
 title: Inicio
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Elianbebe.net es una manera de acercarnos a la sociedad para que nuestra muy mala experiencia sea de todos"
 permalink: /
 ---
 
 
-# Una muy mala experiencia.
-{: .fs-9 }
-
-En el año 2019 decidimos tener un hijo, en el 2020 lo fabricamos, en 2021 nos enfrentamos a la miseria, insensibilidad, egoismo y retorcidas, de nuestras contrapartes.
-{: .fs-6 .fw-300 }
-
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
-
+<div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="https://static.genial.ly/resources/panel-loader-low.mp4" type="video/mp4" />Your browser does not support the video tag.</video><div id="606e6dfa0768280d1a9ba750" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
 ---
-
-## Reclamo 
-
-### Te contamos como mi Madre con el apoyo de mi familia se apropia de mis hijos.
-
