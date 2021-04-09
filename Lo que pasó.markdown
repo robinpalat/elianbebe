@@ -15,15 +15,15 @@ nav_order: 3
   <br>
   <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con la matrona de mi consultorio sobre tener un hijo a mi edad (37 años)</p>
  <br>
- <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Salí bien en los exámenes médicos solicitados por matrona.</p>
+ <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Salí bien en los exámenes médicos solicitados por matrona</p>
   <br>
   <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Abandoné método anticonceptivo</p>
    <br>
   <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Quedé embarazada en abril</p>
    <br>
-  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi padres me molestaban mucho cuando supieron del embarazo.</p>Me senti agraviada y ofendida después de la duras palabras de mi madre. Tuve que pedir apoyo al COSAM<br>
+  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi padres me molestaban mucho cuando supieron del embarazo</p>Me senti agraviada y ofendida después de la duras palabras de mi madre. Tuve que pedir apoyo al COSAM<br>
    <br>
-  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Durante mi embarazo me sentí sola, sin el apoyo de mis padres, ni hermanos.</p> Solamente conté con apoyo y la compañia de mi pareja, aunque por su trabajo y la pandemia pasaba igual muchas horas sola.<br>
+  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Durante mi embarazo me sentí sola, sin el apoyo de mis padres, ni hermanos</p> Solamente conté con apoyo y la compañia de mi pareja, aunque por su trabajo y la pandemia pasaba igual muchas horas sola.<br>
    <br>
    
   <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Semanas antes de la fecha de parto, Aparecio mi mama. Insistía que el parto se asista en "El Paula".</p> Mis padres eran bien conocidos del asistente social de ese Hospital, el funcionario los apoyo en el caso de mi hija Millarai. Yo sospechaba que mis padres querian manejar ese momento de mi vida y dejar de lado a mi pareja. Yo queria vivirlo junto a mi pareja.<br>
