@@ -11,11 +11,11 @@ nav_order: 3
   <br>
  <br>
  
- <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; 2020 — Mi pareja consiguió un ingreso mensual estable de arriba de $800.000 </p>Además trabaja en casa en servicio tecnico de teléfonos y yo hago y vendo queques y pasteles.<br>
+ <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; 2020 — Mi pareja consiguió un ingreso mensual estable de arriba de $800.000 </p>Además trabaja en casa en servicio técnico de teléfonos y yo hago y vendo queques y pasteles.<br>
   <br>
   <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con la matrona de mi consultorio sobre tener un hijo a mi edad (37 años)</p>
  <br>
- <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Luego de salir bien en los exámenes médicos conseguí el alta con matrona.</p>
+ <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; salí bien en los exámenes médicos solicitados por matrona.</p>
   <br>
   <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Abandoné método anticonceptivo</p>
    <br>
