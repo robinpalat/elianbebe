@@ -6,7 +6,7 @@ custom_css: /assets/css/transc
 nav_order: 3
 ---
 
-<h2>2019 — Junto a mi pareja Robin de 43 años decidimos tener más adelante un hijo y casarnos</h2>
+<h2>2019 — Junto a mi pareja Robin de 43 años decidimos en 2019 tener más adelante un hijo y casarnos</h2>
 <h4>Maria Jaqueline Ramires Ojeda</h4>
   <br>
  <br>
@@ -37,7 +37,7 @@ nav_order: 3
   <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi Madre le ordenó a mi papa que vaye a hablar con el asistente social de maternidad del Carmen</p> Mientras yo estaba hospitalizada, mi papá se presento espontáneamente con unos papeles mios del cosan y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender al asistente social que yo soy "un peligro vivo" y que dejo botado a mis hijos.<br>
   <br>
 
- <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Estando yo hospitalizada en puerperio la trabajadora social, influenciada por mis padres, interpretaba mal todo lo que yo hacía</p>La funcionaria realizó un informe social dónde aseguraba de que no lo quize tener en brasos a mi bebé. Que no lo atendía, que le negue la lactancia.<br>
+ <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Estando yo hospitalizada en puerperio la trabajadora social, influenciada por mis padres, interpretaba mal todo lo que yo hacía</p>La funcionaria realizó un informe social dónde aseguraba de que no lo quize tener en brasos a mi bebé. Que no lo atendía, que le negue la lactancia. Además solicitó un test de droga sin fundamento claro. Dando este un resultado presunto positivo<br>
  <br>
  
   <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Regimen de visitas: Hasta la fecha, hace 2 meses que no lo vemos a nuestro hijo.</p>Mi mamá tenia planeado quedarse con nuestro hijo antes de que naciera. Mintió que yo le creaba problemas en su casa durante las visitas. Que yo la discutia y maltrataba. Llegó a decir que yo bañaba a la guagua en agua casi hirviendo. Por su corta edad yo nunca bañe a mi bebé.
