@@ -10,7 +10,7 @@ nav_order: 3
 <h4>Maria Jaqueline Ramires Ojeda</h4>
   <br>
  <br>
- 
+ <br>
  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; 2020 — Mi pareja consiguió un ingreso mensual estable de arriba de $800.000 </p>Además trabaja en casa en servicio técnico de teléfonos y yo hago y vendo queques y pasteles.<br>
   <br>
   <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con la matrona de mi consultorio sobre tener un hijo a mi edad (37 años)</p>
