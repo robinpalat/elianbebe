@@ -31,7 +31,7 @@ nav_order: 3
    
   <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; 2021 — Nuestro Hijo Nacio el 2 de enero en el hospital el Cármen</p>
  Ese dia le dije por teléfono a mi madre que estaba en ese hospital.
- Ella enfadada me dijo: "para que te fuiste ahí si en el Paula te estaban esperando con camilla y todo" Semanas antes ellos ya habian hablado con el asistente social del Paula<br>
+ Ella enfadada me dijo: "para que te fuiste ahí si en el Paula te estaban esperando con camilla y todo" Semanas antes ellos ya habian hablado con el asistente social del Paula.<br>
   <br>
   
   <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi Madre le ordenó a mi papa que vaye a hablar con el asistente social de maternidad del Carmen</p> Mientras yo estaba hospitalizada, mi papá se presento espontáneamente con unos papeles mios del cosan y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender al asistente social que yo soy "un peligro vivo" y que dejo botado a mis hijos.<br>
