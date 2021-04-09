@@ -15,7 +15,7 @@ nav_order: 3
   <br>
   <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con la matrona de mi consultorio sobre tener un hijo a mi edad (37 años)</p>
  <br>
- <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; salí bien en los exámenes médicos solicitados por matrona.</p>
+ <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Salí bien en los exámenes médicos solicitados por matrona.</p>
   <br>
   <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Abandoné método anticonceptivo</p>
    <br>
