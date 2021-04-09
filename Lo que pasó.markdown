@@ -11,34 +11,36 @@ nav_order: 3
   <br>
  <br>
  
- <p span style="font-size:16px; font-weight: bold;"><span style="font-size:20px">▷</span>&nbsp;&nbsp;&nbsp;&nbsp; 2020 — Mi pareja consiguió un ingreso mensual estable de arriba de $800.000 </p><sup>Además el trabaja en casa en servicio tecnico de Teléfonos y yo hago y vendo pasteles hace 1 año, también en mi casa</sup><br>
+ <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; 2020 — Mi pareja consiguió un ingreso mensual estable de arriba de $800.000 </p>Además trabaja en casa en servicio tecnico de teléfonos y yo hago y vendo queques y pasteles.<br>
   <br>
-  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:20px">▷</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con la matrona de mi consultorio sobre tener un hijo a mi edad (37 años)</p>
+  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con la matrona de mi consultorio sobre tener un hijo a mi edad (37 años)</p>
  <br>
- <p span style="font-size:16px; font-weight: bold;"><span style="font-size:20px">▷</span>&nbsp;&nbsp;&nbsp;&nbsp; Consigui el alta de matrona, luego de salir bien en los exámenes.</p>
+ <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Luego de salir bien en los exámenes médicos conseguí el alta con matrona.</p>
   <br>
-  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:20px">▷</span>&nbsp;&nbsp;&nbsp;&nbsp;Abandoné método anticonceptivo</p>
+  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Abandoné método anticonceptivo</p>
    <br>
-  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:20px">▷</span>&nbsp;&nbsp;&nbsp;&nbsp;Quedé embarazada en abril</p>
+  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Quedé embarazada en abril</p>
    <br>
-  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:20px">▷</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi padres me molestaban mucho cuando supieron del embarazo.</p><sup>Me senti agraviada y ofendida después de la duras palabras de mi madre. Tuve que pedir apoyo al COSAM</sup><br>
+  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi padres me molestaban mucho cuando supieron del embarazo.</p>Me senti agraviada y ofendida después de la duras palabras de mi madre. Tuve que pedir apoyo al COSAM<br>
    <br>
-  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:20px">▷</span>&nbsp;&nbsp;&nbsp;&nbsp;Durante mi embarazo me sentí sola, sin el apoyo de mis padres, ni hermanos.</p> <sup>Solamente conté con apoyo y la compañia de mi pareja, aunque por su trabajo y la pandemia pasaba igual muchas horas sola.</sup>
+  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Durante mi embarazo me sentí sola, sin el apoyo de mis padres, ni hermanos.</p> Solamente conté con apoyo y la compañia de mi pareja, aunque por su trabajo y la pandemia pasaba igual muchas horas sola.<br>
    <br>
-  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:20px">▷</span>&nbsp;&nbsp;&nbsp;&nbsp;Semanas antes de la fecha de parto, Aparecio mi mama ordenandome insistentemente que tenga la guagua en "El Paula".</p><sup> Mis padres eran bien conocidos del asistente social de ese Hospital, el funcionario los apoyo en el caso de mi hija Millarai. Yo sospechaba que mis padres querian manejar ese momento tan especial de mi vida. Yo queria vivirlo junto a mi pareja</sup><br>
+   
+  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Semanas antes de la fecha de parto, Aparecio mi mama. Insistía que el parto se asista en "El Paula".</p> Mis padres eran bien conocidos del asistente social de ese Hospital, el funcionario los apoyo en el caso de mi hija Millarai. Yo sospechaba que mis padres querian manejar ese momento de mi vida y dejar de lado a mi pareja. Yo queria vivirlo junto a mi pareja.<br>
    <br>
-  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:20px">▷</span>&nbsp;&nbsp;&nbsp;&nbsp; 2021 — Nuestro Hijo Nacio el 2 de enero en el hospital el carmen</p>
- <sup>ese dia a la tarde por telefono el comente a mi madre que estaba en ese hospital
- ella entre triste y enfadada me dijo textualmente: "para que te fuiste ahi si en el paula te estaban esperando con camilla y todo"</sup><br>
+   
+  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; 2021 — Nuestro Hijo Nacio el 2 de enero en el hospital el Cármen</p>
+ Ese dia le dije por teléfono a mi madre que estaba en ese hospital.
+ Ella enfadada me dijo: "para que te fuiste ahí si en el Paula te estaban esperando con camilla y todo" Semanas antes ellos ya habian hablado con el asistente social del Paula<br>
   <br>
-  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:20px">▷</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi mama le mando a mi papa al hablar con el asistente social de maternidad del carmen</p> <sup>Presento unos papeles del cosan y de causas judiciles de mis hijoas</sup><br>
+  
+  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi Madre le ordenó a mi papa que vaye a hablar con el asistente social de maternidad del Carmen</p> Mientras yo estaba hospitalizada, mi papá se presento espontáneamente con unos papeles mios del cosan y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender al asistente social que yo soy "un peligro vivo" y que dejo botado a mis hijos.<br>
   <br>
 
- <p span style="font-size:16px; font-weight: bold;"><span style="font-size:20px">▷</span>&nbsp;&nbsp;&nbsp;&nbsp;En puerperio a mi y a mi pareja nos parecia raro que cada cosa que hacia la trabajadora social lo interpretaba como algo nefasto</p>
+ <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Hospitalizada en puerperio por influencia de mis padres, la trabajadora social interpretaba mal todo lo que yo hacia</p>Informó que no lo quize tener en brasos a mi bebe. Que no lo atendía, que le negue la lactancia.<br>
+ <br>
  
+  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:18px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Regimen de visitas: Hasta la fecha, hace 2 meses que no lo vemos a nuestro hijo.</p>Mi mamá tenia planeado quedarse con nuestro hijo antes de que naciera. Mintió que yo le creaba problemas en su casa durante las visitas. Que yo la discutia y maltrataba. Llegó a decir que yo bañaba a la guagua en agua casi hirviendo. Por su corta edad yo nunca bañe a mi bebé.
  
- 
- que no le quize tomar en mis brazos al bebe
- que no le atendia
  
  
