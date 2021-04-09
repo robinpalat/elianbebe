@@ -3,7 +3,7 @@ layout: page
 title: Escritos
 permalink: /yo_como_mama/
 custom_css: /assets/css/transc
-nav_order: 3
+nav_order: 4
 ---
 
 <table class="notable">
