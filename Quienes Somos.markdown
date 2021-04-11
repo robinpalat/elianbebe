@@ -6,13 +6,14 @@ nav_order: 2
 ---
 
 <table class="notable">
+<td>
+<img src="/elianbebe/assets/images/20200606_194653.jpg" alt="drawing" width="200"/>
+</td>
 <td><h2>Nosotros</h2>
 <h4>Robinson Palatnik Gualtieri</h4>
 <h1 class="western" align="left">&nbsp;</h1>
 </td>
-<td>
-<img src="/elianbebe/assets/images/20200606_194653.jpg" alt="drawing" width="200"/>
-</td>
+
 </table>
 
 
