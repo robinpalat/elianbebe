@@ -7,7 +7,7 @@ nav_order: 2
 
 <table class="notable">
 <td>
-<img src="/elianbebe/assets/images/20200606_194653.jpg" align="top" alt="drawing" width="100%"/>
+# <img src="/elianbebe/assets/images/20200606_194653.jpg" align="top" alt="drawing" width="100%"/>
 <br><br><br>
 </td>
 <td>
