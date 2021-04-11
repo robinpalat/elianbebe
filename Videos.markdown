@@ -2,6 +2,7 @@
 layout: page
 title: Videos
 permalink: /Videos/
+nav_order: 105
 ---
 
 
