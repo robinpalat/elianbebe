@@ -12,14 +12,12 @@ nav_order: 2
 </td>
 <td>
 <p style="text-align:justify">
-Somos Jaquelin y Robin, Padres de Elián. Jaquelin además tiene dos encantadores hijos más. Nos conocimos en Argentina el año 2000. Nacimos en la misma pequeña ciudad de Sauce Corrientes. Jaquelin volvió a Chile en el mismo año y nos reencontamos después de 19 años en Chile. Estamos juntos hace 2 años. Vivimos en la casa propiedad de Jaquelin. Yo trabajo a pocas cuadras en una panaderia y también en la casa con un servicio técnico. Nosotros, como toda pareja típica, nos gusta pasar el tiempo juntos, compartir momentos, salir. Nos reimos mucho y nos tenemos mucha confianza el uno con el otro. Somos tranquilos. Muy preocupados por nuestra vida a futuro. Ambos nos sentimos muy contentos con nuestra relación a pesar de los problemas.
-<br><br>
- — Robinson
-
+Somos Maria Jaquelin Ramirez Ojeda y Robinson Palatnik Gualtieri, Padres de Elián. Jaquelin además tiene dos encantadores hijos más. Nos conocimos en Argentina en el año 2000. Nacimos en la misma ciudad de Sauce Corrientes. Jaquelin volvió a Chile en el mismo año y nos reencontamos después de 19 años en Chile. Estamos juntos hace 2 años. Vivimos en la casa propiedad de Jaquelin. Yo trabajo a pocas cuadras en una panaderia y también en la misma casa con un servicio técnico. Nosotros, como toda pareja típica, nos gusta pasar el tiempo juntos, compartir momentos, salir. Nos reimos bastante y nos tenemos mucha confianza el uno con el otro. Somos tranquilos. Muy preocupados por nuestra vida a futuro. Ambos nos sentimos muy contentos con nuestra relación a pesar de los problemas que tenemos ahora.
+<br>
 </p>
 </td>
 
 </table>
-
+ — Robinson
 
 
