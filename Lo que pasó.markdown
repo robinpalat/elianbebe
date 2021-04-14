@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lo que pasó
+title: Lo nos que pasó
 permalink: /loquepaso/
 custom_css: /assets/css/transc
 nav_order: 3
