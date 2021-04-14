@@ -13,7 +13,6 @@ nav_order: 3
 <h4>Maria Jaqueline Ramires Ojeda</h4>
 </td>
 <td>
-<img src="/elianbebe/assets/images/arana_halloween_01.png" alt="drawing" width="60"/>
 </td>
 </table>
 <br>
