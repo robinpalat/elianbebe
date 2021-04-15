@@ -25,17 +25,20 @@ function contrasena() {
 		var value = readCookie('aut');
 		
 		if (value != "true") {
-	
-			let passw = prompt('Ingrese contraseña:', );
+			
+			
+		
+			let passw = prompt("\r\nSi necesita una clave para ingresar, por favor solicítela a este número de Whatsapp: +56 9 20302230\r\n\r\n\r\n\r\nIngrese contraseña:\r\n", );
 		
 			if (passw == 20783) {
 				
 				alert("Contraseña correcta");
                 document.cookie="aut=" + "true; max-age=6000; path=/";
+                window.location="index.html"
            
 				
 				} else {
-					alert('Contraseña incorrecta'); window.location="404.htm"
+					alert('Contraseña incorrecta'); window.location="404.html"
 				}
 			}
   
