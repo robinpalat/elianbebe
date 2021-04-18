@@ -2,7 +2,7 @@
 layout: page
 title: 13 de Febrero
 permalink: /13febrero/
-parent: Transcripciones de audios
+parent: Grabaciones de audios
 nav_order: 4
 custom_css: /assets/css/transc
 

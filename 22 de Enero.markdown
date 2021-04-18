@@ -2,7 +2,7 @@
 layout: page
 title: 22 de Enero
 permalink: /22enero/
-parent: Transcripciones de audios
+parent: Grabaciones de audios
 nav_order: 2
 custom_css: /assets/css/transc
 

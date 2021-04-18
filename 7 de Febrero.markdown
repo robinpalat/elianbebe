@@ -2,7 +2,7 @@
 layout: page
 title: 7 de Febrero
 permalink: /7febrero/
-parent: Transcripciones de audios
+parent: Grabaciones de audios
 nav_order: 3
 custom_css: /assets/css/transc
 

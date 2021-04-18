@@ -2,7 +2,7 @@
 layout: page
 title: 15 de Enero
 permalink: /15enero/
-parent: Transcripciones de audios
+parent: Grabaciones de audios
 nav_order: 1
 custom_css: /assets/css/transc
 
