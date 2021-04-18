@@ -8,7 +8,7 @@ nav_order: 4
 
 <table class="notable">
 <td><h2>Yo Como Mamá - Millarai</h2>
-<h4>Maria Jaqueline Ramires Ojeda</h4>
+<h4>Jaquelin</h4>
 <h1 class="western" align="left">&nbsp;</h1>
 </td>
 <td>
@@ -25,7 +25,7 @@ nav_order: 4
 <hr>
 
 <h2>Exámen de detección de drogas en orina</h2>
-<h4>Robinson Palatnik Gualtieri</h4>
+<h4>Robinson</h4>
 <h1 class="western" align="left">&nbsp;</h1>
 
 <p style="text-align:justify">
