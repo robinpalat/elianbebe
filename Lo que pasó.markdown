@@ -39,7 +39,7 @@ nav_order: 3
 
   <tr>
     <td> </td>
-    <td>  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Salí bien en los exámenes médicos solicitados por matrona</p>
+    <td>  <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Salieron bien los exámenes médicos solicitados por matrona</p>
   <br>
  <br></td>
     <td> </td>
@@ -76,7 +76,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi padres me molestaban mucho cuando supieron del embarazo</p>Me senti agraviada y ofendida después de la duras palabras de mi madre. Tuve que pedir apoyo al COSAM.<br>
+ <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi padres se molestaron cuando supieron del embarazo</p>Me senti agraviada y ofendida después de la duras palabras de mi madre. Cuando estaba yo sola en mi casa mi padre llegaba y me maltrataba sicologicamente. Tuve que pedir apoyo al COSAM.<br>
    <br>
 	</td>
     <td> </td>
@@ -85,7 +85,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Semanas antes de la fecha de parto, Aparecio mi mama. Insistía que el parto se asista en "El Paula"</p> Mis padres eran bien conocidos del asistente social de ese Hospital, el funcionario los apoyo en el caso de mi hija Millarai. Yo sospechaba que mis padres querian manejar ese momento de mi vida y dejar de lado a mi pareja. Yo queria vivirlo junto a mi pareja. Por no queria ir a "El Paula"<br>
+ <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Semanas antes de la fecha de parto mi madre por teléfono me insistía que el parto se asista en "El Paula"</p> Mis padres eran bien conocidos del asistente social de ese Hospital, el funcionario los apoyo en el caso de mi hija Millarai. Yo sospechaba que mis padres querian manejar ese momento de mi vida y dejar de lado a mi pareja. Yo queria vivirlo junto a mi pareja. Por no queria ir a "El Paula"<br>
    <br>
 	</td>
     <td> </td>
@@ -95,7 +95,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Año 2021 — Nuestro Hijo Nacio el 2 de enero en el hospital el Cármen</p>
+ <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Año 2021 — Nuestro Hijo Nacio el 2 de enero en el hospital "El Cármen"</p>
  Ese dia le dije por teléfono a mi madre que yo estaba hospitalizada en "El Carmen".
  Ella enfadada me dijo: "para que te fuiste ahí si en el Paula te estaban esperando con camilla y todo" eso porque Semanas antes, ellos ya habian hablado con el asistente social de "El Paula".<br>
   <br>
@@ -115,7 +115,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Estando yo hospitalizada en puerperio la trabajadora social, influenciada por mis padres, interpretaba mal todo lo que yo hacía</p>La funcionaria realizó un informe social dónde aseguraba de que no lo quize tener en brasos a mi bebé. Que no lo atendía, que le negue la lactancia. Además solicitó un test de droga sin fundamento muy claro. Dando este un resultado presunto positivo, siendo que nunca consumimos drogas.<br>
+ <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Estando yo hospitalizada en puerperio la trabajadora social, influenciada por mis padres, malinterpretaba todo lo que yo hacía</p>La funcionaria realizó un informe social dónde aseguraba de que no lo quize tener en brasos a mi bebé. Que no lo atendía, que le negue la lactancia. Además solicitó un test de droga sin fundamento muy claro. Dando este un resultado presunto positivo, siendo que nunca consumimos drogas.<br>
 	</td>
     <td> </td>
   </tr>
@@ -134,7 +134,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Regimen comunicacional: Hace mucho que no lo vemos a nuestro hijo</p>Mi Madre ya durante mi embarazo habia planeado quedarse con nuestro hijo. Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Llegó a decir que yo bañaba a la guagua en agua casi hirviendo. Estas mentiras armó con su abogado para presentarlas en la audiencia para lograr suspender las visitas a mi bebé. <br><br><font style="color:#FF5B00;font-size:15px">Desde el 16 de febrero, dia de la audiencia, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos y además se quiere quedar definitivamente con mi bebé. Dice a todos que le salvó la vida, que nació drogado, que mi pareja es violador de niños, que yo estoy loca, ect.</font>
+ <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Régimen comunicacional: Hace mucho que no vemos a nuestro hijo</p>Mi Madre ya durante mi embarazo habia planeado quedarse con nuestro hijo. Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Llegó a decir que yo bañaba a la guagua en agua casi hirviendo. Estas mentiras armó con su abogado para presentarlas en la audiencia para lograr suspender las visitas a mi bebé. <br><br><font style="color:#FF5B00;font-size:15px">Desde el 16 de febrero, dia de la audiencia, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos y además se quiere quedar definitivamente con mi bebé. Dice a todos que le salvó la vida, que nació drogado, que mi pareja es violador de niños, que yo estoy loca, ect.</font>
 	</td>
     <td> </td>
   </tr>
