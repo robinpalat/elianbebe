@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Escritos
-permalink: /yo_como_mama/
+title: Lo que pensamos
+permalink: /loquepensamos/
 custom_css: /assets/css/transc
 nav_order: 4
 ---

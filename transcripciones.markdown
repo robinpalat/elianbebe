@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Transcripciones de audios
-permalink: /transcripciones/
+title: Grabaciones de audios
+permalink: /grabaciones/
 has_children: true
 ---
 
