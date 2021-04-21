@@ -115,7 +115,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Estando yo hospitalizada en puerperio la trabajadora social, influenciada por mis padres, malinterpretaba todo lo que yo hacía</p>La funcionaria realizó un informe social dónde aseguraba de que no lo quize tener en brasos a mi bebé. Que no lo atendía, que le negue la lactancia. Además solicitó un test de droga sin fundamento muy claro. Dando este un resultado presunto positivo, siendo que nunca consumimos drogas.<br>
+ <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Estando yo hospitalizada en puerperio la trabajadora social, influenciada por mis padres, malinterpretaba todo lo que yo hacía</p>La funcionaria realizó un informe social que fué presentado al tribunal de familia, dónde aseguraba de que no lo quize tener en brasos a mi bebé. Que no lo atendía, que le negue la lactancia. Además solicitó un test de droga sin fundamento muy claro. Dando este un resultado presunto positivo, siendo que nunca consumimos drogas.<br>
 	</td>
     <td> </td>
   </tr>
@@ -134,7 +134,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Régimen comunicacional: Hace mucho que no vemos a nuestro hijo</p>Mi Madre ya durante mi embarazo habia planeado quedarse con nuestro hijo. Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Llegó a decir que yo bañaba a la guagua en agua casi hirviendo. Estas mentiras armó con su abogado para presentarlas en la audiencia para lograr suspender las visitas a mi bebé. <br><br><font style="color:#FF5B00;font-size:15px">Desde el 16 de febrero, dia de la audiencia, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos y además se quiere quedar definitivamente con mi bebé. Dice a todos que le salvó la vida, que nació drogado, que mi pareja es violador de niños, que yo estoy loca, ect.</font>
+ <p span style="font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Régimen comunicacional: Hace mucho que no vemos a nuestro hijo</p>Mi Madre ya durante mi embarazo habia planeado quedarse con nuestro hijo. Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Llegó a decir que yo bañaba a la guagua en agua casi hirviendo. Estas mentiras armó con su abogado para presentarlas en la audiencia para lograr suspender las visitas a mi bebé. <br><br><font style="font-weight:bold;font-size:15px">Desde el 16 de febrero, dia de la audiencia, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos.<br><br> Se quiere quedar definitivamente con nuestros bebé.<br><br>Dice a todos que le salvó la vida, que nació drogado, que mi pareja es violador de niños, que yo estoy loca, ect.</font>
 	</td>
     <td> </td>
   </tr>
