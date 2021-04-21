@@ -36,7 +36,4 @@ El siguiente documento tiene un error de tipeo del funcionario de salud: colocó
 <br>
 
 
-<br>
-<img src="/elianbebe/assets/images/370570f2-0012-4b83-8273-b4ad74f3d8e2.jpeg" alt="COSAM" width="100%"/>
 
-<br>

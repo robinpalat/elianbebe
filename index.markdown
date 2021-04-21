@@ -6,6 +6,8 @@ description: ""
 permalink: /
 ---
 
+<div id="slider"></div>
+
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><img src="/elianbebe/assets/images/inicio.png" alt="drawing" width="100%"/> </div> </div> </div> </div>
 
 <br>
