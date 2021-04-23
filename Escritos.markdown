@@ -24,6 +24,23 @@ nav_order: 4
 
 <hr>
 
+
+
+<table class="notable">
+<td><h2>Las visitas a mi guagua</h2>
+<h4>Jaquelin</h4>
+<h1 class="western" align="left">&nbsp;</h1>
+</td>
+<td>
+<img src="/elianbebe/assets/images/visitas.png" alt="drawing" width="200"/>
+</td>
+</table>
+<p style="text-align:justify">
+Desde mediados de enero hasta el 16 de febrero, tuve la maravillosa oportunidad de estar con mi bebé. Eso se dió en la casa de mis padres.
+Durante esas visitas yo disfrutaba de la unión tan especial entre una mamá y su bebé. Yo se que el támbien lo disfrutaba. Me miraba mucho a los ojos y le gustaba que le hablara o jugara con el. No estaba tranquilo si no lo tomaba en brazos. Yo lo veía tranquilo conmigo, cuando se apoyaba en mi pecho suspiraba aliviado y luego quedaba dormido. En aquellos días tenía la necesidad imperiosa de compartir esos momentos por videollamada con mi pareja. Me gustaba encontrar — o al menos a mi me parecia así — razgos físicos de el en el bebé. Le comenté a el mi preocupacion de que el bebé se asustaba mucho cuando cerraban bruzcamente la puerta del dormitorio. Tambien que estaba soportando 2 televisores todo el día encendidos con volumen alto, uno en la habitacion donde estaba el y otro en el comedor. Además estaba la tablet de mi hija siempre con volumen alto. Nosotros como padres comprendimos lo injusto que era para el bebé no estar bien cuidado. No con el esmero propio de los padres. Nos sentimos desesperados e impotentes cuando nos enteramos de que mi hija Millarai de 7 años le alzaba al bebe y lo cambiaba de lugar como a una muñeca. Un día le encontré con un pequeño chichón en la frente. Supe que la millarai estaba celosa y le arrojaba juguetes. Yo le comentaba a mi madre de estas cosas, pero ella no le daba importancia. De todas formas yo sabia que estaba en la casa de ella y trataba de no molestar. Ya los conocía. Son realmente problematicos.<p><br>
+<hr>
+
+
 <h2>Exámen de detección de drogas en orina</h2>
 <h4>Robinson</h4>
 <h1 class="western" align="left">&nbsp;</h1>
@@ -33,25 +50,29 @@ Mientras Jaquelin se encontraba hospitalizada en maternidad, le informan que su 
 </p>
 
 <br>
-A continuación presento el resumen y la conclución de un extenso artículo de la renombrada Mayo Clinic que expone la probabilidad de falsos positivos en exámenes toxicologicos de orina y las condiciones de que estos tests deben realizarse para que sus resultados puedan tomarse como válidos.
+A continuación presento la conclución de un extenso artículo de la renombrada Mayo Clinic que expone la probabilidad de falsos positivos en exámenes toxicológicos de orina y las condiciones de que estos tests deben realizarse para que sus resultados puedan tomarse como válidos.
+
+<br>
+<br>
+<br>
 
 
+<blockquote cite="https://www.mayoclinicproceedings.org/article/S0025-6196(11)61120-8/fulltext">
 
-## Exámen de detección de drogas en orina: Guía práctica para médicos
+
+<h2>Exámen de detección de drogas en orina: Guía práctica para médicos</h2>
 
 <h4>Karen E. Moeller, Pharmd, BCPP - Kelly C. Lee, Pharmd, BCPP - Julie C. Kissack, Pharmd, BCPP</h4>
 
-### Resumen <br><br>
-<p style="text-align:justify">
-Los exámenes de detección de drogas, comúnmente utilizadas en la atención médica, el lugar de trabajo y los entornos criminales, se han generalizado durante la última década. Los exámenes de detección de drogas en orina han sido el método más común de análisis debido a la facilidad de muestreo. La simplicidad de uso y el acceso a resultados rápidos han aumentado la demanda y el uso de inmunoensayos; sin embargo, estos ensayos no son perfectos. Los resultados falsos positivos de los inmunoensayos pueden tener consecuencias médicas o sociales graves si los resultados no se confirman mediante un análisis secundario, como la cromatografía de gases y la espectrometría de masas. Las pautas del Departamento de Salud y Servicios Humanos para el lugar de trabajo requieren pruebas de las siguientes 5 sustancias: anfetaminas, cannabinoides, cocaína, opiáceos y fenciclidina. Este artículo analiza los posibles resultados falsos positivos y falsos negativos que se producen con los inmunoensayos de estas sustancias y con el alcohol, las benzodiazepinas y los antidepresivos tricíclicos. Se discuten otros escollos, como la adulteración, sustitución y dilución de muestras de orina. Los conceptos pragmáticos resumidos en este artículo deberían minimizar los riesgos potenciales de malinterpretar las pruebas de detección de drogas en la orina.
-</p>
-### Conclusión <br><br>
-<p style="text-align:justify">
-Los exámenes de detección de drogas en orina son herramientas valiosas en la atención médica, el lugar de trabajo y otros entornos. La interpretación precisa de la validez y confiabilidad de estas herramientas es fundamental para tomar decisiones que, en última instancia, tendrán ramificaciones sociales y legales. Comprender cómo evaluar los exámenes toxicologicos de orina en busca de adulteraciones, sustituciones y posibles resultados falsos positivos es complejo pero vital para interpretar estos resultados. Un historial detallado de medicamentos, incluidos medicamentos recetados, de venta libre y a base de hierbas, y
-el conocimiento de los medicamentos que reaccionan de forma cruzada con los exámenes toxicologicos de orina es esencial. Los médicos deben ser conscientes de que las pruebas preliminares realizadas por inmunoensayos son solo presuntivas y que los factores y variables externos pueden influir en estos resultados. Se requiere una prueba de confirmación (p. Ej., GC-MS) antes de que se puedan tomar decisiones sobre la base de los exámenes toxicologicos de orina. Además, los exámenes toxicologicos de orina no proporcionan información sobre el tiempo transcurrido desde la última ingestión, la duración total del abuso o el estado de intoxicación. Por lo tanto, es importante que los profesionales de la salud comprendan las limitaciones de los exámenes toxicologicos de orina y evalúen adecuadamente los resultados utilizando información objetiva y clínica. Las interpretaciones inexactas de estas herramientas pueden tener graves consecuencias y deben minimizarse.
-</p>
+ <h3>Conclusión</h3> <br>
+Los exámenes de detección de drogas en orina son herramientas valiosas en la atención médica, el lugar de trabajo y otros entornos. La interpretación precisa de la validez y confiabilidad de estas herramientas es fundamental para tomar decisiones que, en última instancia, tendrán ramificaciones sociales y legales. Comprender cómo evaluar los exámenes toxicológicos de orina en busca de adulteraciones, sustituciones y posibles resultados falsos positivos es complejo pero vital para interpretar estos resultados. Un historial detallado de medicamentos, incluidos medicamentos recetados, de venta libre y a base de hierbas, y
+el conocimiento de los medicamentos que reaccionan de forma cruzada con los exámenes toxicológicos de orina es esencial. Los médicos deben ser conscientes de que las pruebas preliminares realizadas por inmunoensayos son solo presuntivas y que los factores y variables externos pueden influir en estos resultados. Se requiere una prueba de confirmación (p. Ej., GC-MS) antes de que se puedan tomar decisiones sobre la base de los exámenes toxicológicos de orina. Además, los exámenes toxicológicos de orina no proporcionan información sobre el tiempo transcurrido desde la última ingestión, la duración total del abuso o el estado de intoxicación. Por lo tanto, es importante que los profesionales de la salud comprendan las limitaciones de los exámenes toxicológicos de orina y evalúen adecuadamente los resultados utilizando información objetiva y clínica. Las interpretaciones inexactas de estas herramientas pueden tener graves consecuencias y deben minimizarse.
+
+
+</blockquote>
 
 <br>
-Texto extraido de: [Urine Drug Screening: Practical Guide for Clinicians](https://www.mayoclinicproceedings.org/article/S0025-6196(11)61120-8/fulltext)	
+
+Texto extraido de: [Urine Drug Screening: Practical Guide for Clinicians](https://www.mayoclinicproceedings.org/article/S0025-6196(11%2961120-8/fulltext)	
 
 <br>

@@ -72,7 +72,7 @@ custom_css: /assets/css/transc
 
 <div class="Div_a">
 <iframe src="https://archive.org/embed/la-abogada-del-sename-le-va-a-yudar-al-nefer-para-que-quede-con-nosotros-el-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<p class="western" lang="es-ES" align="left"><strong>Sra. Graciela: </strong>La abogada del SENAME le va a ayudar al Neffer (SU ABOGADO) para que quede con nosotros.</p>
+<p class="western" lang="es-ES" align="left"><strong>Don Ricardo: </strong>La abogada del SENAME le va a ayudar al Neffer (SU ABOGADO) para que quede con nosotros.</p>
 </div>
 <br>
 

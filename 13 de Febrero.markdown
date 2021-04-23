@@ -31,7 +31,7 @@ custom_css: /assets/css/transc
 
 <div class="Div_a">
 <iframe src="https://archive.org/embed/el-martes-tambien-vas-a-ir-a-tener-que-hablar-en-la-panaderiasino-vas-voy-a-ir-yo" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<p><strong>Sra. Graciela:</strong>&nbsp;Y el martes tambi&eacute;n vas a ir hablar... Si vos no vas a ir a hablar voy a ir yo a hablar a la panederia. Yo no voy a andar en boca de la gente que el weon [INAUDIBLE]</p>
+<p><strong>Sra. Graciela:</strong>&nbsp;Y el martes tambi&eacute;n vas a ir hablar... Si vos no vas a ir a hablar voy a ir yo a hablar a la panederia. Yo no voy a andar en boca de la gente por el weon [INAUDIBLE]</p>
 </div>
 <br>
 

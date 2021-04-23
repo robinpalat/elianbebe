@@ -6,47 +6,167 @@ has_children: true
 nav_order: 51
 ---
 
-<h2>Acerca de las grabaciones de audio</h2>
+
+<h2>Como obtuvimos las grabaciones</h2>
 <h4>Jaquelin</h4>
 
 <br>
 <p style="text-align:justify">
-Desde mediados de enero hasta el 16 de febrero, tuve la oportunidad de estar con mi bebé en la casa de mis padres.
-Durante esas visitas disfrutábamos juntos de la unión tan especial entre una mamá y su bebé. El me miraba mucho a los ojos y le gustaba que le hablara o jugara con el. No estaba tranquilo si no lo tomaba en brazos. Yo lo veía tranquilo conmigo, cuando se apoyaba en mi pecho suspiraba aliviado y luego quedaba dormido. En esos momentos le comente a mi pareja por video llamada mi preocupacion porque el bebe se asustaba cuando cerraban bruzcamente la puerta del dormitorio. Que estaba soportando 2 televisores todo el día encendidos con volumen alto, uno en la habitacion donde estaba el y otro en el comedor, además también la tablet de mi hija siempre con volumen alto. También me preocupo mucho cuando me enteré de que mi hija Millarai de 7 años le alzaba al bebe y lo cambiaba de lugar. Un día le encontré con un pequeño chichón en la frente. Supe que la millarai estaba celosa y le arrojaba juguetes. Yo me aguantaba las ganas de hablarle de estas cosas a mi madre. Trataba de no molestar. Aunque si le dije que vigilara a la Millarai para que no le alze a la guagua. También eso mismo recomendé a mi hijo Mauricio.<p><br>
+Las grabaciones las obtuvimos durante las semanas que visite a mi bebé en la casa de mi padres. Fue de la siguiente manera: De vez en cuando a mi hija se le agotaba la batería del teléfono y me pedía el mio para mirar sus monos. Un día lleve otro teléfono que no usaba de mi casa para darle a ella y asi yo podia ocupar el mio. Aveces olvidada ese teléfono en casa de mis padres o mi hija misma jugando lo escondía en algún cajón. Cuando lleve el teléfono a casa, con mi pareja descubrimos que habían grabaciones de sonido de varias horas de duración. Al parecer mi hija jugando, además de sacar fotos y videos, habia dejado activada la grabadora. Estas grabaciones fueron muy importantes para nosotros porque nos dimos cuenta de muchas cosas. Decidimos recortar las partes más importantes de esos audios y presentarlas aquí.<p><br>
 <hr>
-<h2>Como las obtuvimos</h2>
-<h4>Jaquelin</h4>
-
-<br>
-<p style="text-align:justify">
-De vez en cuando a mi hija se le agotaba la batería del teléfono y me pedía el mio para mirar sus monos. Un día lleve otro teléfono que no usaba de mi casa para darle a ella y asi yo podia ocupar el mio. Aveces olvidada ese teléfono en casa de mis padres o mi hija misma jugando lo escondía en algún cajón. Cuando lleve el teléfono a casa, con mi pareja descubrimos que habían grabaciones de sonido de varias horas de duración. Al parecer mi hija jugando, además de sacar fotos y videos, habia dejado activada la grabadora. Estas grabaciones fueron muy importantes para nosotros porque nos dimos cuenta de muchas cosas. Decidimos recortar las partes más importantes de esos audios y presentarlas aquí.<p><br>
-<hr>
-<h2>Como entender las grabaciones</h2>
+<h2>Entendiendo las grabaciones</h2>
 <h4>Robinson</h4>
 <br>
-<p style="text-align:justify">En las grabaciones se escuchan principalmente a los abuelos maternos: Graciela y Ricardo<br><br>
-Mediante la escucha de estas conversaciones se puede dilucidar la verdadera intención de ellos. 
-En realidad la promotora es la abuela, ella es la autoridad en la familia. El abuelo solo actua de facilitador, de medium. Esta señora "manipula como respira". Manipular, en ella, es el síntoma de un trastorno psicológico. Como esta bien documentado en psicologia; Varios trastornos dan lugar a conductas obsesivas y por medio de la práctica obsesiva de esa conducta se llega a un estado de maestria, que se traduce en una gran habilidad para algo. (un ejemplo famoso: el artista Van Gogh) Con esto en mente en las grabaciones se pueden apreciar, como ella manipula la mayor parte del tiempo, a su marido, a sus hijos, a los vecinos, a su nieto y a los asistentes sociales.
+<p style="text-align:justify">En las grabaciones se escuchan principalmente las voces a los abuelos maternos: Graciela y Ricardo.<br>Mediante la escucha de estas conversaciones se puede probar la mala intención de los abuelos.
+La promotora es la abuela, es la autoridad en la familia. El abuelo solo actua de facilitador. La Sra. Graciela es hábil manipulando. Quizás en ella manipular sea la respuesta de algún trastorno psicológico. En las grabaciones se puede apreciar como ella manipula la mayor parte del tiempo, a su marido, a sus hijos, vecinos, a su nieto y a lo más dañino para nosotros: a los asistentes sociales. El trastorno es evidente cuando se tiene en cuenta que ella cortó bruscamente la relación de una mamá con su recién nacido. Solo por carpricho. Es a su propia hija a quien hace ese daño. Su hija, mi pareja, no la molesto en nada, simplemente no siguio sus órdenes. Para acultar tan perversa acción a los ojos de los demás, la sra. Graciela calumnia a su hija. Culpa de todo. La quiere internar en un siquiatrico. 
 
-la manipulación esta relacionada con el control, con la autoridad, en su defecto con el capricho, la testarudez.<br><br>
+Por lo que me informe en internet, la manipulación en general está relacionada con el control, con la autoridad, con el capricho, la testarudez.<br><br>
+En el siguiente audio se aprecia como a ella le molesta sobremanera que Jaquelin le de opinión sobre la guagua. Por eso luego deja claro su deseo de ver presos a los padres. La presencia de los padres le acusa a la señora Graciela de que ella no es la mamá de los niños. 
+<div class="Div_a" >
+<iframe src="https://archive.org/embed/yo-le-digo-al-ruso-o-hacen-algo-o-no-se-yo-quiero-presos-a-los-dos-los-dos-padres-del-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p><strong>Sra. Graciela:</strong>&nbsp;No, ella te dice: déjalo dormir nomás, se va a resfriar me dice, esta estornudando... se va a resfriar me dijo. No, yo le digo al Ruso: ¡ustedes! ¡o hacen algo o nose...! &iexcl;Yo los quiero presos a los dos!</p>
+</div>
+<br>
 
-En las grabaciones por ejemplo, llega a decir que ella le salvó la vida a la guagua. En ese mismo sentido, pidió a todos sus conocidos ropa usada de guagua, para que hacer creer que ella rescato a la guagua de padres irresponsables. Siendo que a la guagua nunca le falto ropa.<br><br>
+En las grabaciones por ejemplo, llega a decir que ella le salvó la vida a la guagua. Pidió a sus vecinos ropa usada de guagua, támbien lo mismo a sus otros hijos. Pidio leche a la asistente social del consultorio Voullieme y a la asistente social del hospital el Carmen. Todo esto para hacer creer que somoS padres irresponsables. Siendo que al bebé nunca le falto ropa y siempre nos hicimos cargo de los pañales y la leche.<br>
+<br>
+<div class="Div_a">
+<iframe src="https://archive.org/embed/la-abuela-te-salvo-la-vida" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p style='line-height: 100%;text-align: left;'><strong>Sra. Graciela:&nbsp;</strong><span style="font-weight: normal;">P</span>orque la abuela le salvo la vida al nenito... chinito. O sino iba a ir con una enfermera cochina por ah&iacute;. Mi bebe... mi pajarito.</p>
+</div>
+<br>
 
-Esta señora como se escuchan en estas grabaciones pasa largo tiempo monologando, elucubrando, exteriorizando su pensamiendo. Analizando los pro y los contra de tal o cual acción o hechos que le beneficiarán para quedarse definitivamente con el bebé. Esta obsesionada. Autoconvenciendose de sus mentiras, va materializando el pesonaje nefasto que creo de su hija. Usa a su marido para autoavalarze. Entre los dos presentan a su hija en todos lados como un problema. La lastima ver feliz a su hija. Le molesta que haga una vida normal. No soporta que se independize emocional y economicamente de ella y se aleje de su zona de control. <br><br>
+Aún tenemos en nuestra casa reservas de pañales y leche que no pudimos ir a dejar porque no nos permite acercarnos a la casa y no nos atiende por ningún medio.<br>
+<br>
+  <div class="Div_a">
+<iframe src="https://archive.org/embed/si-es-la-negra-la-yaquelinal-telefono-no-eh" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p style='margin-bottom: 0in;text-align: left;'>[TELEFONO SONANDO] ....</p>
+<p style='margin-bottom: 0in;text-align: left;'><strong>Don Ricardo:</strong><strong>&nbsp;</strong><span style="font-weight: normal;">&iexcl;Si es a Negra no eh!</span></p>
+<p style='margin-bottom: 0in;text-align: left;'><strong>Sra Graciela:&nbsp;</strong><span style="font-weight: normal;">&iquest;Quien es? &iexcl;Si es la Negra no eh!</span></p>
+<p style='margin-bottom: 0in;text-align: left;'><strong>Mauricio:&nbsp;</strong><span style="font-weight: normal;">Dice... Yaquelin.</span></p>
+<p style='margin-bottom: 0in;text-align: left;'><strong>Sra Graciela:&nbsp;</strong><span style="font-weight: normal;">Yo no le atiendo a la&nbsp;</span><span style="font-weight: normal;">culeada.</span><span style="font-weight: normal;">&nbsp;La wevona es pue. ... Cada rato llama.</span></p>
+<p style='margin-bottom: 0in;text-align: left;font-weight: normal;'>[TELEFONO SONANDO NUEVAMENTE] ...</p>
+</div>
+<br>
+
+
+<div class="Div_a">
+<iframe src="https://archive.org/embed/te-salvamos-la-vida-pajarito" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p style='line-height: 100%;text-align: left;'><strong>Sra. Graciela:&nbsp;</strong><span style="font-weight: normal;">L</span>e salvamos la vida al pajarito&hellip;</p>
+<p style='line-height: 100%;text-align: left;'></p>
+<p style='line-height: 100%;text-align: left;'><strong>Don Ricardo:&nbsp;</strong><span style="font-weight: normal;">D</span>icen que hacemos negocio, lo &uacute;nico que hacemos es protegerlos . La concha de su madre. La reconcha de su madre.</p>
+</div>
+<br>
+Se nota enfurecido a don Ricardo pero en realidad esta siendo funcional a su esposa, "le sigue la corriente". Días antes habia asegurado que era un negocio cobrar la manuntención de los niños.<br>
+<br>
+<div class="Div_a">
+<iframe src="https://archive.org/embed/cuando-le-digan-que-tiene-que-pagar" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p style='line-height: 100%;text-align: left;'><strong>Don Ricardo:&nbsp;</strong><span style="font-weight: normal;">C</span>uando le digan que tenga que pagar 12o mil pesos por el ni&ntilde;o y 60 mil, 70 mil pesos pesos por la Millarai mas! Ah&iacute; esta el negocio! Que se creen!</p>
+</div>
+<br>
+
+Esta señora como se escuchan en estas grabaciones pasa horas monologando, elucubrando. Viendo los pro y los contra de tal o cual cuestión que le beneficiará para quedarse definitivamente con el bebé. Esta obsesionada con ese tema. Le molesta sentirse obligada a aceptar el régimen de visitas.<br>
+<br>
+<div class="Div_a">
+<iframe src="https://archive.org/embed/mama-como-esa-no-dejo-ni-que-le-mire-al-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p><strong>Don Ricardo:</strong> Vamos a ir para Buin...<br /><strong>Sra. Graciela:</strong> Si, pero seg&uacute;n las&nbsp;visitas que vos acepte, porque si acept&aacute;s dos veces a la semana la visitas... Te obligan que tenga contacto con la mam&aacute;... &iexcl;estas cagado!, no pod&eacute;s ponerte en contra de... con all&aacute;. Por eso te digo que no es tan f&aacute;cil como vos ves. Al final de todo las visitas te condenan. Le exijen ser mam&aacute; a la "se&ntilde;ora"... &iexcl;No tiene que ser ni mam&aacute;! &iexcl;Cualquiera se abre de pierna y tiene un hijo! &iexcl;Yo si soy el juez no la dejo ni que le mire! &iexcl;Una clase de mama como esa no le dejo ni que le mire! &iexcl;Ni que que le mire! &iexcl;Ni que le toque! Ojal&aacute; yo fuera juez...</p>
+</div>
+<br>
+
+
+ Se autoconvence de sus mentiras para materializar el personaje problemático que creo de su hija. Usa a su familia para autoavalarze. Entre los dos padres presentan a su hija como un problema en todos lados.<br>
+ <br>
+ <div class="Div_a">
+<iframe src="https://archive.org/embed/hija-donde-anda-mi-hija-refiriendose-a-la-millaray.-la-negra-yaquelin-debe-estar-podrida-por-dentro" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p style='margin-bottom: 0in;text-align: left;'><strong>Sra Graciela:&nbsp;</strong>Mi hija donde anda mi hija, ah&iacute; esta mi hija.. ven mi hija... Yo digo que debe estar podrida por dentro, por todos lados, la Negra... Quien sabe que enfermedad tiene la negra.</p>
+<br>
+</div>
+<br>
+<div class="Div_a" >
+<iframe src="https://archive.org/embed/todo-lo-que-ella-yaquelin-ocupa-lavo-con-cloro" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p><strong>Sra. Graciela:</strong> No dormi toda la tarde porque con ella no se puede dormir pues. Toma caf&eacute; Ricardo. T&eacute; negro toma. todo lo que come, toma es malo weon. Los &ntilde;oquis no tenian sal. Vos sabes que m&aacute;s weona, le dije, vos no le sentis gusto a ninguna comida...</p>
+<p style='margin-bottom: 0in;text-align: left;'><strong>Don Ricardo:</strong>Ten&eacute;s cuidado weona</p>
+<p><strong>Sra. Graciela</strong>: Si pues, todo lo que ella ocupa lavo con cloro.</p>
+<p><strong>Don Ricardo:</strong> Mira que eso es el corona virus, aveces a estas cabras j&oacute;venes no le afecta, pero capaz que ella puede contagiar.</p>
+<p><strong>Sra. Graciela:</strong> Lo que me gustaria es hablar con el Anibal, que el Anibal le pregunte el al asistente social del pincheira, aver que enferm..como, de que esta enferma, si es verdad que esta an&eacute;mica o tiene otro problema. Porque igual una tiene que tener cuidado con las criaturas pues. Ella no te va a decir, &iexcl;porque es tan malvada! que capaz le dicen no te acerques a nadie y ella se acerca iagual viste. &iexcl;Porque es tan malvada!</p>
+<p>....</p>
+<p><strong>Don Ricardo:</strong> Est&aacute; rica la leche papa.</p>
+<p><strong>Sra. Graciela:</strong>&nbsp;Oye papito oye esta con sue&ntilde;o mi papuchi.</p>
+</div>
+<br>
+
+La anterior grabación se dilucida la casi desesperada intencion de quedarse con el bebé y deshacerse de la mamá. <br><br>
+La siguiente es muy peculiar: La Sra. Graciela hace mas de 25 años perdio un bebe en el parto, le falto oxígeno.
+Entonces ella le revela a su marido que ya fue condenada una vez cuando perdió su bebe. Porque tienen que condenarla de nuevo ahora si es que le quitan el nuevo bebe (nuestro hijo), Manipulacion o trauma? Esta manipulando a su marido, hablandole de cosas muy profundas. <br>
+<br>
+<div class="Div_a">
+<iframe src="https://archive.org/embed/entonces-yo-voy-a-tener-lastima-a-todos-y-yo-a-mi-ya-me-condenaron-cuando-murio-mi-guaguita" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p style='text-align: left;'><strong>Sra Graciela:&nbsp;</strong><span style="font-weight: normal;">&iquest;Entonces?&nbsp;</span><span style="font-weight: normal;">yo voy&nbsp;</span><span style="font-weight: normal;">tener lastima a todos &iquest;y&nbsp;</span><span style="font-weight: normal;">yo? &iquest;Y yo para cuando? No he estudiado no he hecho nada por mi, siempre he hecho por los dem&aacute;s. Ya me condenaron cuando me quitaron mi guaguita, porque me tiene que condenar de vuelta otra vez? Yo sufr&iacute; cuando muri&oacute; mi hija.</span></p>
+</div>
+<br>
+
+
+<div class="Div_a">
+<iframe src="https://archive.org/embed/van-a-pedir-internacion-para-la-negra" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p><strong>Don Ricardo:</strong> Capaz que van a pedir internaci&oacute;n para la Negra...</p>
+<p><strong>Sra. Graciela:</strong> Ojala, como le dije yo, a mi el COSAM no me sirve, porque el COSAM&hellip; cuando el Mauri era chico iba al COSAM. Ella, con el Mauri aveces iba al COSAM, nunca hicieron nada pues.</p>
+
+</div>
+<br>
+
+ 
+  No soporta que se independice de ella y se aleje de su zona de control. Hubo veces que la lastimo saber que su hija estaba bien o era feliz <br><br>
+  
+  
+  <div class="Div_a">
+<iframe src="https://archive.org/embed/el-martes-tambien-vas-a-ir-a-tener-que-hablar-en-la-panaderiasino-vas-voy-a-ir-yo" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p><strong>Sra. Graciela:</strong>&nbsp;Y el martes tambi&eacute;n vas a ir hablar... Si vos no vas a ir a hablar voy a ir yo a hablar a la panederia. Yo no voy a andar en boca de la gente por el weon [INAUDIBLE]</p>
+</div>
+<br>
+
+
+<div class="Div_a">
+<iframe src="https://archive.org/embed/voy-a-hablar-con-el-ruso...-tengo-una-preparadita" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p style='line-height: 100%;text-align: left;'><strong>Don Ricardo:&nbsp;</strong><span style="font-weight: normal;">V</span>oy a hablar con el ruso, voy a hablar clarito con el ruso de la&hellip;. como puedo hacer para, para ir Robin&hellip;Yo tengo una preparadita ...[INAUDIBLE]...</p>
+<p style='line-height: 100%;text-align: left;'></p>
+<p style='line-height: 100%;text-align: left;'><strong>Sra. Graciela:&nbsp;</strong><span style="font-weight: normal;">N</span>o, porque eso es venganza.</p>
+<p style='line-height: 100%;text-align: left;'></p>
+<p style='line-height: 100%;text-align: left;'><strong>Don Ricardo: &iexcl;</strong><span style="font-weight: normal;">N</span>o! &iexcl;Porque el no puede!</p>
+<p style='line-height: 100%;text-align: left;'></p>
+<p style='line-height: 100%;text-align: left;'><strong>Sra. Graciela:&nbsp;</strong><span style="font-weight: normal;">Y</span>a se, pero eso tenes que esperar para mas adelante pues weon, no ahora, mas adelante.</p>
+</div>
+<br>
+
+
+<div class="Div_a">
+<iframe src="https://archive.org/embed/ella-no-tiene-idea-que-nosotros-presentamos-papeles" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p><strong>Don Ricardo:</strong> Ella no tiene idea que nosotros presentamos todos esos papeles pues.</p>
+<p><strong>Sra. Graciela:</strong> No pu&eacute;, mejor que no sepa porque sino nos va a comer.</p>
+<p><strong>Don Ricardo:</strong> Imaginate que la cacharon todo all&aacute; en los tribunales, mas la carpeta del juzgado de la Millarai que lleve al carmen, ahora se agrego mas huevada, va a cagar wevona, capaz que el tribunal ni le mire.</p>
+<p><strong>Sra. Graciela:</strong> Seg&uacute;n lo que me dicen en el hospital pues.</p>
+<p><strong>Don Ricardo:</strong> Si pues.</p>
+<p><strong>Sra. Graciela:</strong> Porque todav&iacute;a no saben ellos.</p>
+<p><strong>Don Ricardo:</strong> Vos le dijiste a la carla eso no?, atrevida que es, desagradecida.</p>
+</div>
+<br>
+
+  
 
 Estos audios son para nosotros una prueba de lo que ya sospechabamos y no quedan dudas que usan la calumnia para obtener la tenencia definitiva del bebe. Sus nietos no son una carga para ellos como ellos lo presentan. Los niños dan propósito a su vida, se sienten con una segunda juventud. Ovbiamente se sienten mas importantes, la gente lo toman más en cuenta. los niños dan vida a su hogar. La señora Graciela duerme con la guagua y su nieta de 7 años...<p><br>
 
 <br>
 Nombre que aparecen en las grabaciones
 <br><br>
-Mauricio: Hijo mayor de mi pareja, 18 años<br>
+Mauricio: hijo mayor de mi pareja, 18 años<br>
 Millaray: hija de mi pareja, 7 años<br>
 Negra: a veces llaman asi a mi pareja<br>
+La tonta: a veces se refieren asi a mi pareja<br>
 Fredy: la ex pareja de mi pareja. Denunciado en varias ocasiones por VIF.<br>
-Ruso: Joven abogado, hermano de mi pareja<br>
-Neffer: Joven abogado, socio y amigo del hermano de mi pareja<br>
-Carla: Trabajadora social, hospital El Carmen
-
+Ruso: joven abogado, hermano de mi pareja<br>
+Neffer: joven abogado, socio y amigo del hermano de mi pareja<br>
+Carla: trabajadora social, hospital El Carmen
+El tonto, el zángano, el tipo: así se refieren a mi
 
 
 

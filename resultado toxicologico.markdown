@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Test Toxicológicos
-permalink: /testtoxicologicos/
+permalink: /testtoxicológicos/
 parent: Documentos
 nav_order: 4
 
