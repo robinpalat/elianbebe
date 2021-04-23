@@ -18,7 +18,7 @@ Las grabaciones las obtuvimos durante las semanas que visite a mi bebé en la ca
 <h4>Robinson</h4>
 <br>
 <p style="text-align:justify">En las grabaciones se escuchan principalmente las voces a los abuelos maternos: Graciela y Ricardo.<br>Mediante la escucha de estas conversaciones se puede probar la mala intención de los abuelos.
-La promotora es la abuela, es la autoridad en la familia. El abuelo solo actua de facilitador. La Sra. Graciela es hábil manipulando. Quizás en ella manipular sea la respuesta de algún trastorno psicológico. En las grabaciones se puede apreciar como ella manipula la mayor parte del tiempo, a su marido, a sus hijos, vecinos, a su nieto y a lo más dañino para nosotros: a los asistentes sociales. El trastorno es evidente cuando se tiene en cuenta que ella cortó bruscamente la relación de una mamá con su recién nacido. Solo por carpricho. Es a su propia hija a quien hace ese daño. Su hija, mi pareja, no la molesto en nada, simplemente no siguio sus órdenes. Para acultar tan perversa acción a los ojos de los demás, la sra. Graciela calumnia a su hija. Culpa de todo. La quiere internar en un siquiatrico. 
+La promotora es la abuela, es la autoridad en la familia. El abuelo solo actua de facilitador. La Sra. Graciela es hábil manipulando. Es muy probable que en ella manipular sea la respuesta de algún trastorno psicológico. En las grabaciones se puede apreciar como ella manipula la mayor parte del tiempo, a su marido, a sus hijos, vecinos, a su nieto y lo que resultó más dañino para nosotros: manipula a los asistentes sociales. El trastorno es quizás más evidente cuando se tiene en cuenta que ella cortó bruscamente la relación de una mamá con su recién nacido sirviéndose de las calumnias. Solo por carpricho. Es a su propia hija a quien hace ese daño. Su hija, mi pareja, no la molesto en nada, simplemente no siguio sus órdenes. Para acultar tan perversa acción a los ojos de los demás, la sra. Graciela calumnia a su hija. Culpa de todo. La quiere internar en un siquiatrico. 
 
 Por lo que me informe en internet, la manipulación en general está relacionada con el control, con la autoridad, con el capricho, la testarudez.<br><br>
 En el siguiente audio se aprecia como a ella le molesta sobremanera que Jaquelin le de opinión sobre la guagua. Por eso luego deja claro su deseo de ver presos a los padres. La presencia de los padres le acusa a la señora Graciela de que ella no es la mamá de los niños. 
@@ -57,7 +57,7 @@ Aún tenemos en nuestra casa reservas de pañales y leche que no pudimos ir a de
 <p style='line-height: 100%;text-align: left;'><strong>Don Ricardo:&nbsp;</strong><span style="font-weight: normal;">D</span>icen que hacemos negocio, lo &uacute;nico que hacemos es protegerlos . La concha de su madre. La reconcha de su madre.</p>
 </div>
 <br>
-Se nota enfurecido a don Ricardo pero en realidad esta siendo funcional a su esposa, "le sigue la corriente". Días antes habia asegurado que era un negocio cobrar la manuntención de los niños.<br>
+Se escucha indignado a don Ricardo pero en realidad esta siendo funcional a su esposa, "le sigue la corriente". Días antes habia asegurado que era un negocio cobrar la manuntención de los niños.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/cuando-le-digan-que-tiene-que-pagar" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -65,7 +65,7 @@ Se nota enfurecido a don Ricardo pero en realidad esta siendo funcional a su esp
 </div>
 <br>
 
-Esta señora como se escuchan en estas grabaciones pasa horas monologando, elucubrando. Viendo los pro y los contra de tal o cual cuestión que le beneficiará para quedarse definitivamente con el bebé. Esta obsesionada con ese tema. Le molesta sentirse obligada a aceptar el régimen de visitas.<br>
+Como se escuchan en estas grabaciones esta señora pasa horas monologando, elucubrando. Viendo los pro y los contra de tal o cual cuestión que le beneficiará para quedarse definitivamente con el bebé. Esta obsesionada con ese tema. Le molesta sentirse obligada a aceptar el régimen de visitas.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/mama-como-esa-no-dejo-ni-que-le-mire-al-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
