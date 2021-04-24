@@ -12,21 +12,47 @@ nav_order: 51
 
 <br>
 <p style="text-align:justify">
-Las grabaciones las obtuvimos durante las semanas que visite a mi bebé en la casa de mi padres. Fue de la siguiente manera: De vez en cuando a mi hija se le agotaba la batería del teléfono y me pedía el mio para mirar sus monos. Un día lleve otro teléfono que no usaba de mi casa para darle a ella y asi yo podia ocupar el mio. Aveces olvidada ese teléfono en casa de mis padres o mi hija misma jugando lo escondía en algún cajón. Cuando lleve el teléfono a casa, con mi pareja descubrimos que habían grabaciones de sonido de varias horas de duración. Al parecer mi hija jugando, además de sacar fotos y videos, habia dejado activada la grabadora. Estas grabaciones fueron muy importantes para nosotros porque nos dimos cuenta de muchas cosas. Decidimos recortar las partes más importantes de esos audios y presentarlas aquí.<p><br>
+Las grabaciones las obtuvimos durante el tiempo que visite a mi bebé en la casa de mis padres y fue de la siguiente manera: a mi hija de 7 años de vez en cuando se le agotaba la batería del teléfono y me pedía el mio para mirar sus monos. Un día se me ocurrió llevar otro teléfono que no usaba de mi casa para darle a ella y asi yo poder ocupar el mio tranquilamente. Aveces dejaba ese teléfono en casa de mis padres o mi hija misma jugando lo escondía en algún cajón. Cuando tube la oportunidad de llevar de nuevo el teléfono a mi casa, descubrí que habían grabaciones de audio de varias horas de duración. Al parecer mi hija jugando, además de sacar fotos y videos, habia  activado también la grabadora de voz. Asi quedaron registradas las conversaciones que se daban en el lugar donde estaba el teléfono... principalmente en la misma habitación donde estaba mi bebé.<p><br>
 <hr>
 <h2>Entendiendo las grabaciones</h2>
 <h4>Robinson</h4>
+<br><br>
+Nombre que aparecen en las grabaciones
+<br><br>
+Mauricio: hijo mayor de mi pareja, 18 años<br>
+Millaray: hija de mi pareja, 7 años<br>
+Negra: a veces llaman asi a mi pareja<br>
+La tonta: a veces se refieren asi a mi pareja<br>
+Fredy: la ex pareja de mi pareja. Denunciado en varias ocasiones por VIF.<br>
+Ruso: joven abogado, hermano de mi pareja<br>
+Neffer: joven abogado, socio y amigo del hermano de mi pareja<br>
+Carla: trabajadora social, hospital El Carmen<br>
+El tonto, el zángano, el tipo: así se refieren a mi
 <br>
-<p style="text-align:justify">En las grabaciones se escuchan principalmente las voces a los abuelos maternos: Graciela y Ricardo.<br>Mediante la escucha de estas conversaciones se puede probar la mala intención de los abuelos.
-La promotora es la abuela, es la autoridad en la familia. El abuelo solo actua de facilitador. La Sra. Graciela es hábil manipulando. Es muy probable que en ella manipular sea la respuesta de algún trastorno psicológico. En las grabaciones se puede apreciar como ella manipula la mayor parte del tiempo, a su marido, a sus hijos, vecinos, a su nieto y lo que resultó más dañino para nosotros: manipula a los asistentes sociales. El trastorno es quizás más evidente cuando se tiene en cuenta que ella cortó bruscamente la relación de una mamá con su recién nacido sirviéndose de las calumnias. Solo por carpricho. Es a su propia hija a quien hace ese daño. Su hija, mi pareja, no la molesto en nada, simplemente no siguio sus órdenes. Para acultar tan perversa acción a los ojos de los demás, la sra. Graciela calumnia a su hija. Culpa de todo. La quiere internar en un siquiatrico. 
+<br>
+<p style="text-align:justify">En las grabaciones se escuchan principalmente las voces a los abuelos maternos: Sra. Graciela y don Ricardo.<br>Mediante la escucha de estas conversaciones se puede lamentablemente probar la mala intención de los abuelos.
+La promotora es la abuela en realidad, ella es la autoridad en la familia. El abuelo solo actua de facilitador. La Sra. Graciela tiene habilidad para manipular. Quizás en ella manipular sea la respuesta de algún trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y, lo que resultó más dañino para nosotros: manipula a los asistentes sociales y funcionarios. La idea del trastorno quizas es más convincente cuando se tiene en cuenta que ella cortó violentamente el lazo de una madre y un lactante. Y Lo hizo en base de calumnias y mentiras. Y es a su propia hija a quién hace ese daño. Su hija, mi pareja, no la molesto en nada, simplemente no siguio sus órdenes. Para ocultar ese comportamiento a los ojos de los demás, la sra. Graciela me calumnia a  mi y a su hija. Nos culpa de todo lo que se le ocurre. Nos atribuye enfermedades. Nos quiere ver presos y en un siquiátrico a los dos. Se víctimiza. ect.
+Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada. Se mantuvo totalmente ausente. 
 
-Por lo que me informe en internet, la manipulación en general está relacionada con el control, con la autoridad, con el capricho, la testarudez.<br><br>
-En el siguiente audio se aprecia como a ella le molesta sobremanera que Jaquelin le de opinión sobre la guagua. Por eso luego deja claro su deseo de ver presos a los padres. La presencia de los padres le acusa a la señora Graciela de que ella no es la mamá de los niños. 
+<br>
+La manipulación en general está relacionada con el control, con la autoridad, con el capricho, la testarudez.<br><br>
+En el siguiente audio se aprecia como a ella le molesta mucho que Jaquelin le de opinión sobre la guagua. Por eso luego con ira dice querer ver presos a los padres. La presencia de los padres le acusa a la señora Graciela de que ella no es la mamá de los niños. Los padres la perturban. 
+
+<br>
+<div class="Div_a">
+<iframe src="https://archive.org/embed/no-vengas-a-opinar-vos" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p class="western" lang="es-CL" align="left"><strong>Yaquelin:</strong> Si es mi hijo yo lo tengo que venir a ver, igual aqu&iacute; como hacia en el hospital, cuando estaba conmigo.</p>
+<p class="western" lang="es-CL" align="left"><strong>Don Ricardo: </strong>No, no vengas a opinar tu</p>
+<p class="western" lang="es-CL" align="left"><strong>Sra Graciela: </strong>Si quer&eacute;s venir a hacer paz, no vengas a opinar aqu&iacute; negra.</p>
+<p class="western" lang="es-CL" align="left"></p>
+</div>
+<br>
 <div class="Div_a" >
 <iframe src="https://archive.org/embed/yo-le-digo-al-ruso-o-hacen-algo-o-no-se-yo-quiero-presos-a-los-dos-los-dos-padres-del-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p><strong>Sra. Graciela:</strong>&nbsp;No, ella te dice: déjalo dormir nomás, se va a resfriar me dice, esta estornudando... se va a resfriar me dijo. No, yo le digo al Ruso: ¡ustedes! ¡o hacen algo o nose...! &iexcl;Yo los quiero presos a los dos!</p>
 </div>
 <br>
+El "Ruso" es el apodo de su hijo, abogado. El lo asesora.<br><br>
 
 En las grabaciones por ejemplo, llega a decir que ella le salvó la vida a la guagua. Pidió a sus vecinos ropa usada de guagua, támbien lo mismo a sus otros hijos. Pidio leche a la asistente social del consultorio Voullieme y a la asistente social del hospital el Carmen. Todo esto para hacer creer que somoS padres irresponsables. Siendo que al bebé nunca le falto ropa y siempre nos hicimos cargo de los pañales y la leche.<br>
 <br>
@@ -57,7 +83,7 @@ Aún tenemos en nuestra casa reservas de pañales y leche que no pudimos ir a de
 <p style='line-height: 100%;text-align: left;'><strong>Don Ricardo:&nbsp;</strong><span style="font-weight: normal;">D</span>icen que hacemos negocio, lo &uacute;nico que hacemos es protegerlos . La concha de su madre. La reconcha de su madre.</p>
 </div>
 <br>
-Se escucha indignado a don Ricardo pero en realidad esta siendo funcional a su esposa, "le sigue la corriente". Días antes habia asegurado que era un negocio cobrar la manuntención de los niños.<br>
+Se nota enfurecido a don Ricardo pero en realidad esta siendo funcional a su esposa, "le sigue la corriente". Días antes habia asegurado que era un negocio cobrar la manuntención de los niños.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/cuando-le-digan-que-tiene-que-pagar" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -65,7 +91,7 @@ Se escucha indignado a don Ricardo pero en realidad esta siendo funcional a su e
 </div>
 <br>
 
-Como se escuchan en estas grabaciones esta señora pasa horas monologando, elucubrando. Viendo los pro y los contra de tal o cual cuestión que le beneficiará para quedarse definitivamente con el bebé. Esta obsesionada con ese tema. Le molesta sentirse obligada a aceptar el régimen de visitas.<br>
+Esta señora como se escuchan en estas grabaciones pasa horas monologando, elucubrando. Viendo los pro y los contra de tal o cual cuestión que le beneficiará para quedarse definitivamente con el bebé. Esta obsesionada con ese tema. Le molesta sentirse obligada a aceptar el régimen de visitas.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/mama-como-esa-no-dejo-ni-que-le-mire-al-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -156,17 +182,7 @@ Entonces ella le revela a su marido que ya fue condenada una vez cuando perdió 
 Estos audios son para nosotros una prueba de lo que ya sospechabamos y no quedan dudas que usan la calumnia para obtener la tenencia definitiva del bebe. Sus nietos no son una carga para ellos como ellos lo presentan. Los niños dan propósito a su vida, se sienten con una segunda juventud. Ovbiamente se sienten mas importantes, la gente lo toman más en cuenta. los niños dan vida a su hogar. La señora Graciela duerme con la guagua y su nieta de 7 años...<p><br>
 
 <br>
-Nombre que aparecen en las grabaciones
-<br><br>
-Mauricio: hijo mayor de mi pareja, 18 años<br>
-Millaray: hija de mi pareja, 7 años<br>
-Negra: a veces llaman asi a mi pareja<br>
-La tonta: a veces se refieren asi a mi pareja<br>
-Fredy: la ex pareja de mi pareja. Denunciado en varias ocasiones por VIF.<br>
-Ruso: joven abogado, hermano de mi pareja<br>
-Neffer: joven abogado, socio y amigo del hermano de mi pareja<br>
-Carla: trabajadora social, hospital El Carmen
-El tonto, el zángano, el tipo: así se refieren a mi
+
 
 
 
