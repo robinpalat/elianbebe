@@ -35,5 +35,10 @@ El siguiente documento tiene un error de tipeo del funcionario de salud: colocó
 
 <br>
 
+<br>
+<img src="/elianbebe/assets/images/urge5.jpeg" alt="Datos Urgencia" width="100%"/>
+
+<br>
+
 
 
