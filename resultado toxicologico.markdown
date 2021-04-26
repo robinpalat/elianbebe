@@ -11,15 +11,15 @@ nav_order: 4
 # Test toxicológico de orina 
 <br>
 
-### Fecha 3 / 1 / 2021. 
-Test a solicitud del hospital El Carmen.
+### Fecha 3/1/2021. 
+Test a solicitud del hospital El Carmen. FALSO POSITIVO
 
 <br>
 <img src="/elianbebe/assets/images/58e9e41e-eb97-4572-b525-dace09083ed3.jpeg" alt="drawing" width="100%"/>
 
 <br><br>
 
-### Fecha 5 / 1 / 2021. 
+### Fecha 5/1/2021. 
 Test a solicitud nuestra.
 
 <br>
