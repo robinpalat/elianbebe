@@ -12,7 +12,7 @@ nav_order: 51
 
 <br>
 <p style="text-align:justify">
-Las grabaciones las obtuvimos durante el tiempo que visite a mi bebé en la casa de mis padres y fue de la siguiente manera: a mi hija de 7 años de vez en cuando se le agotaba la batería del teléfono y me pedía el mio para mirar sus monos. Un día se me ocurrió llevar otro teléfono que no usaba de mi casa para darle a ella y asi yo poder ocupar el mio tranquilamente. Aveces dejaba ese teléfono en casa de mis padres o mi hija misma jugando lo escondía en algún cajón. Cuando tube la oportunidad de llevar de nuevo el teléfono a mi casa, descubrí que habían grabaciones de audio de varias horas de duración. Al parecer mi hija jugando, además de sacar fotos y videos, habia  activado también la grabadora de voz. Asi quedaron registradas las conversaciones que se daban en el lugar donde estaba el teléfono... principalmente en la misma habitación donde estaba mi bebé.<p><br>
+Las audios fueron grabados durante el tiempo que visite a mi bebé en casa de mis padres. Eso ocurrió de la siguiente manera: a mi hija de 7 años de vez en cuando se le agotaba la batería de su teléfono y me pedía el mio para mirar sus monos. Un día se me ocurrió llevar otro teléfono que no usaba de mi casa para darle a ella y asi yo poder ocupar el mio tranquilamente. Aveces dejaba ese teléfono en casa de mis padres o mi hija misma jugando lo escondía en algún cajón. Cuando tube la oportunidad de llevar de nuevo el teléfono a mi casa, descubrí que habían grabaciones de audio de varias horas de duración. Al parecer mi hija jugando, además de sacar fotos y videos, habia  activado también la grabadora de voz. Asi quedaron registradas las conversaciones que se daban en el mismo lugar donde estaba el teléfono... principalmente en la habitación donde estaba mi bebé.<p><br>
 <hr>
 <h2>Entendiendo las grabaciones</h2>
 <h4>Robinson</h4>
@@ -30,13 +30,15 @@ Carla: trabajadora social, hospital El Carmen<br>
 El tonto, el zángano, el tipo: así se refieren a mi
 <br>
 <br>
-<p style="text-align:justify">En las grabaciones se escuchan principalmente las voces a los abuelos maternos: Sra. Graciela y don Ricardo.<br>Mediante la escucha de estas conversaciones se puede lamentablemente probar la mala intención de los abuelos.
-La promotora es la abuela en realidad, ella es la autoridad en la familia. El abuelo solo actua de facilitador. La Sra. Graciela tiene habilidad para manipular. Quizás en ella manipular sea la respuesta de algún trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y, lo que resultó más dañino para nosotros: manipula a los asistentes sociales y funcionarios. La idea del trastorno quizas es más convincente cuando se tiene en cuenta que ella cortó violentamente el lazo de una madre y un lactante. Y Lo hizo en base de calumnias y mentiras. Y es a su propia hija a quién hace ese daño. Su hija, mi pareja, no la molesto en nada, simplemente no siguio sus órdenes. Para ocultar ese comportamiento a los ojos de los demás, la sra. Graciela me calumnia a  mi y a su hija. Nos culpa de todo lo que se le ocurre. Nos atribuye enfermedades. Nos quiere ver presos y en un siquiátrico a los dos. Se víctimiza. ect.
-Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada. Se mantuvo totalmente ausente. 
+<p style="text-align:justify">En las grabaciones se escuchan principalmente las voces a los abuelos maternos: Sra. Graciela y don Ricardo.<br>Mediante la escucha de estas conversaciones, lamentablemente se puede comprobar la mala intención de los abuelos. La mala intención de ellos es quedarse con nuestro hijo recién nacido.
+La que promueve eso es la abuela, ella es la autoridad en la familia. El abuelo solo actua de facilitador. La Sra. Graciela tiene habilidad para manipular. Quizás en ella la acción de manipular este asociada a un trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y, lo que resultó más dañino para nosotros: manipula a los asistentes sociales y funcionarios. La idea del trastorno quizás es más convincente cuando se tiene en cuenta que ella cortó violentamente el lazo de una madre y un lactante. Y Lo hizo en base de calumnias y mentiras. Y es a su propia hija a quién hace ese daño. Para ocultar esa aberrante conducta a los ojos de los demás, la sra. Graciela se siente impune para hacer uso de la calumnia y la mentira. Nos culpa a nosotros los padres de todo lo que se le ocurre. Nos atribuye enfermedades. Nos quiere ver presos. Nos quiere ver internados en un siquiátrico. Se víctimiza. Asegura que ella le salvó la vida al bebé. ect.
+<br><br>
+Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada. Se mantuvo totalmente ausente. <br>
 
 <br>
-La manipulación en general está relacionada con el control, con la autoridad, con el capricho, la testarudez.<br><br>
-En el siguiente audio se aprecia como a ella le molesta mucho que Jaquelin le de opinión sobre la guagua. Por eso luego con ira dice querer ver presos a los padres. La presencia de los padres le acusa a la señora Graciela de que ella no es la mamá de los niños. Los padres la perturban. 
+La manipulación en general está relacionada con el control, con la autoridad, con el capricho.<br><br>
+
+En el siguiente audio se puede apreciar como a la abuela le molesta que la madre le de opinión sobre el bebé. (Esto ocurrió en los dias en que el bebé era recién llegado en casa de los abuelos. Lo habian derivado allí desde el hospital El Carmen.) Claramente esto es abuso sicológico: No dejan opinar a una mamá sobre su hijo recién nacido. Para los abuelos ya ha comenzado el "proceso de expropiación"
 
 <br>
 <div class="Div_a">
@@ -46,6 +48,9 @@ En el siguiente audio se aprecia como a ella le molesta mucho que Jaquelin le de
 <p class="western" lang="es-CL" align="left"><strong>Sra Graciela: </strong>Si quer&eacute;s venir a hacer paz, no vengas a opinar aqu&iacute; negra.</p>
 <p class="western" lang="es-CL" align="left"></p>
 </div>
+
+<br>
+ Días después la abuela llena de ira, expresa que quiere ver presos a los padres. La presencia de los padres le acusa a la señora Graciela que ella no es la mamá de los niños. Por eso los padres la perturban.<br>
 <br>
 <div class="Div_a" >
 <iframe src="https://archive.org/embed/yo-le-digo-al-ruso-o-hacen-algo-o-no-se-yo-quiero-presos-a-los-dos-los-dos-padres-del-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -54,7 +59,9 @@ En el siguiente audio se aprecia como a ella le molesta mucho que Jaquelin le de
 <br>
 El "Ruso" es el apodo de su hijo, abogado. El lo asesora.<br><br>
 
-En las grabaciones por ejemplo, llega a decir que ella le salvó la vida a la guagua. Pidió a sus vecinos ropa usada de guagua, támbien lo mismo a sus otros hijos. Pidio leche a la asistente social del consultorio Voullieme y a la asistente social del hospital el Carmen. Todo esto para hacer creer que somoS padres irresponsables. Siendo que al bebé nunca le falto ropa y siempre nos hicimos cargo de los pañales y la leche.<br>
+En las grabaciones afirma que ella le salvó la vida a la guagua. No existe antecedente de esto. También miente que a al bebé le salio positivo un test toxicológico de orina. y — como también se escucha en una grabación — que ella tiene esos documentos. ¿A quien miente asi? ¡A los funcionarios! Pero también a sus vecinos y parientes.<br><br>
+
+La abuela comenzó a pedir ropa de guagua a sus conocidos y vecinos para así asegurar su papel de victima y dejar establecido que los padres de la guagua son irresponsables, drogados, ect. <br><br>También pidió leche en el consultorio Voullienme y envio a don Ricardo a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros, los padres, nunca le falto ropa y desde el principio dejamos bien en claro que nos hariamos cargo de los pañales, la leche y sus gastos en general. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer. ect. Nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/la-abuela-te-salvo-la-vida" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -62,7 +69,7 @@ En las grabaciones por ejemplo, llega a decir que ella le salvó la vida a la gu
 </div>
 <br>
 
-Aún tenemos en nuestra casa reservas de pañales y leche que no pudimos ir a dejar porque no nos permite acercarnos a la casa y no nos atiende por ningún medio.<br>
+Aún tenemos reservas de pañales y leche que no pudimos ir a dejar porque no nos permite acercarnos a su domicilio y no nos atiende por ningún medio.<br>
 <br>
   <div class="Div_a">
 <iframe src="https://archive.org/embed/si-es-la-negra-la-yaquelinal-telefono-no-eh" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -76,14 +83,7 @@ Aún tenemos en nuestra casa reservas de pañales y leche que no pudimos ir a de
 <br>
 
 
-<div class="Div_a">
-<iframe src="https://archive.org/embed/te-salvamos-la-vida-pajarito" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<p style='line-height: 100%;text-align: left;'><strong>Sra. Graciela:&nbsp;</strong><span style="font-weight: normal;">L</span>e salvamos la vida al pajarito&hellip;</p>
-<p style='line-height: 100%;text-align: left;'></p>
-<p style='line-height: 100%;text-align: left;'><strong>Don Ricardo:&nbsp;</strong><span style="font-weight: normal;">D</span>icen que hacemos negocio, lo &uacute;nico que hacemos es protegerlos . La concha de su madre. La reconcha de su madre.</p>
-</div>
-<br>
-Se nota enfurecido a don Ricardo pero en realidad esta siendo funcional a su esposa, "le sigue la corriente". Días antes habia asegurado que era un negocio cobrar la manuntención de los niños.<br>
+En el siguiente audio, don Ricardo se mofa de la situación de los padres diciendo que cobrar la manuntención de sus nietos es un negocio.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/cuando-le-digan-que-tiene-que-pagar" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -91,7 +91,7 @@ Se nota enfurecido a don Ricardo pero en realidad esta siendo funcional a su esp
 </div>
 <br>
 
-Esta señora como se escuchan en estas grabaciones pasa horas monologando, elucubrando. Viendo los pro y los contra de tal o cual cuestión que le beneficiará para quedarse definitivamente con el bebé. Esta obsesionada con ese tema. Le molesta sentirse obligada a aceptar el régimen de visitas.<br>
+La abuela pasa horas monologando, elucubrando, analizando los pro y los contra de tal o cual cuestión que le beneficiará para quedarse definitivamente con el bebé. Esta obsesionada con ese tema. Aqui por ejemplo revela que le molesta sentirse obligada a aceptar el régimen de visitas.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/mama-como-esa-no-dejo-ni-que-le-mire-al-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -121,9 +121,9 @@ Esta señora como se escuchan en estas grabaciones pasa horas monologando, elucu
 </div>
 <br>
 
-La anterior grabación se dilucida la casi desesperada intencion de quedarse con el bebé y deshacerse de la mamá. <br><br>
-La siguiente es muy peculiar: La Sra. Graciela hace mas de 25 años perdio un bebe en el parto, le falto oxígeno.
-Entonces ella le revela a su marido que ya fue condenada una vez cuando perdió su bebe. Porque tienen que condenarla de nuevo ahora si es que le quitan el nuevo bebe (nuestro hijo), Manipulacion o trauma? Esta manipulando a su marido, hablandole de cosas muy profundas. <br>
+La anterior grabación se dilucida la intensa pero contenida intención de la abuela de quedarse con el bebé y deshacerse de la mamá. <br><br>
+La siguiente es muy peculiar: hace mas de 25 años la Sra. Graciela perdió un bebe en el parto por falta de oxígeno.
+Ella le revela a su marido que ya fue condenada una vez cuando perdió a ese bebe. Que porque tienen que condenarla de nuevo ahora. (Si es que le quitan el nuevo bebe, nuestro hijo), Esta manipulando a su marido, hablandole de cosas muy profundas. para que haga lo que sea para que no dejen que le quiten a su "nuevo bebé" <br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/entonces-yo-voy-a-tener-lastima-a-todos-y-yo-a-mi-ya-me-condenaron-cuando-murio-mi-guaguita" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
