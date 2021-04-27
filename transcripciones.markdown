@@ -17,28 +17,27 @@ Las audios fueron grabados durante el tiempo que visite a mi bebé en casa de mi
 <h2>Entendiendo las grabaciones</h2>
 <h4>Robinson</h4>
 <br><br>
-Nombre que aparecen en las grabaciones
+Nombres que se escuchan en las grabaciones:
 <br><br>
 Mauricio: hijo mayor de mi pareja, 18 años<br>
 Millaray: hija de mi pareja, 7 años<br>
-Negra: a veces llaman asi a mi pareja<br>
-La tonta: a veces se refieren asi a mi pareja<br>
-Fredy: la ex pareja de mi pareja. Denunciado en varias ocasiones por VIF.<br>
+Negra: aveces llaman asi a mi pareja<br>
+La tonta: aveces se refieren asi a mi pareja<br>
+Fredy: ex pareja de mi pareja.<br>
 Ruso: joven abogado, hermano de mi pareja<br>
 Neffer: joven abogado, socio y amigo del hermano de mi pareja<br>
-Carla: trabajadora social, hospital El Carmen<br>
 El tonto, el zángano, el tipo: así se refieren a mi
 <br>
 <br>
-<p style="text-align:justify">En las grabaciones se escuchan principalmente las voces a los abuelos maternos: Sra. Graciela y don Ricardo.<br>Mediante la escucha de estas conversaciones, lamentablemente se puede comprobar la mala intención de los abuelos. La mala intención es calumniar a los padres para obtener la tenencia definitiva del bebé.
-La que promueve eso es la abuela, ella es la autoridad en la familia. El abuelo actua de facilitador. La Sra. Graciela además tiene habilidad para manipular. Es probable que en ella la acción de manipular este asociada a un trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y — lo que resultó más dañino para nosotros —  manipula a los trabajadores sociales y funcionarios. La idea del trastorno es más convincente cuando se tiene en cuenta que ella cortó violentamente el lazo de una madre y un lactante. Y lo hizo en base de calumnias y mentiras. Y es a su propia hija a quién hace ese daño. Para ocultar su aberrante conducta, la sra. Graciela hace uso de la calumnia y la mentira de forma impune. Nos culpa a nosotros los padres de todo lo que se le ocurre en el camino. Nos atribuye enfermedades. Nos quiere ver presos. Nos quiere internados en un siquiátrico y se víctimiza.
+<p style="text-align:justify">En las grabaciones se escuchan principalmente las voces a los abuelos maternos: Sra. Graciela y don Ricardo.<br>Lamentablemente, mediante la escucha de estas conversaciones se puede probar la mala intención de los abuelos que es calumniar a los padres para obtener la tenencia definitiva del bebé.
+La que promueve eso es la abuela, ella es la autoridad en la familia. El abuelo actua de facilitador. La Sra. Graciela además tiene habilidad para manipular. Es probable que en ella la acción de manipular este asociada a un trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y — lo que resultó más perjudicial para nosotros — manipula a los trabajadores sociales y funcionarios. La idea del trastorno es más convincente cuando se tiene en cuenta que ella cortó violentamente el lazo de una madre y un lactante. Y lo hizo en base de calumnias y mentiras. Y es a su propia hija a quién hace ese daño. Para ocultar su anormal conducta, la sra. Graciela hace uso de la calumnia y la mentira de forma impune. Nos culpa a nosotros los padres de todo lo que se le ocurre en el camino. Nos atribuye enfermedades. Nos quiere ver presos. Nos quiere internados en un siquiátrico e impunemente se victimiza.
 <br><br>
 Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su hija. Se mantuvo totalmente ausente. <br>
 
 <br>
 La manipulación en general está relacionada con el control, con la autoridad, con el capricho.<br><br>
 
-En el siguiente audio se puede apreciar como a la abuela le molesta que la madre le de opinión sobre el bebé. (Esto ocurrió cuando el bebé recién habia llegado en casa de los abuelos. Lo habian derivado allí desde el hospital El Carmen.) Claramente esto es abuso sicológico: No dejan opinar a una mamá sobre su hijo recién nacido. Para los abuelos ya había comenzado el "proceso de expropiación"...
+En el siguiente audio se puede apreciar como a la abuela le molesta que Jaquelin le de opinión sobre el bebé. (Esto ocurrió cuando el bebé habia llegado recién en casa de los abuelos. Lo habian derivado allí desde el hospital El Carmen.) Claramente esto es abuso sicológico: le quitan el derecho a una madre de opinar sobre su bebé recién nacido. Para los abuelos ya había comenzado "el proceso de expropiación"...
 
 <br>
 <div class="Div_a">
@@ -57,11 +56,11 @@ En el siguiente audio se puede apreciar como a la abuela le molesta que la madre
 <p><strong>Sra. Graciela:</strong>&nbsp;No, ella te dice: déjalo dormir nomás, se va a resfriar me dice, esta estornudando... se va a resfriar me dijo. No, yo le digo al Ruso: ¡ustedes! ¡o hacen algo o nose...! &iexcl;Yo los quiero presos a los dos!</p>
 </div>
 <br>
-El "Ruso" es el apodo de su hijo, abogado. El lo asesora.<br><br>
+El "Ruso" es el apodo de su hijo de profesión abogado que lo asesora.<br><br>
 
-En las grabaciones afirma que ella le salvó la vida a la guagua. No existe antecedente de esto. También miente que a al bebé le salio positivo un test toxicológico de orina. y — como también se escucha en una grabación — que ella tiene esos documentos. ¿A quien miente asi? ¡A los funcionarios! Pero también a sus vecinos y parientes.<br><br>
+En las grabaciones afirma que ella le salvó la vida a la guagua. No existe antecedente de esto. También miente que a al bebé le salio positivo un test toxicológico de orina. y — como también se escucha en una grabación — que ella tiene esos documentos. ¡Asi miente a los funcionarios! Pero también a sus vecinos y parientes.<br><br>
 
-La abuela comenzó a pedir ropa de guagua a sus conocidos y vecinos para así asegurar su papel de victima y dejar establecido que los padres de la guagua son irresponsables, drogados, ect. <br><br>También pidió leche en el consultorio Voullienme y envio a don Ricardo a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros, los padres, nunca le falto ropa y desde el principio dejamos bien en claro que nos hariamos cargo de los pañales, la leche y sus gastos en general. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer. ect. Nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
+La señora comenzó a pedir ropa usada de guagua a sus vecinos para con esto, asegurar su papel de víctima y dejar establecido que los padres de la guagua son irresponsables, drogados y que dejaron botado al bebé.<br><br>También pidió leche en el consultorio Voullienme y envió a su marido a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros, los padres, nunca le falto ropa y desde el principio dejamos bien claro que nos hariamos cargo de los pañales, la leche y sus gastos en general mientras ellos tengan el cuidado provisorio. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer. ect. nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/la-abuela-te-salvo-la-vida" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -91,7 +90,7 @@ En el siguiente audio, don Ricardo se mofa de la situación de los padres dicien
 </div>
 <br>
 
-La abuela pasa horas monologando, elucubrando, analizando los pro y los contra de tal o cual cuestión que le beneficiará para quedarse definitivamente con el bebé. Esta obsesionada con ese tema. Aqui por ejemplo revela que le molesta sentirse obligada a aceptar el régimen de visitas.<br>
+Es muy llamativo como la abuela pasa horas monologando, elucubrando, analizando la situación.  de tal o cual cuestión que le beneficiará para quedarse definitivamente con el bebé. Esta obsesionada con ese tema. Aqui por ejemplo revela que le molesta sentirse obligada a aceptar el régimen de visitas.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/mama-como-esa-no-dejo-ni-que-le-mire-al-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -121,9 +120,9 @@ La abuela pasa horas monologando, elucubrando, analizando los pro y los contra d
 </div>
 <br>
 
-La anterior grabación se dilucida la intensa pero contenida intención de la abuela de quedarse con el bebé y deshacerse de la mamá. <br><br>
-La siguiente es muy peculiar: hace mas de 25 años la Sra. Graciela perdió un bebe en el parto por falta de oxígeno.
-Ella le revela a su marido que ya fue condenada una vez cuando perdió a ese bebe. Que porque tienen que condenarla de nuevo ahora. (Si es que le quitan el nuevo bebe, nuestro hijo), Esta manipulando a su marido, hablandole de cosas muy profundas. para que haga lo que sea para que no dejen que le quiten a su "nuevo bebé" <br>
+En la anterior grabación se dilucida la intensa pero contenida intención de la abuela de quedarse con el bebé y deshacerse de la mamá. <br><br>
+La siguiente es muy peculiar: hace mas de 25 años, la Sra. Graciela perdió un bebe en el parto por falta de oxígeno.
+Ella, después de victimizarse, le recuerda esto a su marido, diciéndole que ya fue condenada una vez cuando perdió ese bebe. Y reclama que porque tienen que condenarla de nuevo ahora. Esta manipulando a su marido... hablándole de cosas profundas para que haga lo que sea para que no dejen que le quiten al Elián. Nuestro hijo <br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/entonces-yo-voy-a-tener-lastima-a-todos-y-yo-a-mi-ya-me-condenaron-cuando-murio-mi-guaguita" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -141,6 +140,12 @@ Ella le revela a su marido que ya fue condenada una vez cuando perdió a ese beb
 </div>
 <br>
 
+
+Con este comentario don Ricardo inicia una conversación hogareña creando el clima adecuado para ganar la atención y el humor de la Sra. Graciela. Para decir eso, el caballero solo se baso en comentarios que fue recolectando ese día fuera de la casa. Unos de los temas preferidos de las conversaciones de don Ricardo es: degradar socialmente a su hija. Sus interlocutores solo le "siguieron la corriente"...<br><br>
+
+La sra Graciela contesta con su "prédica" de que su hija esta demente y que necesita ser internada junto a su pareja en un siquiátrico. Para así dar rienda suelta a su capricho de tener a disposición la casa de Santiago de su hija y vivir allí rodeada de los hijos de su hija. Se queja del COSAM por que el COSAM nunca cumplió con su pedido de que diagnostique como enferma mental a su hija. Esta preocupada porque necesita otra institución para sus caprichos. 
+
+ <br>
  
   No soporta que se independice de ella y se aleje de su zona de control. Hubo veces que la lastimo saber que su hija estaba bien o era feliz <br><br>
   
@@ -164,7 +169,7 @@ Ella le revela a su marido que ya fue condenada una vez cuando perdió a ese beb
 </div>
 <br>
 
-
+Esta es la proeba de que estando Jaquelin hospitalizada en la unidad de puerperio, 
 <div class="Div_a">
 <iframe src="https://archive.org/embed/ella-no-tiene-idea-que-nosotros-presentamos-papeles" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p><strong>Don Ricardo:</strong> Ella no tiene idea que nosotros presentamos todos esos papeles pues.</p>
@@ -176,10 +181,10 @@ Ella le revela a su marido que ya fue condenada una vez cuando perdió a ese beb
 <p><strong>Don Ricardo:</strong> Vos le dijiste a la carla eso no?, atrevida que es, desagradecida.</p>
 </div>
 <br>
-
+<br>
   
 
-Estos audios son para nosotros una prueba de lo que ya sospechabamos y no quedan dudas que usan la calumnia para obtener la tenencia definitiva del bebe. Sus nietos no son una carga para ellos como ellos lo presentan. Los niños dan propósito a su vida, se sienten con una segunda juventud. Ovbiamente se sienten mas importantes, la gente lo toman más en cuenta. los niños dan vida a su hogar. La señora Graciela duerme con la guagua y su nieta de 7 años...<p><br>
+Estos audios son para nosotros una prueba de lo que ya sospechabamos y no quedan dudas que usan la calumnia para obtener la tenencia definitiva del bebe. Se ganan la aprobación y la voluntad de los funcionarios, favoreciendose del hecho de que se estan haciendo cargo de una niña especial. Sus nietos no son una carga para ellos como ellos lo presentan. Es todo lo contrario. Los niños dan propósito a su vida, los hacen sentir como con una segunda juventud. Se sienten mas importantes, la gente lo toman más en cuenta. Los niños dan vida a su hogar. La señora Graciela duerme con la guagua y su nieta de 7 años...<p><br>
 
 <br>
 
