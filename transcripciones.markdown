@@ -30,14 +30,14 @@ El tonto, el zángano, el tipo: así se refieren a mi
 <br>
 <br>
 <p style="text-align:justify">En las grabaciones se escuchan principalmente las voces a los abuelos maternos: Sra. Graciela y don Ricardo.<br>Lamentablemente, mediante la escucha de estas conversaciones se puede probar la mala intención de los abuelos que es calumniar a los padres para obtener la tenencia definitiva del bebé.
-La que promueve eso es la abuela, ella es la autoridad en la familia. El abuelo actua de facilitador. La Sra. Graciela además tiene habilidad para manipular. Es probable que en ella la acción de manipular este asociada a un trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y — lo que resultó más perjudicial para nosotros — manipula a los trabajadores sociales y funcionarios. La idea del trastorno es más convincente cuando se tiene en cuenta que ella cortó violentamente el lazo de una madre y un lactante. Y lo hizo en base de calumnias y mentiras. Y es a su propia hija a quién hace ese daño. Para ocultar su anormal conducta, la sra. Graciela hace uso de la calumnia y la mentira de forma impune. Nos culpa a nosotros los padres de todo lo que se le ocurre en el camino. Nos atribuye enfermedades. Nos quiere ver presos. Nos quiere internados en un siquiátrico e impunemente se victimiza.
+La que promueve eso es la abuela, ella es la autoridad en la familia. El abuelo actua de facilitador. La Sra. Graciela además tiene habilidad para manipular. Es probable que en ella la acción de manipular este asociada a un trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y — lo que resultó más perjudicial para nosotros — manipula a los trabajadores sociales y funcionarios. La idea del trastorno es más convincente cuando se tiene en cuenta que ella cortó violentamente el lazo de una madre y un lactante. Y lo hizo en base de calumnias y mentiras. Es a su propia hija a quién hace ese daño. Para ocultar su conducta anormal, la sra. Graciela impunemente hace uso de la calumnia y la mentira. Nos culpa a nosotros los padres de todo lo que se le ocurre en el camino. Nos atribuye enfermedades, nos quiere ver presos, quiere internarnos en un siquiátrico, ect.
 <br><br>
 Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su hija. Se mantuvo totalmente ausente. <br>
 
 <br>
 La manipulación en general está relacionada con el control, con la autoridad, con el capricho.<br><br>
 
-En el siguiente audio se puede apreciar como a la abuela le molesta que Jaquelin le de opinión sobre el bebé. (Esto ocurrió cuando el bebé habia llegado recién en casa de los abuelos. Lo habian derivado allí desde el hospital El Carmen.) Claramente esto es abuso sicológico: le quitan el derecho a una madre de opinar sobre su bebé recién nacido. Para los abuelos ya había comenzado "el proceso de expropiación"...
+En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. (Esto ocurrió cuando al bebé recién lo habían traído a la casa de los abuelos. Lo habian derivado allí desde el hospital El Carmen.) Ejercen el abuso sicológico: le quitan el derecho a una madre a opinar sobre su bebé recién nacido. Para los abuelos ya había comenzado "el proceso de expropiación"...
 
 <br>
 <div class="Div_a">
@@ -58,7 +58,7 @@ En el siguiente audio se puede apreciar como a la abuela le molesta que Jaquelin
 <br>
 El "Ruso" es el apodo de su hijo de profesión abogado que lo asesora.<br><br>
 
-En las grabaciones afirma que ella le salvó la vida a la guagua. No existe antecedente de esto. También miente que a al bebé le salio positivo un test toxicológico de orina. y — como también se escucha en una grabación — que ella tiene esos documentos. ¡Asi miente a los funcionarios! Pero también a sus vecinos y parientes.<br><br>
+En las grabaciones afirma que ella le salvó la vida a la guagua. No existe antecedente de esto. También miente que el bebé dió positivo en un test toxicológico de orina. y — como también se escucha en una grabación — que ella tiene esos documentos. ¡Asi miente a los funcionarios! Pero también a sus vecinos y parientes.<br><br>
 
 La señora comenzó a pedir ropa usada de guagua a sus vecinos para con esto, asegurar su papel de víctima y dejar establecido que los padres de la guagua son irresponsables, drogados y que dejaron botado al bebé.<br><br>También pidió leche en el consultorio Voullienme y envió a su marido a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros, los padres, nunca le falto ropa y desde el principio dejamos bien claro que nos hariamos cargo de los pañales, la leche y sus gastos en general mientras ellos tengan el cuidado provisorio. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer. ect. nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
 <br>
