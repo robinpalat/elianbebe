@@ -90,7 +90,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Semanas antes de la fecha de parto mi madre por teléfono insistía en que el parto se asistiera en "El Paula"</p> Mis padres eran bien conocidos del asistente social de ese Hospital, el funcionario los apoyó en la causa de mi hija Millarai. Yo intuía que mis padres querian manejar ese momento de mi vida y dejar de lado a mi pareja. Por eso yo queria evitar el Paula<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Semanas antes de la fecha de parto mi madre me insistía que el parto se asistiera en "El Paula"</p> Mis padres eran bien conocidos del asistente social de ese Hospital, el funcionario los apoyó en la causa de mi hija Millarai. Yo intuía que mis padres querian manejar ese momento de mi vida y dejar de lado a mi pareja. Por eso yo queria evitar el Paula<br>
    <br>
 	</td>
     <td> </td>
