@@ -11,7 +11,7 @@ nav_order: 6
 # Otros Documentos
 <br>
 
-Entorpecimiento del régimen comunicacional. Hace 3 meses que no se están cumpliendo las visitas. La cuidadora miente a los funcionarios que los pdres no pueden acercase a su domicilio porque hay una orden de alejamiento.
+Entorpecimiento del régimen comunicacional. Hace 3 meses que no se están cumpliendo las visitas. La cuidadora miente a los funcionarios que los padres no pueden acercase a su domicilio porque hay una orden de alejamiento.
 <br>
 <img src="/elianbebe/assets/images/regimenvisitas.png" alt="Texto demanda familia" width="100%"/>
 

@@ -35,7 +35,7 @@ La que promueve eso es la abuela, ella es la autoridad en la familia. El abuelo 
 Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su hija. Se mantuvo totalmente ausente. <br>
 
 <br>
-La manipulación en general está relacionada con el control, con la autoridad, con el capricho.<br><br>
+Hago recordar que la manipulación en general está relacionada con el control, con la autoridad, con el capricho.<br><br>
 
 En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. (Esto ocurrió cuando al bebé recién lo habían traído a la casa de los abuelos. Lo habian derivado allí desde el hospital El Carmen.) Ejercen el abuso sicológico: le quitan el derecho a una madre a opinar sobre su bebé recién nacido. Para los abuelos ya había comenzado "el proceso de expropiación"...
 
@@ -60,7 +60,7 @@ El "Ruso" es el apodo de su hijo de profesión abogado que lo asesora.<br><br>
 
 En las grabaciones afirma que ella le salvó la vida a la guagua. No existe antecedente de esto. También miente que el bebé dió positivo en un test toxicológico de orina. y — como también se escucha en una grabación — que ella tiene esos documentos. ¡Asi miente a los funcionarios! Pero también a sus vecinos y parientes.<br><br>
 
-La señora comenzó a pedir ropa usada de guagua a sus vecinos para con esto, asegurar su papel de víctima y dejar establecido que los padres de la guagua son irresponsables, drogados y que dejaron botado al bebé.<br><br>También pidió leche en el consultorio Voullienme y envió a su marido a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros, los padres, nunca le falto ropa y desde el principio dejamos bien claro que nos hariamos cargo de los pañales, la leche y sus gastos en general mientras ellos tengan el cuidado provisorio. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer. ect. nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
+La señora comenzó a pedir ropa usada de guagua a sus vecinos para con esto, asegurar su papel de víctima y dejar establecido que los padres de la guagua son irresponsables, drogados y que dejaron botado al bebé.<br><br>También pidió leche en el consultorio Voullienme y envió a su marido a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros, los padres, nunca le falto ropa y desde el principio dejamos bien claro que nos hariamos cargo de los pañales, la leche y sus gastos en general, mientras ellos tengan el cuidado provisorio. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer. ect. nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/la-abuela-te-salvo-la-vida" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -90,7 +90,7 @@ En el siguiente audio, don Ricardo se mofa de la situación de los padres dicien
 </div>
 <br>
 
-Es muy llamativo como la abuela pasa horas monologando, elucubrando, analizando la situación.  de tal o cual cuestión que le beneficiará para quedarse definitivamente con el bebé. Esta obsesionada con ese tema. Aqui por ejemplo revela que le molesta sentirse obligada a aceptar el régimen de visitas.<br>
+Es muy notable como la abuela pasa horas enteras monologando, analizando la situación. Pensando en todos los posibles escenarios que le beneficiarán o no para quedarse definitivamente con el bebé. Esta obsesionada con ese tema. Aqui por ejemplo revela que le molesta sentirse obligada a aceptar el régimen de visitas.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/mama-como-esa-no-dejo-ni-que-le-mire-al-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -99,7 +99,7 @@ Es muy llamativo como la abuela pasa horas monologando, elucubrando, analizando 
 <br>
 
 
- Se autoconvence de sus mentiras para materializar el personaje problemático que creo de su hija. Usa a su familia para autoavalarze. Entre los dos padres presentan a su hija como un problema en todos lados.<br>
+ Se autoconvence de sus mentiras para materializar el personaje problemático que creo de su hija. Usa a su marido e hijos varones para avalarze. Entre los dos padres presentan a su hija como un problema en todos lados.<br>
  <br>
  <div class="Div_a">
 <iframe src="https://archive.org/embed/hija-donde-anda-mi-hija-refiriendose-a-la-millaray.-la-negra-yaquelin-debe-estar-podrida-por-dentro" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -120,9 +120,9 @@ Es muy llamativo como la abuela pasa horas monologando, elucubrando, analizando 
 </div>
 <br>
 
-En la anterior grabación se dilucida la intensa pero contenida intención de la abuela de quedarse con el bebé y deshacerse de la mamá. <br><br>
+En la anterior grabación se nota la intensa pero contenida intención de la abuela de quedarse con el bebé y deshacerse de la mamá. <br><br>
 La siguiente es muy peculiar: hace mas de 25 años, la Sra. Graciela perdió un bebe en el parto por falta de oxígeno.
-Ella, después de victimizarse, le recuerda esto a su marido, diciéndole que ya fue condenada una vez cuando perdió ese bebe. Y reclama que porque tienen que condenarla de nuevo ahora. Esta manipulando a su marido... hablándole de cosas profundas para que haga lo que sea para que no dejen que le quiten al Elián. Nuestro hijo <br>
+Ella le recuerda esto a su marido, diciéndole que ya fue condenada una vez cuando perdió ese bebe. Y que porque tienen que condenarla de nuevo ahora. Con esto le da a entender que haga lo que sea para que no dejen que le quiten al Elián. Nuestro hijo <br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/entonces-yo-voy-a-tener-lastima-a-todos-y-yo-a-mi-ya-me-condenaron-cuando-murio-mi-guaguita" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -141,21 +141,22 @@ Ella, después de victimizarse, le recuerda esto a su marido, diciéndole que ya
 <br>
 
 
-Con este comentario don Ricardo inicia una conversación hogareña creando el clima adecuado para ganar la atención y el humor de la Sra. Graciela. Para decir eso, el caballero solo se baso en comentarios que fue recolectando ese día fuera de la casa. Unos de los temas preferidos de las conversaciones de don Ricardo es: degradar socialmente a su hija. Sus interlocutores solo le "siguieron la corriente"...<br><br>
+"Capaz que van a pedir internación para la Negra" Con ese comentario Don Ricardo inicia una conversación hogareña creando el clima adecuado para ganar la atención y el humor de la Sra. Graciela. Para decir eso, el caballero solo se baso en comentarios que fue recolectando ese día fuera de la casa. Unos de los temas preferidos de las conversaciones de don Ricardo es: degradar socialmente a su hija. Sus interlocutores solo le "siguieron la corriente"<br><br>
 
-La sra Graciela contesta con su "prédica" de que su hija esta demente y que necesita ser internada junto a su pareja en un siquiátrico. Para así dar rienda suelta a su capricho de tener a disposición la casa de Santiago de su hija y vivir allí rodeada de los hijos de su hija. Se queja del COSAM por que el COSAM nunca cumplió con su pedido de que diagnostique como enferma mental a su hija. Esta preocupada porque necesita otra institución para sus caprichos. 
+La sra Graciela aprovecha para dar pie a su "prédica del momento": que su hija esta demente. Que necesita ser internada junto a su pareja en un siquiátrico. Para así tener a disposición la casa de Santiago de su hija y vivir allí rodeada de los hijos de su hija. Se queja del COSAM por que el COSAM nunca cumplió con su pedido de que diagnostique como enferma mental a su hija. Esta preocupada porque necesita otra institución para su capricho. 
 
  <br>
  
-  No soporta que se independice de ella y se aleje de su zona de control. Hubo veces que la lastimo saber que su hija estaba bien o era feliz <br><br>
+<br>
   
-  
+  En la siguiente grabación la Sra graciela le exije a don Ricardo que vaye a la panaderia donde yo trabajo a hablar mal de mi. <br><br>Un dia mi empleador me comentó que mi suegro le dijo a el, entre otras cosas terribles, que yo era un violador de niños. El propósito de ellos fué que me despidan para arruinar nuestro principal sustento económico.<br>
   <div class="Div_a">
 <iframe src="https://archive.org/embed/el-martes-tambien-vas-a-ir-a-tener-que-hablar-en-la-panaderiasino-vas-voy-a-ir-yo" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p><strong>Sra. Graciela:</strong>&nbsp;Y el martes tambi&eacute;n vas a ir hablar... Si vos no vas a ir a hablar voy a ir yo a hablar a la panederia. Yo no voy a andar en boca de la gente por el weon [INAUDIBLE]</p>
 </div>
 <br>
 
+Don Ricardo tiene algo planeado para hacerme daño a mi:
 
 <div class="Div_a">
 <iframe src="https://archive.org/embed/voy-a-hablar-con-el-ruso...-tengo-una-preparadita" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -169,7 +170,8 @@ La sra Graciela contesta con su "prédica" de que su hija esta demente y que nec
 </div>
 <br>
 
-Esta es la proeba de que estando Jaquelin hospitalizada en la unidad de puerperio, 
+Mientras Jaquelin se encontraba hospitalizada en unidad de puerperio en Hospital El Carmen, Su padre se presentó espontaneamente y le convenció a la trabajadora social que el bebé corria riezgo de muerte con nosotros. Reforzo sus argumentos con informes médicos de VIF de jaquelin del COSAM y otros papeles. La trabajadora social creyendo que estaba actuando bien, realizó un informe sobre Jaquelin al Juzgado que culminó con la medida de protección. 
+<br><br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/ella-no-tiene-idea-que-nosotros-presentamos-papeles" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p><strong>Don Ricardo:</strong> Ella no tiene idea que nosotros presentamos todos esos papeles pues.</p>
@@ -183,8 +185,11 @@ Esta es la proeba de que estando Jaquelin hospitalizada en la unidad de puerperi
 <br>
 <br>
   
+  <b>Conclución</b>
+  <br><br>
 
-Estos audios son para nosotros una prueba de lo que ya sospechabamos y no quedan dudas que usan la calumnia para obtener la tenencia definitiva del bebe. Se ganan la aprobación y la voluntad de los funcionarios, favoreciendose del hecho de que se estan haciendo cargo de una niña especial. Sus nietos no son una carga para ellos como ellos lo presentan. Es todo lo contrario. Los niños dan propósito a su vida, los hacen sentir como con una segunda juventud. Se sienten mas importantes, la gente lo toman más en cuenta. Los niños dan vida a su hogar. La señora Graciela duerme con la guagua y su nieta de 7 años...<p><br>
+Estos audios son para nosotros una prueba de lo que ya sospechábamos. No quedan dudas que usan la calumnia para obtener la tenencia definitiva del bebé. Jaquelin está convencida de que esto, sus padres ya lo planearon durante su embarazo. Dado los antecedentes de Jaquelin, ellos ya sabian que si injerian de esa forma era factible que nosotros ibamos a tener problemas con el bebé.<br><br>
+Ellos se ganan la aprobación y la voluntad de los funcionarios, favoreciéndose del hecho de que están al cuidado de una niña especial. Sus nietos no son una carga ni un problema para ellos como ellos lo presentan. Es todo lo contrario. Los niños dan propósito a su vida, los hacen sentir con una segunda juventud. Los niños dan vida a su hogar. La señora Graciela duerme con la guagua y su nieta de 7 años...<p><br>
 
 <br>
 
