@@ -40,7 +40,6 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>  <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Me salieron bien los exámenes médicos solicitados por matrona</p>
-  <br>
  <br></td>
     <td> </td>
   </tr>
@@ -101,7 +100,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Año 2021 — Nuestro Hijo Nacio el 2 de enero en el hospital "El Cármen"</p>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Año 2021 — Nuestro Hijo Nació el 2 de enero en el hospital "El Cármen"</p>
  Ese dia cometi el error de decirle a mi madre por teléfono que yo estaba hospitalizada en "El Carmen".
  Ella enfadada me dijo: "para que fuiste ahí si en el Paula te estaban esperando con camilla y todo" Ellos ya habian acordado el tema con el asistente social de "El Paula".<br>
   <br>
@@ -112,7 +111,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi madre le envió a mi papa a hablar con el asistente social de maternidad del Carmen</p> Mientras yo estaba hospitalizada por maternidad, mi papá se presento espontáneamente con unos papeles mios del COSAM y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender a la asistente social que yo soy "un peligro vivo"; Que dejo botado a mis hijos y también calumniaron a mi pareja.<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi madre le envió a mi papa a hablar con la trabajadora social de maternidad del Carmen</p> Mientras yo estaba hospitalizada por maternidad, mi papá se presento espontáneamente con unos papeles mios del COSAM y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender a la asistente social que yo soy "un peligro vivo"; Que dejo botado a mis hijos y también calumniaron a mi pareja.<br>
   <br>
 	</td>
     <td> </td>
@@ -130,7 +129,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="color:#353446; font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Medida de protección</p><br>
+ <p style="color:#353446; font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; El tribunal dictó Medida de protección y nos separaron de nuestro bebé</p><br>
 	</td>
     <td> </td>
   </tr>
@@ -140,7 +139,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Régimen comunicacional: mi madre esta en desacato</p>Durante mi embarazo ella ya habia planeado quedarse con nuestro hijo. Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Llegó a decir que yo bañaba a la guagua en agua casi hirviendo. Estas mentiras armó para presentarlas en la audiencia para lograr suspender las visitas a mi bebé. <br><br><font style="font-size:15px">Desde el 16 de febrero, dia de la audiencia, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos.<br><br> Se quiere quedar definitivamente con nuestros bebé.<br><br>Dice a todos que le salvó la vida, que nació drogado, ect.</font>
+ <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Incumplimiento del régimen comunicacional: mi madre no cumple con la resolución del Juez</p>Durante mi embarazo ella ya habia planeado quedarse con nuestro hijo. Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Llegó a decir que yo bañaba a la guagua en agua casi hirviendo. Estas mentiras armó para presentarlas en la audiencia para lograr suspender las visitas a mi bebé. <br><br><font style="font-size:15px">Desde el 16 de febrero, dia de la audiencia, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos.<br><br> Se quiere quedar definitivamente con nuestros bebé.<br><br>Dice a todos que le salvó la vida, que nació drogado, ect.</font>
 	</td>
     <td> </td>
   </tr>

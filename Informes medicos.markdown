@@ -11,11 +11,10 @@ nav_order: 3
 
 # Documentos Médicos
 
-<br>
-<img src="/elianbebe/assets/images/655a388f-3a7b-47bb-a7a6-e0b11fa41487.jpeg" alt="Scaner" width="100%"/>
+<br><br>
+6 informes de datos de urgencia del consultorio Voullieme de Jaquelin. La pena por la separación de su bebé le produce alteración del sistema nervioso, provocándole cólicos abdominales que le dificultan hablar y repirar. Los últimos 2 ingresos fueron aprox. a las 3 de la mañana. Momentos en que ella no pudo aguantar más el dolor. Un médico que le atendió le dijo que no aguante tanto el dolor porque la presion arterial puede darle una trombosis. El 26 de abril el siquiatra del hospital el Carmen encargado de la evaluación pericial de la causa, le dijo que esos dolores eran obviamente por pena.
 
 <br>
-
 
 <br>
 <img src="/elianbebe/assets/images/4e64d26a-6867-44b5-8445-34c26d436775.jpeg" alt="Datos Urgencia" width="100%"/>
@@ -44,6 +43,11 @@ El siguiente documento tiene un error de tipeo del funcionario de salud: colocó
 <img src="/elianbebe/assets/images/urge6.jpeg" alt="Datos Urgencia" width="100%"/>
 
 <br>
+<br>
 
+Escaner neurológico de jaquelin a pedido de su madre en contexto de VIF de expareja. No se encontraron anormalidades.
+<br>
+<br>
+<img src="/elianbebe/assets/images/655a388f-3a7b-47bb-a7a6-e0b11fa41487.jpeg" alt="Scaner" width="100%"/>
 
-
+<br>
