@@ -141,22 +141,21 @@ Ella le recuerda esto a su marido, diciéndole que ya fue condenada una vez cuan
 <br>
 
 
-"Capaz que van a pedir internación para la Negra" Con ese comentario Don Ricardo inicia una conversación hogareña creando el clima adecuado para ganar la atención y el humor de la Sra. Graciela. Para decir eso, el caballero solo se baso en comentarios que fue recolectando ese día fuera de la casa. Unos de los temas preferidos de las conversaciones de don Ricardo es: degradar socialmente a su hija. Sus interlocutores solo le "siguieron la corriente"<br><br>
 
-La sra Graciela aprovecha para dar pie a su "prédica del momento": que su hija esta demente. Que necesita ser internada junto a su pareja en un siquiátrico. Para así tener a disposición la casa de Santiago de su hija y vivir allí rodeada de los hijos de su hija. Se queja del COSAM por que el COSAM nunca cumplió con su pedido de que diagnostique como enferma mental a su hija. Esta preocupada porque necesita otra institución para su capricho. 
+La sra Graciela quiere creer que su hija esta demente. Que necesita ser internada en un siquiátrico. Para así tener a disposición la casa de Santiago de su hija y vivir allí rodeada de los hijos de su hija. Se queja del COSAM por que el COSAM nunca cumplió con su pedido de que diagnostique como enferma mental a su hija. Esta preocupada porque necesita otra institución para su capricho. 
 
  <br>
  
 <br>
   
-  En la siguiente grabación la Sra graciela le exije a don Ricardo que vaye a la panaderia donde yo trabajo a hablar mal de mi. <br><br>Un dia mi empleador me comentó que mi suegro le dijo a el, entre otras cosas terribles, que yo era un violador de niños. El propósito de ellos fué que me despidan para arruinar nuestro principal sustento económico.<br>
+  En la siguiente grabación la Sra graciela le exije a don Ricardo que vaye a la panaderia donde yo trabajo a hablar mal de mi. <br><br>Un dia mi empleador me comentó que mi suegro le dijo a el, entre otras cosas terribles, que yo era un violador de niños. El propósito de ellos fué que me despidan para arruinar nuestro principal sustento económico.<br><br>
   <div class="Div_a">
 <iframe src="https://archive.org/embed/el-martes-tambien-vas-a-ir-a-tener-que-hablar-en-la-panaderiasino-vas-voy-a-ir-yo" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p><strong>Sra. Graciela:</strong>&nbsp;Y el martes tambi&eacute;n vas a ir hablar... Si vos no vas a ir a hablar voy a ir yo a hablar a la panederia. Yo no voy a andar en boca de la gente por el weon [INAUDIBLE]</p>
 </div>
 <br>
 
-Don Ricardo tiene algo planeado para hacerme daño a mi:
+Don Ricardo tiene algo planeado para hacerme daño a mi:<br><br>
 
 <div class="Div_a">
 <iframe src="https://archive.org/embed/voy-a-hablar-con-el-ruso...-tengo-una-preparadita" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
