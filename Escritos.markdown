@@ -8,7 +8,7 @@ nav_order: 4
 
 <table class="notable">
 <td><h2>Yo Como Mamá - Millarai</h2>
-<h4>Jaquelin</h4>
+<h4>Testimonio de Jaquelin. Redactado por Robinson</h4>
 <h1 class="western" align="left">&nbsp;</h1>
 </td>
 <td>
@@ -28,7 +28,7 @@ nav_order: 4
 
 <table class="notable">
 <td><h2>Las visitas a mi guagua</h2>
-<h4>Jaquelin</h4>
+<h4>Testimonio de Jaquelin. Redactado por Robinson</h4>
 <h1 class="western" align="left">&nbsp;</h1>
 </td>
 <td>
@@ -47,11 +47,11 @@ Durante esas visitas yo disfrutaba de la unión tan íntima de una mamá y su be
 <h1 class="western" align="left">&nbsp;</h1>
 
 <p style="text-align:justify">
-Mientras Jaquelin se encontraba hospitalizada en maternidad, le informan que su exámen toxicológico dió resultado positivo (más adelante supimos que fue "PRESUNTO POSITIVO"). Ella al decirme esto por teléfono y al saber nosotros que no tenemos hábito de consumo de drogas, inmediatamente solicitamos otro exámen para corregir ese resultado. El personal del hospital se negó al principio alegando de que era un test costoso, ect. Pero después de nosotros mucho insistir, una doctora dijo que haria una excepción. Se realizó entonces un segundo exámen (a dos días del primero), dando este un resultado “NEGATIVO”.<br>Sin embargo y a modo de señalar el carácter tendencioso del informe enviado al juzgado de la trabajadora social Carla Jara (Maternidad - hospital El Carmen), hago notar que este segundo resultado no fue dado a conocer en el informe, solo se aplico “positivo para thd” (cannabis). Además — y en ese mismo sentido — en la audiencia preparatoria del 16 de febrero y por pedido nuestro, la representante del hospital informó por primera vez el segundo exámen. Aunque con información “errónea”; Dijo que decidieron suspender la lactancia materna porque el exámen toxicológico dio "POSITIVO" y que tambien existio un exámen posterior con resultado "PRESUNTO NEGATIVO".
+Mientras Jaquelin se encontraba hospitalizada en maternidad, le informan que su exámen toxicológico dió resultado positivo (más adelante supimos que fue "PRESUNTO POSITIVO"). Ella al decirme esto por teléfono y al saber nosotros que no tenemos hábito de consumo de drogas, inmediatamente solicitamos otro exámen para corregir ese resultado. El personal del hospital se negó al principio alegando de que era un test costoso, ect. Pero después de nosotros mucho insistir, una doctora dijo que haria una excepción. Se realizó entonces un segundo exámen (a dos días del primero), dando este un resultado “NEGATIVO”.<br>Sin embargo y a modo de señalar el carácter tendencioso del informe enviado al juzgado de la trabajadora social de Maternidad, hago notar que este segundo resultado no fue dado a conocer en el informe, solo se aplico “positivo para thd” (cannabis). Además — y en ese mismo sentido — en la audiencia preparatoria del 16 de febrero, por pedido nuestro, la representante del hospital informó por primera vez el segundo exámen. Aunque con información incorrecta; Dijo que decidieron suspender la lactancia materna porque el exámen toxicológico dio "POSITIVO" y que tambien existio un exámen posterior con resultado "PRESUNTO NEGATIVO".
 </p>
 
 <br>
-A continuación presento la conclución de un extenso artículo de la renombrada Mayo Clinic que expone la probabilidad de falsos positivos en exámenes toxicológicos de orina y las condiciones de que estos tests deben realizarse para que sus resultados puedan tomarse como válidos.
+A continuación presento la conclusión de un extenso artículo de la renombrada Mayo Clinic que expone la probabilidad de falsos positivos en exámenes toxicológicos de orina y las condiciones de que estos tests deben realizarse para que sus resultados puedan tomarse como válidos.
 
 <br>
 <br>

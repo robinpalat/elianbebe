@@ -8,7 +8,7 @@ nav_order: 51
 
 
 <h2>Como obtuvimos las grabaciones</h2>
-<h4>Jaquelin</h4>
+<h4>Testimonio de Jaquelin. Redactado por Robinson</h4>
 
 <br>
 <p style="text-align:justify">
@@ -29,8 +29,8 @@ Neffer: joven abogado, socio y amigo del hermano de mi pareja<br>
 El tonto, el zángano, el tipo: así se refieren a mi
 <br>
 <br>
-<p style="text-align:justify">En las grabaciones se escuchan principalmente las voces a los abuelos maternos: Sra. Graciela y don Ricardo.<br>Lamentablemente, mediante la escucha de estas conversaciones se puede probar la mala intención de los abuelos que es calumniar a los padres para obtener la tenencia definitiva del bebé.
-La que promueve eso es la abuela, ella es la autoridad en la familia. El abuelo actua de facilitador. La Sra. Graciela además tiene habilidad para manipular. Es probable que en ella la acción de manipular este asociada a un trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y — lo que resultó más perjudicial para nosotros — manipula a los trabajadores sociales y funcionarios. La idea del trastorno es más convincente cuando se tiene en cuenta que ella cortó violentamente el lazo de una madre y un lactante. Y lo hizo en base de calumnias y mentiras. Es a su propia hija a quién hace ese daño. Para ocultar su conducta anormal, la sra. Graciela impunemente hace uso de la calumnia y la mentira. Nos culpa a nosotros los padres de todo lo que se le ocurre en el camino. Nos atribuye enfermedades, nos quiere ver presos, quiere internarnos en un siquiátrico, ect.
+<p style="text-align:justify">En las grabaciones principalmente se escuchan las voces de los abuelos maternos: Sra. Graciela y don Ricardo.<br>Mediante la escucha de estas conversaciones lamentablemente se puede probar la mala intención de los abuelos; Calumniar a los padres para obtener la tenencia definitiva del bebé.
+La que promueve eso es la abuela, ella es la autoridad en la familia. El abuelo actua de facilitador. La Sra. Graciela además tiene habilidad para manipular. Es probable que en ella la acción de manipular este asociada a un trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y — lo que resulta más perjudicial para nosotros — manipula a los trabajadores sociales y funcionarios. La idea del trastorno quisáz sea más convincente cuando se tiene en cuenta que ella cortó violentamente el lazo de una madre y su recién nacido. Esto lo hizo en base de calumnias y mentiras. Es a su propia hija a quién hace ese daño. Para ocultar esa conducta anormal, la sra. Graciela impunemente hace uso de la calumnia y la mentira. Nos culpa a nosotros los padres de todo lo que se le ocurre en el camino. Nos atribuye enfermedades, nos quiere ver presos, quiere internarnos en un siquiátrico, ect.
 <br><br>
 Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su hija. Se mantuvo totalmente ausente. <br>
 

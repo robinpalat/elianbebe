@@ -44,6 +44,10 @@ El siguiente documento tiene un error de tipeo del funcionario de salud: colocó
 
 <br>
 <br>
+<img src="/elianbebe/assets/images/urge7.jpeg" alt="Datos Urgencia" width="100%"/>
+
+<br>
+<br>
 
 Escaner neurológico de jaquelin a pedido de su madre en contexto de VIF de expareja. No se encontraron anormalidades.
 <br>
