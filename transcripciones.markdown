@@ -193,8 +193,8 @@ Mientras Jaquelin se encontraba hospitalizada en unidad de puerperio en Hospital
   <b>Conclución</b>
   <br><br>
 
-Estos audios son para nosotros una prueba de lo que ya sospechábamos. No quedan dudas que usan la calumnia para obtener la tenencia definitiva del bebé. Jaquelin está convencida de que esto, sus padres ya lo planearon durante su embarazo. Dado los antecedentes de Jaquelin, ellos ya sabian que si injerian de esa forma era factible que nosotros ibamos a tener problemas con el bebé.<br><br>
-Ellos se ganan la aprobación y la voluntad de los funcionarios, favoreciéndose del hecho de que están al cuidado de una niña especial. Sus nietos no son una carga ni un problema para ellos como ellos lo presentan. Es todo lo contrario. Los niños dan propósito a su vida, los hacen sentir con una segunda juventud. Los niños dan vida a su hogar. La señora Graciela duerme con la guagua y su nieta de 7 años...<p><br>
+Estos audios nos confirman lo que sospechábamos. No quedan dudas que usan la calumnia para obtener la tenencia definitiva del bebé. Jaquelin está convencida de que esto, sus padres ya lo planearon durante su embarazo. Dado los antecedentes de ella, sus padres sabian que si injerian de esa forma era muy probable que nosotros ibamos a tener problemas.<br><br>
+Ellos aprovechan el hecho de que están al cuidado de una niña especial para ganar la aprobación y la voluntad de los funcionarios. Sus nietos no son una carga ni un problema para ellos, como ellos lo presentan. Es todo lo contrario. Los niños dan propósito a su vida, los hacen sentir con una segunda juventud. Los niños dan vida a su hogar. La señora Graciela duerme con nuestra bebé y su nieta de 7 años.<p><br>
 
 <br>
 
