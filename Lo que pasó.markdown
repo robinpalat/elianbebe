@@ -143,7 +143,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Hace meses mi madre no nos deja ver a nuestro hijo</p>Durante mi embarazo ella ya habia planeado quedarse con nuestro hijo. Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Llegó a decir que yo bañaba a la guagua en agua casi hirviendo. Estas mentiras las presentó en la audiencia para lograr suspender las visitas a mi bebé. 
+ <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Hace meses mi madre no nos deja ver a nuestro hijo</p>Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Llegó a decir que yo bañaba a la guagua en agua casi hirviendo. Estas mentiras las presentó en la audiencia para lograr suspender las visitas. 
  <hr>
 
 	</td>
@@ -156,7 +156,7 @@ nav_order: 3
  
   <hr>
   
-  <font style="font-size:15px">Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos. Quiere quedarse definitivamente con nuestro bebé. Dice a todos que le salvó la vida, que nació drogado, ect.</font>
+  <font style="font-size:15px">Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos. Quiere quedarse definitivamente con nuestro bebé. Durante mi embarazo ella ya habia planeado quedarse con nuestro hijo. Dice a todos que le salvó la vida, que nació drogado, ect.</font>
 
 
 
