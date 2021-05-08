@@ -17,7 +17,7 @@ Las audios fueron grabados durante el tiempo que visite a mi bebé en casa de mi
 <h2>Entendiendo las grabaciones</h2>
 <h4>Robinson</h4>
 <br><br>
-Nombres que se escuchan en las grabaciones:
+Estos son los nombres que se escuchan en las grabaciones:
 <br><br>
 Mauricio: hijo mayor de mi pareja, 18 años<br>
 Millaray: hija de mi pareja, 7 años<br>
@@ -29,17 +29,16 @@ Neffer: joven abogado, socio y amigo del hermano de mi pareja<br>
 El tonto, el zángano, el tipo: así se refieren a mi
 <br>
 <br>
-<p style="text-align:justify">En las grabaciones principalmente se escuchan las voces de los abuelos maternos: Sra. Graciela y don Ricardo.<br>Mediante la escucha de estas conversaciones lamentablemente se puede probar la mala intención de los abuelos; Calumniar a los padres para obtener la tenencia definitiva del bebé.
+<p style="text-align:justify">En las grabaciones principalmente se escuchan las voces de los abuelos maternos: Sra. Graciela y don Ricardo.<br>Mediante la escucha de estas conversaciones, lamentablemente se puede probar la mala intención de los abuelos; Calumniar a los padres para obtener la tenencia definitiva del bebé.
 La que promueve eso es la abuela, ella es la autoridad en la familia. El abuelo actua de facilitador. La Sra. Graciela además tiene habilidad para manipular. Es probable que en ella la acción de manipular este asociada a un trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y — lo que resulta más perjudicial para nosotros — manipula a los trabajadores sociales y funcionarios. La idea del trastorno quisáz sea más convincente cuando se tiene en cuenta que ella cortó violentamente el lazo de una madre y su recién nacido. Esto lo hizo en base de calumnias y mentiras. Es a su propia hija a quién hace ese daño. Para ocultar esa conducta anormal, la sra. Graciela impunemente hace uso de la calumnia y la mentira. Nos culpa a nosotros los padres de todo lo que se le ocurre en el camino. Nos atribuye enfermedades, nos quiere ver presos, quiere internarnos en un siquiátrico, ect.
 <br><br>
 Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su hija. Se mantuvo totalmente ausente. <br>
 
 <br>
-Hago recordar que la manipulación en general está relacionada con el control, con la autoridad, con el capricho.<br><br>
+  <HR>
+En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. (Esto ocurrió cuando al bebé recién lo habían traído a la casa de los abuelos. Lo habian derivado allí desde el hospital El Carmen.) Le quitan el derecho a una madre a opinar sobre su bebé recién nacido. Para los abuelos ya había comenzado "el proceso de expropiación"
 
-En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. (Esto ocurrió cuando al bebé recién lo habían traído a la casa de los abuelos. Lo habian derivado allí desde el hospital El Carmen.) Ejercen el abuso sicológico: le quitan el derecho a una madre a opinar sobre su bebé recién nacido. Para los abuelos ya había comenzado "el proceso de expropiación"...
-
-<br>
+<br><br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/no-vengas-a-opinar-vos" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p class="western" lang="es-CL" align="left"><strong>Yaquelin:</strong> Si es mi hijo yo lo tengo que venir a ver, igual aqu&iacute; como hacia en el hospital, cuando estaba conmigo.</p>
@@ -58,16 +57,19 @@ En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opini
 <br>
 El "Ruso" es el apodo de su hijo de profesión abogado que lo asesora.<br><br>
 
+  <HR>
 En las grabaciones afirma que ella le salvó la vida a la guagua. No existe antecedente de esto. También miente que el bebé dió positivo en un test toxicológico de orina. y — como también se escucha en una grabación — que ella tiene esos documentos. ¡Asi miente a los funcionarios! Pero también a sus vecinos y parientes.<br><br>
 
 La señora comenzó a pedir ropa usada de guagua a sus vecinos para con esto, asegurar su papel de víctima y dejar establecido que los padres de la guagua son irresponsables, drogados y que dejaron botado al bebé.<br><br>También pidió leche en el consultorio Voullienme y envió a su marido a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros, los padres, nunca le falto ropa y desde el principio dejamos bien claro que nos hariamos cargo de los pañales, la leche y sus gastos en general, mientras ellos tengan el cuidado provisorio. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer. ect. nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/la-abuela-te-salvo-la-vida" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<p style='line-height: 100%;text-align: left;'><strong>Sra. Graciela:&nbsp;</strong><span style="font-weight: normal;">P</span>orque la abuela le salvo la vida al nenito... chinito. O sino iba a ir con una enfermera cochina por ah&iacute;. Mi bebe... mi pajarito.</p>
+<p style='text-align: left;'><strong>Sra. Graciela:&nbsp;</strong><span style="font-weight: normal;">P</span>orque la abuela le salvo la vida al nenito... chinito. O sino iba a ir con una enfermera cochina por ah&iacute;. Mi bebe... mi pajarito.</p>
 </div>
 <br>
 
+  <HR>
+  
 Aún tenemos reservas de pañales y leche que no pudimos ir a dejar porque no nos permite acercarnos a su domicilio y no nos atiende por ningún medio.<br>
 <br>
   <div class="Div_a">
@@ -81,15 +83,15 @@ Aún tenemos reservas de pañales y leche que no pudimos ir a dejar porque no no
 </div>
 <br>
 
-
+  <HR>
 En el siguiente audio, don Ricardo se mofa de la situación de los padres diciendo que cobrar la manuntención de sus nietos es un negocio.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/cuando-le-digan-que-tiene-que-pagar" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<p style='line-height: 100%;text-align: left;'><strong>Don Ricardo:&nbsp;</strong><span style="font-weight: normal;">C</span>uando le digan que tenga que pagar 12o mil pesos por el ni&ntilde;o y 60 mil, 70 mil pesos pesos por la Millarai mas! Ah&iacute; esta el negocio! Que se creen!</p>
+<p style='text-align: left;'><strong>Don Ricardo:&nbsp;</strong>Cuando le digan que tenga que pagar 12o mil pesos por el ni&ntilde;o y 60 mil, 70 mil pesos pesos por la Millarai mas! Ah&iacute; esta el negocio! Que se creen!</p>
 </div>
 <br>
-
+  <HR>
 Es muy notable como la abuela pasa horas enteras monologando, analizando la situación. Pensando en todos los posibles escenarios que le beneficiarán o no para quedarse definitivamente con el bebé. Esta obsesionada con ese tema. Aqui por ejemplo revela que le molesta sentirse obligada a aceptar el régimen de visitas.<br>
 <br>
 <div class="Div_a">
@@ -98,7 +100,7 @@ Es muy notable como la abuela pasa horas enteras monologando, analizando la situ
 </div>
 <br>
 
-
+  <HR>
  Se autoconvence de sus mentiras para materializar el personaje problemático que creo de su hija. Usa a su marido e hijos varones para avalarze. Entre los dos padres presentan a su hija como un problema en todos lados.<br>
  <br>
  <div class="Div_a">
@@ -121,6 +123,9 @@ Es muy notable como la abuela pasa horas enteras monologando, analizando la situ
 <br>
 
 En la anterior grabación se nota la intensa pero contenida intención de la abuela de quedarse con el bebé y deshacerse de la mamá. <br><br>
+
+
+  <HR>
 La siguiente es muy peculiar: hace mas de 25 años, la Sra. Graciela perdió un bebe en el parto por falta de oxígeno.
 Ella le recuerda esto a su marido, diciéndole que ya fue condenada una vez cuando perdió ese bebe. Y que porque tienen que condenarla de nuevo ahora. Con esto le da a entender que haga lo que sea para que no dejen que le quiten al Elián. Nuestro hijo <br>
 <br>
@@ -147,29 +152,29 @@ La sra Graciela quiere creer que su hija esta demente. Que necesita ser internad
  <br>
  
 <br>
-  
-  En la siguiente grabación la Sra graciela le exije a don Ricardo que vaye a la panaderia donde yo trabajo a hablar mal de mi. <br><br>Un dia mi empleador me comentó que mi suegro le dijo a el, entre otras cosas terribles, que yo era un violador de niños. El propósito de ellos fué que me despidan para arruinar nuestro principal sustento económico.<br><br>
+    <HR>
+  En la siguiente grabación la Sra graciela le exije a don Ricardo que vaya a la panaderia donde yo trabajo a hablar mal de mi. <br><br>Un dia mi empleador me comentó que mi suegro le dijo a el, entre otras cosas terribles, que yo era un violador de niños. El propósito de ellos fué que me despidan para arruinar nuestro principal sustento económico.<br><br>
   <div class="Div_a">
 <iframe src="https://archive.org/embed/el-martes-tambien-vas-a-ir-a-tener-que-hablar-en-la-panaderiasino-vas-voy-a-ir-yo" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p><strong>Sra. Graciela:</strong>&nbsp;Y el martes tambi&eacute;n vas a ir hablar... Si vos no vas a ir a hablar voy a ir yo a hablar a la panederia. Yo no voy a andar en boca de la gente por el weon [INAUDIBLE]</p>
 </div>
 <br>
 
-Don Ricardo tiene algo planeado para hacerme daño a mi:<br><br>
+Don Ricardo tiene algo planeado para hacerme daño:<br><br>
 
 <div class="Div_a">
 <iframe src="https://archive.org/embed/voy-a-hablar-con-el-ruso...-tengo-una-preparadita" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<p style='line-height: 100%;text-align: left;'><strong>Don Ricardo:&nbsp;</strong><span style="font-weight: normal;">V</span>oy a hablar con el ruso, voy a hablar clarito con el ruso de la&hellip;. como puedo hacer para, para ir Robin&hellip;Yo tengo una preparadita ...[INAUDIBLE]...</p>
-<p style='line-height: 100%;text-align: left;'></p>
-<p style='line-height: 100%;text-align: left;'><strong>Sra. Graciela:&nbsp;</strong><span style="font-weight: normal;">N</span>o, porque eso es venganza.</p>
-<p style='line-height: 100%;text-align: left;'></p>
-<p style='line-height: 100%;text-align: left;'><strong>Don Ricardo: &iexcl;</strong><span style="font-weight: normal;">N</span>o! &iexcl;Porque el no puede!</p>
-<p style='line-height: 100%;text-align: left;'></p>
-<p style='line-height: 100%;text-align: left;'><strong>Sra. Graciela:&nbsp;</strong><span style="font-weight: normal;">Y</span>a se, pero eso tenes que esperar para mas adelante pues weon, no ahora, mas adelante.</p>
+<p style='text-align: left;'><strong>Don Ricardo:&nbsp;</strong><span style="font-weight: normal;">V</span>oy a hablar con el ruso, voy a hablar clarito con el ruso de la&hellip;. como puedo hacer para, para ir Robin&hellip;Yo tengo una preparadita ...[INAUDIBLE]...</p>
+<p style='text-align: left;'></p>
+<p style='text-align: left;'><strong>Sra. Graciela:&nbsp;</strong><span style="font-weight: normal;">N</span>o, porque eso es venganza.</p>
+<p style='text-align: left;'></p>
+<p style='text-align: left;'><strong>Don Ricardo: &iexcl;</strong><span style="font-weight: normal;">N</span>o! &iexcl;Porque el no puede!</p>
+<p style='text-align: left;'></p>
+<p style='text-align: left;'><strong>Sra. Graciela:&nbsp;</strong><span style="font-weight: normal;">Y</span>a se, pero eso tenes que esperar para mas adelante pues weon, no ahora, mas adelante.</p>
 </div>
 <br>
-
-Mientras Jaquelin se encontraba hospitalizada en unidad de puerperio en Hospital El Carmen, Su padre se presentó espontaneamente y le convenció a la trabajadora social que el bebé corria riezgo de muerte con nosotros. Reforzo sus argumentos con informes médicos de VIF de jaquelin del COSAM y otros papeles. La trabajadora social creyendo que estaba actuando bien, realizó un informe sobre Jaquelin al Juzgado que culminó con la medida de protección. 
+  <HR>
+Mientras Jaquelin se encontraba hospitalizada en unidad de puerperio en Hospital El Carmen, Su padre se presentó espontaneamente y le convenció a la trabajadora social que el bebé corria riezgo de muerte con nosotros. Reforzo sus argumentos con informes médicos de jaquelin del COSAM y otros papeles. La trabajadora social creyendo que estaba actuando bien, realizó un informe sobre Jaquelin al Juzgado que culminó con la medida de protección. 
 <br><br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/ella-no-tiene-idea-que-nosotros-presentamos-papeles" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -184,6 +189,7 @@ Mientras Jaquelin se encontraba hospitalizada en unidad de puerperio en Hospital
 <br>
 <br>
   
+  <HR>
   <b>Conclución</b>
   <br><br>
 
