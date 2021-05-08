@@ -28,7 +28,7 @@ nav_order: 3
 
   <tr>
     <td> </td>
-    <td> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con la matrona de mi consultorio sobre tener un hijo a mi edad (37 años)</p> Me encontre con el dilema de tener un hijo "ahora o nunca más". Por mi edad era arriezgado para más adelante. Yo me sentia con muchas de tener un hijo. Mi pareja estuvo de acuerdo.<br>
+    <td> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con la matrona de mi consultorio sobre tener un hijo a mi edad (37 años)</p>Por causa de mi edad, me encontre con el dilema de tener un hijo "ahora o ya nunca más". Yo me sentía con muchas ganas de tener un hijo. Mi pareja estuvo de acuerdo conmigo.<br>
   <hr><br><br></td>
     <td> </td>
   </tr>
@@ -54,7 +54,7 @@ nav_order: 3
     <td> </td>
     <td>
  <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Quedé embarazada en abril</p>
- Quedé embarazada después de salier bien los exámenes médicos solicitados por matrona y dépues de asegurar nuestra situación económica.
+ Quedé embarazada después de salir bien en los exámenes médicos solicitados por matrona y déspues de asegurar nuestra situación económica.
    <hr> <br><br>
 	</td>
     <td> </td>
