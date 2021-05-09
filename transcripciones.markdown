@@ -29,8 +29,8 @@ Neffer: joven abogado, socio y amigo del hermano de mi pareja<br>
 El tonto, el zángano, el tipo: así se refieren a mi
 <br>
 <br>
-<p style="text-align:justify">En las grabaciones principalmente se escuchan las voces de los abuelos maternos: Sra. Graciela y don Ricardo.<br>Mediante la escucha de estas conversaciones, se puede probar lamentablemente la mala intención de los abuelos; Calumniar a los padres para obtener la tenencia definitiva del bebé.
-La que promueve eso es la abuela. Ella es la autoridad en el grupo familiar. El abuelo actua de facilitador. La Sra. Graciela además tiene habilidad para manipular. Es probable que en ella la acción de manipular este asociada a un trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y — lo que resulta más perjudicial para nosotros — manipula a los trabajadores sociales y funcionarios. La idea del trastorno quisáz es más convincente cuando se tiene en cuenta que ella cortó violentamente el lazo de una madre y su recién nacido. Esto lo hizo en base de calumnias y mentiras. Es a su propia hija a quién hace ese daño. Para ocultar esa conducta anormal, la sra. Graciela impunemente hace uso de la calumnia y la mentira. Nos culpa a nosotros los padres de todo lo que se le ocurre en el camino. Nos atribuye enfermedades, nos quiere ver presos, quiere internarnos en un siquiátrico, ect.
+<p style="text-align:justify">Principalmente se escuchan las voces de los abuelos maternos: Sra. Graciela y Don Ricardo.<br>Mediante la escucha de estas conversaciones, se puede probar lamentablemente la mala intención de los abuelos, la cual es calumniar a los padres para obtener la tenencia definitiva del bebé.
+La que promueve eso es la abuela, la autoridad en la familia. El abuelo actua de facilitador. La Sra. Graciela tiene habilidad para manipular. Es probable que en ella la acción de manipular este asociada a un trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y — lo que resulta más perjudicial para nosotros — a los funcionarios. La idea del trastorno es quisáz más convincente cuando se tiene en cuenta que ella cortó bruzcamente el lazo de una madre con su recién nacido. Es a su propia hija a quién hace ese daño. Y, para ocultar esa conducta anormal, la señora hace uso impune de la calumnia y la mentira. Nos culpa a nosotros los padres de todo lo que se le ocurre en el camino. Nos atribuye enfermedades, nos quiere ver presos, quiere internarnos en un siquiátrico, ect.
 <br><br>
 Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su hija. Se mantuvo totalmente ausente. <br>
 
@@ -60,7 +60,7 @@ El "Ruso" es el apodo de su hijo de profesión abogado que lo asesora.<br><br>
   <HR>
 En las grabaciones afirma que ella le salvó la vida a la guagua. No existe antecedente de esto. También miente que el bebé dió positivo en un test toxicológico de orina. y — como también se escucha en una grabación — que ella tiene esos documentos. ¡Asi miente a los funcionarios! Pero también a sus vecinos y parientes.<br><br>
 
-La señora comenzó una campaña de pedir ropa usada de guagua a sus vecinos para asegurar su papel de víctima y dejar establecido que los padres de la guagua son irresponsables y dejaron botado al bebé.<br><br>También pidió leche en el consultorio Voullienme y envió a su marido a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros, los padres, nunca le falto ropa y desde el principio dejamos bien claro que nos hariamos cargo de los pañales, la leche y sus gastos en general, mientras ellos tengan el cuidado provisorio. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer. ect. nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
+La señora comenzó una campaña de pedir ropa usada de guagua a sus vecinos para asegurar su papel de víctima y dejar establecido que los padres de la guagua son irresponsables y dejaron botado al bebé.<br><br>También pidió leche en el consultorio Voullienme y envió a su marido a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros nunca le falto ropa y desde el principio dejamos bien claro que nos hariamos cargo de los pañales, la leche y sus gastos en general, mientras ellos tengan el cuidado provisorio. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer. ect. nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/la-abuela-te-salvo-la-vida" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -84,7 +84,7 @@ Aún tenemos reservas de pañales y leche que no pudimos ir a dejar porque no no
 <br>
 
   <HR>
-En el siguiente audio, don Ricardo se mofa de la situación de los padres diciendo que cobrar la manuntención de sus nietos es un negocio.<br>
+En el siguiente audio, don Ricardo se burla de la situación de los padres diciendo que cobrar la manuntención de sus nietos es un negocio.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/cuando-le-digan-que-tiene-que-pagar" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -122,12 +122,12 @@ Es muy notable como la abuela pasa horas enteras monologando, analizando la situ
 </div>
 <br>
 
-En la anterior grabación se nota la intensa pero contenida intención de la abuela de quedarse con el bebé y deshacerse de la mamá. <br><br>
+
 
 
   <HR>
-La siguiente es muy peculiar: hace mas de 25 años, la Sra. Graciela perdió un bebe en el parto por falta de oxígeno.
-Ella le recuerda esto a su marido, diciéndole que ya fue condenada una vez cuando perdió ese bebe. Y que porque tienen que condenarla de nuevo ahora. Con esto le da a entender que haga lo que sea para que no dejen que le quiten al Elián. Nuestro hijo <br>
+La siguiente es muy particular y revelador: hace mas de 25 años, la Sra. Graciela perdió un bebe en el parto por falta de oxígeno.
+Ella le recuerda este suceso a su marido, diciéndole que ya fue condenada una vez cuando perdió ese bebe. Y que porque tienen que condenarla de nuevo ahora. Refiriendose con esto último a que va a hacer lo que sea para que no dejen que le quiten al Elián, nuestro hijo. <br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/entonces-yo-voy-a-tener-lastima-a-todos-y-yo-a-mi-ya-me-condenaron-cuando-murio-mi-guaguita" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -147,13 +147,13 @@ Ella le recuerda esto a su marido, diciéndole que ya fue condenada una vez cuan
 
 
 
-La sra Graciela quiere creer que su hija esta demente. Que necesita ser internada en un siquiátrico. Para así tener a disposición la casa de Santiago de su hija y vivir allí rodeada de los hijos de su hija. Se queja del COSAM por que el COSAM nunca cumplió con su pedido de que diagnostique como enferma mental a su hija. Esta preocupada porque necesita otra institución para su capricho. 
+La sra Graciela asegura que su hija esta demente. Que necesita ser internada en un siquiátrico. Se queja del COSAM porque el COSAM nunca cumplió con su pedido de que diagnostique como enferma mental a su hija. Esta preocupada porque necesita otra institución para su capricho. 
 
  <br>
  
 <br>
     <HR>
-  En la siguiente grabación la Sra graciela le exije a don Ricardo que vaya a la panaderia donde yo trabajo a hablar mal de mi. <br><br>Un dia mi empleador me comentó que mi suegro le dijo a el, entre otras cosas terribles, que yo era un violador de niños. El propósito de ellos fué que me despidan para arruinar nuestro principal sustento económico.<br><br>
+  En la siguiente grabación la Sra Graciela le exije a Don Ricardo que vaya a la panaderia donde yo trabajo para hablar mal de mi. Dijo alli que yo era un abusador sexual de niños <br>
   <div class="Div_a">
 <iframe src="https://archive.org/embed/el-martes-tambien-vas-a-ir-a-tener-que-hablar-en-la-panaderiasino-vas-voy-a-ir-yo" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p><strong>Sra. Graciela:</strong>&nbsp;Y el martes tambi&eacute;n vas a ir hablar... Si vos no vas a ir a hablar voy a ir yo a hablar a la panederia. Yo no voy a andar en boca de la gente por el weon [INAUDIBLE]</p>
@@ -174,7 +174,7 @@ Don Ricardo tiene algo planeado para hacerme daño:<br><br>
 </div>
 <br>
   <HR>
-Mientras Jaquelin se encontraba hospitalizada en unidad de puerperio en Hospital El Carmen, Su padre se presentó espontaneamente y le convenció a la trabajadora social que el bebé corria riezgo de muerte con nosotros. Reforzo sus argumentos con informes médicos de jaquelin del COSAM y otros papeles. La trabajadora social creyendo que estaba actuando bien, realizó un informe sobre Jaquelin al Juzgado que culminó con la medida de protección. 
+Mientras Jaquelin se encontraba hospitalizada en unidad de puerperio en Hospital El Carmen, Su padre se presentó espontaneamente y le convenció a la trabajadora social que el bebé corria riezgo de muerte con nosotros. Reforzo sus argumentos con informes médicos de jaquelin del COSAM y otros papeles. La trabajadora social creyendo que estaba actuando bien, envió un informe al Juzgado que culminó con la medida de protección. 
 <br><br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/ella-no-tiene-idea-que-nosotros-presentamos-papeles" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -194,7 +194,7 @@ Mientras Jaquelin se encontraba hospitalizada en unidad de puerperio en Hospital
   <br><br>
 
 Estos audios nos confirman lo que sospechábamos. No quedan dudas que usan la calumnia para obtener la tenencia definitiva del bebé. Jaquelin está convencida de que esto, sus padres ya lo planearon durante su embarazo. Dado los antecedentes de ella, sus padres sabian que si injerian de esa forma era muy probable que nosotros ibamos a tener problemas.<br><br>
-Ellos aprovechan el hecho de que están al cuidado de una niña especial para ganar la aprobación y la voluntad de los funcionarios. Sus nietos no son una carga ni un problema para ellos, como ellos lo presentan. Es todo lo contrario. Los niños dan propósito a su vida, los hacen sentir con una segunda juventud. Los niños dan vida a su hogar. La señora Graciela duerme con nuestra bebé y su nieta de 7 años.<p><br>
+Ellos aprovechan el hecho de que están al cuidado de una niña especial para ganar la aprobación y la voluntad de los funcionarios. Sus nietos no son una carga ni un problema para ellos, como ellos lo presentan. Es todo lo contrario. Los niños dan propósito a su vida, los hacen sentir con una segunda juventud. Los niños dan vida a su hogar. La señora Graciela duerme con nuestro bebé y su nieta de 7 años.<p><br>
 
 <br>
 

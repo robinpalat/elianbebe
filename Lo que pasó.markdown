@@ -134,7 +134,7 @@ nav_order: 3
  
 
   <hr>
-  <font style="font-size:15px">Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos. Quiere quedarse definitivamente con nuestro bebé. Durante mi embarazo ella ya habia planeado quedarse con nuestro hijo. Dice a todos que le salvó la vida, que nació drogado, ect.</font>
+  <p style="font-size:15px;text-align:justify">Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos. Quiere quedarse definitivamente con nuestro bebé. Durante mi embarazo ella ya habia planeado quedarse con nuestro hijo. Dice a todos que le salvó la vida, que nació drogado, ect.</p>
 
 
 
