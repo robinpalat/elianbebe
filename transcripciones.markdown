@@ -12,7 +12,7 @@ nav_order: 51
 
 <br>
 <p style="text-align:justify">
-Las audios fueron grabados durante el tiempo que visite a mi bebé en casa de mis padres. Ocurrió de la siguiente manera: a mi hija de 7 años de vez en cuando se le agotaba la batería de su teléfono y me pedía el mio para mirar sus monos. Un día se me ocurrió llevar otro teléfono que no usaba de mi casa para darle a ella y asi yo poder ocupar el mio tranquilamente. Aveces dejaba ese teléfono en casa de mis padres o mi hija misma jugando lo escondía en algún cajón. Cuando tube la oportunidad de llevar de nuevo el teléfono a mi casa, descubrí que habían grabaciones de audio de varias horas de duración. Al parecer mi hija jugando, además de sacar fotos y videos, habia  activado también la grabadora de voz. Asi quedaron registradas las conversaciones que se daban en el mismo lugar donde estaba el teléfono... principalmente en la habitación donde estaba mi bebé.<p><br>
+Las audios que yo y mi pareja tenemos, fueron grabados durante el tiempo que visite a mi bebé en casa de mis padres. Ocurrió de la siguiente manera: a mi hija de 7 años de vez en cuando se le agotaba la batería de su teléfono y me pedía el mio para mirar sus monos. Un día se me ocurrió llevar otro teléfono que no usaba de mi casa para darle a ella y asi yo poder ocupar el mio tranquilamente. Aveces dejaba ese teléfono en casa de mis padres o mi hija misma jugando lo escondía en algún cajón. Cuando tube la oportunidad de llevar de nuevo el teléfono a mi casa, descubrí que habían grabaciones de audio de varias horas de duración. Al parecer mi hija jugando, además de sacar fotos y videos, habia  activado también la grabadora de voz. Asi quedaron registradas las conversaciones que se daban en el mismo lugar donde estaba el teléfono. Principalmente en la habitación donde estaba mi bebé.<p><br>
 <hr>
 <h2>Entendiendo las grabaciones</h2>
 <h4>Robinson</h4>
@@ -29,8 +29,8 @@ Neffer: joven abogado, socio y amigo del hermano de mi pareja<br>
 El tonto, el zángano, el tipo: así se refieren a mi
 <br>
 <br>
-<p style="text-align:justify">Principalmente se escuchan las voces de los abuelos maternos: Sra. Graciela y Don Ricardo.<br>Mediante la escucha de estas conversaciones, se puede probar lamentablemente la mala intención de los abuelos, la cual es calumniar a los padres para obtener la tenencia definitiva del bebé.
-La que promueve eso es la abuela, la autoridad en la familia. El abuelo actua de facilitador. La Sra. Graciela tiene habilidad para manipular. Es probable que en ella la acción de manipular este asociada a un trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y — lo que resulta más perjudicial para nosotros — a los funcionarios. La idea del trastorno es quisáz más convincente cuando se tiene en cuenta que ella cortó bruzcamente el lazo de una madre con su recién nacido. Es a su propia hija a quién hace ese daño. Y, para ocultar esa conducta anormal, la señora hace uso impune de la calumnia y la mentira. Nos culpa a nosotros los padres de todo lo que se le ocurre en el camino. Nos atribuye enfermedades, nos quiere ver presos, quiere internarnos en un siquiátrico, ect.
+<p style="text-align:justify">Principalmente se escuchan las voces de los abuelos maternos: Sra. Graciela y Don Ricardo.<br>Mediante la escucha de estas conversaciones, se puede probar lamentablemente la mala intención de los abuelos, la cual es calumniar a nosotros los papás para obtener la tuición definitiva de nuestro hijo.
+La que promueve eso es la abuela, la autoridad en la familia y la actual cuidadora temporal de nuestro hijo. El abuelo Don Ricardo solo actua de facilitador. La Sra. Graciela ejerce la manipulación para lograr sus propósitos. Es probable que en ella la acción de manipular este asociada a un trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y — lo que resulta más perjudicial para nosotros — a los funcionarios. La idea del trastorno es quisáz más convincente cuando se tiene en cuenta que ella cortó bruzcamente el lazo de una madre con su recién nacido. Es a su propia hija a quién hace ese daño. Para ocultar esa anormal conducta, la señora hace uso impune de la calumnia y la mentira. Nos culpa a nosotros los padres de todo lo que se le ocurre. Nos atribuye enfermedades, nos quiere ver presos, quiere internarnos en un siquiátrico, ect.
 <br><br>
 Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su hija. Se mantuvo totalmente ausente. <br>
 
@@ -48,7 +48,7 @@ En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opini
 </div>
 
 <br>
- Días después la abuela llena de ira, expresa que quiere ver presos a los padres. La presencia de los padres le acusa a la señora Graciela que ella no es la mamá de los niños. Por eso los padres la perturban.<br>
+ Días después la abuela llena de ira, expresa que quiere ver presos a los padres. La presencia de los padres le acusa a la Sra. Graciela que ella no es la mamá de los niños. Por eso la cercanía de los padres la perturban.<br>
 <br>
 <div class="Div_a" >
 <iframe src="https://archive.org/embed/yo-le-digo-al-ruso-o-hacen-algo-o-no-se-yo-quiero-presos-a-los-dos-los-dos-padres-del-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -60,7 +60,7 @@ El "Ruso" es el apodo de su hijo de profesión abogado que lo asesora.<br><br>
   <HR>
 En las grabaciones afirma que ella le salvó la vida a la guagua. No existe antecedente de esto. También miente que el bebé dió positivo en un test toxicológico de orina. y — como también se escucha en una grabación — que ella tiene esos documentos. ¡Asi miente a los funcionarios! Pero también a sus vecinos y parientes.<br><br>
 
-La señora comenzó una campaña de pedir ropa usada de guagua a sus vecinos para asegurar su papel de víctima y dejar establecido que los padres de la guagua son irresponsables y dejaron botado al bebé.<br><br>También pidió leche en el consultorio Voullienme y envió a su marido a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros nunca le falto ropa y desde el principio dejamos bien claro que nos hariamos cargo de los pañales, la leche y sus gastos en general, mientras ellos tengan el cuidado provisorio. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer. ect. nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
+La señora comenzó a pedir ropa usada de guagua a sus vecinos para asegurar su papel de víctima y dejar establecido que los padres de la guagua son irresponsables y dejaron botado al bebé.<br><br>También pidió leche en el consultorio Voullienme y envió a su marido a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros nunca le falto ropa y desde el principio dejamos bien claro que nos hariamos cargo de los pañales, la leche y sus gastos en general, mientras ellos tengan el cuidado provisorio. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer. ect. nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/la-abuela-te-salvo-la-vida" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -92,7 +92,7 @@ En el siguiente audio, don Ricardo se burla de la situación de los padres dicie
 </div>
 <br>
   <HR>
-Es muy notable como la abuela pasa horas enteras monologando, analizando la situación. Pensando en todos los posibles escenarios que le beneficiarán o no para quedarse definitivamente con el bebé. Esta obsesionada con ese tema. Aqui por ejemplo revela que le molesta sentirse obligada a aceptar el régimen de visitas.<br>
+Es muy notable como la abuela pasa horas enteras monologando, analizando la situación. Esta obsesionada con ese tema. Aqui por ejemplo revela que le molesta sentirse obligada a aceptar el régimen de visitas.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/mama-como-esa-no-dejo-ni-que-le-mire-al-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -101,7 +101,7 @@ Es muy notable como la abuela pasa horas enteras monologando, analizando la situ
 <br>
 
   <HR>
- Se autoconvence de sus mentiras para materializar el personaje problemático que creo de su hija. Usa a su marido e hijos varones para avalarze. Entre los dos padres presentan a su hija como un problema en todos lados.<br>
+ Entre los dos padres presentan a su hija como un problema en todos lados.<br>
  <br>
  <div class="Div_a">
 <iframe src="https://archive.org/embed/hija-donde-anda-mi-hija-refiriendose-a-la-millaray.-la-negra-yaquelin-debe-estar-podrida-por-dentro" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -153,7 +153,7 @@ La sra Graciela asegura que su hija esta demente. Que necesita ser internada en 
  
 <br>
     <HR>
-  En la siguiente grabación la Sra Graciela le exije a Don Ricardo que vaya a la panaderia donde yo trabajo para hablar mal de mi. Dijo alli que yo era un abusador sexual de niños <br>
+  En la siguiente grabación la Sra Graciela le exije a Don Ricardo que vaya a la panaderia donde yo trabajo para hablar mal de mi. Dijo alli que yo era un abusador sexual de niños <br><br>
   <div class="Div_a">
 <iframe src="https://archive.org/embed/el-martes-tambien-vas-a-ir-a-tener-que-hablar-en-la-panaderiasino-vas-voy-a-ir-yo" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p><strong>Sra. Graciela:</strong>&nbsp;Y el martes tambi&eacute;n vas a ir hablar... Si vos no vas a ir a hablar voy a ir yo a hablar a la panederia. Yo no voy a andar en boca de la gente por el weon [INAUDIBLE]</p>
