@@ -13,14 +13,17 @@ nav_order: 3
  
 
 
-<big>AÑO 2019</big>
-<hr>
+
 
 
  <table width="100%">
+
   <tr>
+
+ <big>AÑO 2019</big><br>
+
     <td width="10%"> </td>
-    <td width="80%"><br> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Con Robin nos proyectamos para casarnos y tener una familia </p>Robin llegó a Chile en mayo del 2019, tardó meses en conseguir trabajo. En esos dias contamos con el apoyo de ambas familias.<br>
+    <td width="80%"><br><br> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Junto con Robin nos proyectamos para casarnos y tener una familia </p>Robin llegó a Chile en mayo. Tardó meses en conseguir trabajo. En esos días contamos con el apoyo de nuestras familias.<br>
    <hr><br><br></td>
     <td width="10%"> </td>
   </tr>
@@ -28,23 +31,23 @@ nav_order: 3
 
   <tr>
     <td> </td>
-    <td> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con la matrona de mi consultorio sobre tener un hijo a mi edad (37 años)</p>Por causa de mi edad, me encontre con el dilema de tener un hijo "ahora o ya nunca más". Yo me sentía con muchas ganas de tener un hijo. Mi pareja estuvo de acuerdo conmigo.<br>
+    <td> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con la matrona de mi consultorio sobre tener un hijo a mi edad (37 años)</p>Por causa de mi edad, me encontre con el dilema de tener un hijo "ahora o ya nunca más". Yo me sentía con muchas ganas de tener un hijo. Robin estuvo de acuerdo conmigo.<br>
   <hr><br><br></td>
     <td> </td>
   </tr>
 </table>
 
-
+<br><br>
 
 <big>AÑO 2020</big>
-<hr>
+<br>
 
 
 
 <table width="100%">
   <tr>
     <td></td>
-    <td> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;A principios del 2020, Robin consiguió un trabajo importante y estable </p>Además contábamos con ingresos de un servicio técnico de teléfonos y yo comenzé a vender queques y pasteles.<br>
+    <td> <br><br><p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;A principios del 2020 Robin consiguió un trabajo importante y estable </p>Además contábamos con ingresos de un servicio técnico de teléfonos y yo comenzé a vender queques y pasteles.<br>
    <hr><br><br></td>
     <td> </td>
   </tr>
@@ -74,7 +77,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Durante mi embarazo me sentí sola, sin el apoyo de mis padres ni de mis hermanos</p> Solo conté con el apoyo y la compañia de mi pareja. Aunque por su trabajo y la pandemia pasaba igual muchas horas sola. Mi padre aprovechaba el tiempo que estaba sola viniendo a mi casa para maltratarme sicologicamente. Me empujó varias veces estando embarazada. Me trataba de "weona aqui, weona allá". Me quitó una copia de las llaves de mi casa<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Durante mi embarazo me sentí muchas veces sola</p>No tenía el apoyo de mis padres ni de mis hermanos. Solo conté con la compañia de mi pareja. Aunque por su trabajo y la pandemia pasaba igual muchas horas sola. Mi padre aprovechaba el tiempo que yo estaba sola viniendo a mi casa para maltratarme sicologicamente. Me empujó varias veces estando embarazada. Me mostraba fotos de mi ex pareja y me hablaba de el. Me trataba de "weona aqui, weona allá". Me quitó una copia de las llaves de mi casa<br>
    <hr> <br><br>
 	</td>
     <td> </td>
@@ -87,24 +90,26 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Semanas antes de mi fecha estimada de parto, mi madre comenzó a insistirme que el parto se asistiera en hospital "El Paula"</p> Mis padres son conocidos del asistente social de ese Hospital, el funcionario los apoyó en la causa de mi hija Millarai. Yo me di cuenta que ellos querian manejar y ser los protagonistas de ese momento de mi vida y dejar de lado a mi pareja. Ellos ya habian acordado el tema del parto con el asistente social de ese hospital. Por eso yo queria evitar el Paula<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi madre comenzó a insistirme que el parto se asistiera en hospital "El Paula"</p> Semanas antes de mi fecha estimada de parto, mi madre comenzo a llamarme por teléfono y decirme que me atienda en "El Paula". Mis padres son conocidos del asistente social de ese Hospital, el funcionario los apoyó en la causa de mi hija Millarai. Yo me di cuenta que ellos querian manejar y ser los protagonistas de ese momento de mi vida y dejar de lado a mi pareja. Ellos ya habian acordado el tema del parto con el asistente social de ese hospital. Por eso yo queria evitar el Paula<br>
     <hr><br><br>
 	</td>
     <td> </td>
   </tr>
 </table>
+<br><br>
 
 
 
-<big>AÑO 2021</big>
-<hr>
+
 
 
 <table width="100%">
+
+<big>AÑO 2021</big>
   <tr>
     <td> </td>
     <td>
-
+<br><br>
  <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Nuestro Hijo Nació el 2 de enero en el hospital "El Cármen"</p>
  Ese dia cometi el error de decirle por teléfono a mi madre donde yo estaba hospitalizada".
  Ella enojada me dijo: "para que fuiste ahí, si en el Paula te estaban esperando con camilla y todo". Al saber en que lugar estaba haciendo yo atendida, mi madre le envio a mi padre a hablar con la trabajadora social de maternidad del hospital "El Carmen"<br>
@@ -116,7 +121,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mientras yo estaba todavía hospitalizada, mi papá se presentó espontáneamente en maternidad del "Carmen"</p> Mi papá se presento con unos papeles mios del COSAM (Que extrajo sin autorización de mi casa) y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender a la asistente social que yo soy "un peligro vivo"; Que dejo botados a mis hijos. También calumniaron a mi pareja.<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mientras yo estaba todavía hospitalizada, mi papá se presentó espontáneamente en maternidad del "Carmen"</p> Mi papá se presento con unos papeles mios del COSAM (Que extrajo sin autorización de mi casa) y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender a la asistente social que yo soy "un peligro vivo"; Que dejo botados a mis hijos. También calumniaron gravemente a mi pareja.<br>
    <hr><br><br>
 	</td>
     <td> </td>
@@ -125,7 +130,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Estando yo hospitalizada en puerperio la trabajadora social, influenciada por mis padres, malinterpretaba lo que yo hacía</p>La funcionaria realizó un informe social que fué presentado al tribunal de familia, dónde aseguraba de que no lo quize tener en brasos a mi bebé. Que no lo atendía, que le negue la lactancia. Además solicitó un test de droga sin fundamento muy claro. Dando este un resultado presunto positivo, siendo que nunca consumimos drogas.<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Estando yo hospitalizada en puerperio la trabajadora social, influenciada por mis padres, malinterpretaba lo que yo hacía</p>La funcionaria presentó un informe al tribunal de familia, dónde aseguraba de que no lo quize tener en brasos a mi bebé. Que no lo atendía, que le negue la lactancia. Además solicitó un test de droga sin fundamento muy claro. Dando este un resultado presunto positivo, siendo que nunca consumimos drogas.<br>
 	 <hr><br><br></td>
     <td> </td>
   </tr>
@@ -133,18 +138,18 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="color:#353446; font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; El tribunal dictó un medida de protección. Nos separamos de nuestro bebé</p> Dieron el cuidado provisorio a mis padres
-	 <hr></td>
+ <p style="color:#353446; font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; El tribunal dictó una medida de protección.</p> Nos separamos de nuestro bebé. Dieron el cuidado provisorio a mis padres.
+	 <hr><br><br></td>
     <td> </td>
   </tr>
-<br>
+<br><br>
 
 
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Hace meses mi madre no nos deja ver a nuestro hijo</p>Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Llegó a decir que yo bañaba a la guagua en agua casi hirviendo. Estas mentiras las presentó en la audiencia para lograr suspender las visitas. 
- <hr>
+ <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi madre hace meses no nos deja ver a nuestro hijo</p>Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Dijo que yo bañaba a la guagua en agua casi hirviendo. Que discriminaba a mi otros hijos. Estas mentiras las presentó en la audiencia para lograr suspender las visitas. 
+ <hr><br><br>
 
 	</td>
     <td> </td>
@@ -154,7 +159,7 @@ nav_order: 3
 
 </table>
  
-  <hr>
+<br><br>
   
   <font style="font-size:15px">Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos. Quiere quedarse definitivamente con nuestro bebé. Durante mi embarazo ella ya habia planeado quedarse con nuestro hijo. Dice a todos que le salvó la vida, que nació drogado, ect.</font>
 
