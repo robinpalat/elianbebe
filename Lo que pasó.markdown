@@ -14,7 +14,7 @@ nav_order: 3
  <table width="100%">
   <tr><big>AÑO 2019</big><br>
     <td width="10%"> </td>
-    <td width="80%"><br><br> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Junto con Robin nos proyectamos para casarnos y tener una familia </p>Robin llegó a Chile en mayo. Tardó meses en conseguir trabajo. En esos días contamos con el apoyo de nuestras familias.<br>
+    <td width="80%"><br><br> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Junto con Robin nos proyectamos para casarnos y tener una familia </p>Robin llegó a Chile de Argentina en mayo. Tardó meses en conseguir trabajo. En esos días contamos con el apoyo de nuestras familias.<br>
    <hr><br><br></td>
     <td width="10%"> </td>
   </tr>
