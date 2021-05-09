@@ -9,19 +9,10 @@ nav_order: 3
 <h2>Lo que nos pasó</h2>
 <h4>Testimonio de Jaquelin. Redactado por Robinson</h4>
 
-<br><br><br>
+<br><br><br><br>
  
-
-
-
-
-
  <table width="100%">
-
-  <tr>
-
- <big>AÑO 2019</big><br>
-
+  <tr><big>AÑO 2019</big><br>
     <td width="10%"> </td>
     <td width="80%"><br><br> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Junto con Robin nos proyectamos para casarnos y tener una familia </p>Robin llegó a Chile en mayo. Tardó meses en conseguir trabajo. En esos días contamos con el apoyo de nuestras familias.<br>
    <hr><br><br></td>
@@ -37,15 +28,8 @@ nav_order: 3
   </tr>
 </table>
 
-<br><br>
-
-<big>AÑO 2020</big>
-<br>
-
-
-
 <table width="100%">
-  <tr>
+  <tr><big>AÑO 2020</big><br>
     <td></td>
     <td> <br><br><p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;A principios del 2020 Robin consiguió un trabajo importante y estable </p>Además contábamos con ingresos de un servicio técnico de teléfonos y yo comenzé a vender queques y pasteles.<br>
    <hr><br><br></td>
@@ -83,10 +67,6 @@ nav_order: 3
     <td> </td>
   </tr>
 
-
-
-
-
   <tr>
     <td> </td>
     <td>
@@ -96,17 +76,10 @@ nav_order: 3
     <td> </td>
   </tr>
 </table>
-<br><br>
-
-
-
-
 
 
 <table width="100%">
-
-<big>AÑO 2021</big>
-  <tr>
+  <tr><big>AÑO 2021</big>
     <td> </td>
     <td>
 <br><br>
@@ -159,8 +132,8 @@ nav_order: 3
 
 </table>
  
-<br><br>
-  
+
+  <hr>
   <font style="font-size:15px">Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos. Quiere quedarse definitivamente con nuestro bebé. Durante mi embarazo ella ya habia planeado quedarse con nuestro hijo. Dice a todos que le salvó la vida, que nació drogado, ect.</font>
 
 
