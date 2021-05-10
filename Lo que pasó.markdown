@@ -121,21 +121,27 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi madre hace meses no nos deja ver a nuestro hijo</p>Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Dijo que yo bañaba a la guagua en agua casi hirviendo. Que discriminaba a mi otros hijos. Estas mentiras las presentó en la audiencia para lograr suspender las visitas. 
+ <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi madre hace meses no nos deja ver a nuestro hijo</p>Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Dijo que yo bañaba a la guagua en agua casi hirviendo. Que discriminaba a mi otros hijos. Estas mentiras las presentó en la audiencia para suspender las visitas. 
  <hr><br><br>
 
 	</td>
     <td> </td>
   </tr>
 
-
-
 </table>
  
 
-  <hr>
-  <p style="font-size:15px;text-align:justify">Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos. Quiere quedarse definitivamente con nuestro bebé. Durante mi embarazo ella ya habia planeado quedarse con nuestro hijo. Dice a todos que le salvó la vida, que nació drogado, ect.</p>
-
+<div class="Div_b">
+<table class="Div_b">
+<td class="Div_b">
+<img src="/elianbebe/assets/images/cancel.png" alt="drawing" width="150"/>
+</td>
+<td class="Div_b" style="text-align:justify">
+  Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos. Quiere quedarse definitivamente con nuestro bebé. <br>
+  Durante mi embarazo ella ya habia planeado quedarse con nuestro hijo. Dice a todos que le salvó la vida, que nació drogado, ect.
+</td>
+</table>
+ </div>
 
 
 
