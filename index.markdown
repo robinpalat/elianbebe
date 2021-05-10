@@ -10,9 +10,9 @@ permalink: /
 <br>
 
 
-Creamos este sitio web para contar lo que nos pasó con nuestro hijo recién nacido de forma fácil de entender.<br><br>
+Queremos contar lo que nos pasó con nuestro hijo recién nacido de forma fácil de entender.<br><br>
 
-<b>Motivo de la creación de este sitio web:</b>
+<b>Motivo de la presentación de este sitio web:</b>
 Los abuelos maternos de nuestro bebé recorren los establecimientos de salud para calumniarnos. Nuestra intención es demostrar a los trabajadores sociales y otros funcionarios que ellos no dicen la verdad.
 <br>
 <b>El contenido:</b>
