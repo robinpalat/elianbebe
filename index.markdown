@@ -19,7 +19,7 @@ permalink: /
 Creamos este sitio web para contar lo que nos pasó con nuestro bebé de forma fácil de entender.<br><br>
 
 <b>Motivo de la creación de este sitio web:</b>
-Los padres de mi pareja recorren los establecimientos de salud para calumniarnos. Nuestra inteción con esta web es demostrar de que lo que ellos dicen es mentira.
+Los abuelos maternos recorren los establecimientos de salud para calumniarnos. Nuestra inteción con esta web es demostrar de que lo que ellos dicen es mentira.
 <br>
 <b>El contenido:</b>
 Presentamos antecedentes como audios y otros documentos, ademas de contar nuestra realidad y defendernos.
