@@ -12,7 +12,7 @@ nav_order: 6
 <br>
 
 
-Texto de demanda de Familia del 2006: Jaquelin demanda a su madre para tener más derechos sobre su hijo.
+Texto de demanda de Familia del 2006: Jaquelin demanda a su madre para tener más derechos sobre su hijo mayor.
 <br>
 <img src="/elianbebe/assets/images/textdemandafamilia.png" alt="Texto demanda familia" width="100%"/>
 
