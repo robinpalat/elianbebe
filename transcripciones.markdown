@@ -36,7 +36,7 @@ Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su 
 
 <br>
   <HR>
-En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. (Esto ocurrió cuando al bebé recién lo habían traído a la casa de los abuelos. Lo habian derivado allí desde el hospital El Carmen.) Le quitan el derecho a una madre a opinar sobre su bebé recién nacido. Para los abuelos ya había comenzado "el proceso de expropiación"
+En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. (Esto ocurrió cuando el bebé recién había legado a la casa de los abuelos. Lo habian derivado allí desde el hospital El Carmen.) Aca se prueba como le quitan el derecho a una madre a opinar sobre su bebé recién nacido. Para los abuelos ya había comenzado el proceso de expropiación.
 
 <br><br>
 <div class="Div_a">
@@ -92,7 +92,7 @@ En el siguiente audio, don Ricardo se burla de la situación de los padres dicie
 </div>
 <br>
   <HR>
-Es muy notable como la abuela pasa horas enteras monologando, analizando la situación. Esta obsesionada con ese tema. Aqui por ejemplo revela que le molesta sentirse obligada a aceptar el régimen de visitas.<br>
+La abuela pasa horas enteras monologando, analizando la situación. Esta obsesionada con ese tema. Aqui por ejemplo revela que le molesta sentirse obligada a aceptar el régimen de visitas.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/mama-como-esa-no-dejo-ni-que-le-mire-al-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -126,7 +126,7 @@ Es muy notable como la abuela pasa horas enteras monologando, analizando la situ
 
 
   <HR>
-La siguiente es muy particular y reveladora: hace mas de 25 años, la Sra. Graciela perdió un bebe en el parto por falta de oxígeno.
+El siguiente es muy revelador: hace mas de 25 años, la Sra. Graciela perdió un bebe en el parto por falta de oxígeno.
 Ella le recuerda este suceso a su marido, diciéndole que ya fue condenada una vez cuando perdió ese bebe. Y que porque tienen que condenarla de nuevo ahora. Refiriendose con esto último a que va a hacer lo que sea para que no dejen que le quiten al Elián, nuestro hijo. <br>
 <br>
 <div class="Div_a">
@@ -194,7 +194,7 @@ Mientras Jaquelin se encontraba hospitalizada en unidad de puerperio en Hospital
   <br><br>
 
 Estos audios nos confirman lo que sospechábamos. No quedan dudas que usan la calumnia para obtener la tenencia definitiva del bebé. Jaquelin está convencida de que esto, sus padres ya lo planearon durante su embarazo. Dado los antecedentes de ella, sus padres sabian que si injerian de esa forma era muy probable que nosotros ibamos a tener problemas.<br><br>
-Ellos aprovechan el hecho de que están al cuidado de una niña especial para ganar la aprobación y la voluntad de los funcionarios. Sus nietos no son una carga ni un problema para ellos, como ellos lo presentan. Es todo lo contrario. Los niños dan propósito a su vida, los hacen sentir con una segunda juventud y dan vida a su hogar. La señora Graciela duerme con nuestro bebé y su nieta de 7 años.<p><br>
+Ellos aprovechan el hecho de que están al cuidado de una niña especial para ganar la aprobación y la voluntad de los funcionarios. Sus nietos no son una carga ni un problema para ellos, como ellos lo presentan. Es todo lo contrario. Los niños dan propósito a su vida, los hacen sentir con una segunda juventud. La señora Graciela duerme con nuestro bebé y su nieta de 7 años.<p><br>
 
 <br>
 
