@@ -1,10 +1,8 @@
 ---
-layout: page
-title: Lo que queremos
-permalink: /loquequeremos/
-nav_order: 106
+layout: post
+title: Blogging Like a Hacker
+published: false
 ---
-
 
 
 
