@@ -12,7 +12,23 @@ permalink: /
 
 <br>
 
-Creamos este sitio web para contar lo que nos pasó con nuestro bebé de forma fácil de entender.<br><br>Nosotros somos respetuosos y comprendemos el proceder de la justicia, la medida protección dictada y la vulneración de los derechos del niño.
+
+
+
+
+Creamos este sitio web para contar lo que nos pasó con nuestro bebé de forma fácil de entender.<br><br>
+
+<b>Motivo de la creación de este sitio web:</b>
+Los padres de mi pareja recorren los establecimientos de salud para calumniarnos. Nuestra inteción con esta web es demostrar de que lo que ellos dicen es mentira.
+<br>
+<b>El contenido:</b>
+Presentamos antecedentes como audios y otros documentos, ademas de contar nuestra realidad y defendernos.
+<br>
+<b>Privacidad:</b> Este sitio web no esta listado en buscadores de internet, solo se accede por link, y además solo se ingresa con una clave.
+<br>
+
+
+Nosotros somos respetuosos y comprendemos el proceder de la justicia, la medida protección dictada y la vulneración de los derechos del niño.
 <br><br>
  — Los papás
 
