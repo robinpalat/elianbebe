@@ -151,16 +151,12 @@ nav_order: 3
 </table>
  
 
-<div class="Div_b">
-<table class="Div_b">
-<td class="Div_b">
-<img src="/elianbebe/assets/images/cancel.png" alt="drawing" width="150"/>
-</td>
-<td class="Div_b" style="text-align:justify">
+<div class="Div_b" style="text-align:justify">
+
+
   Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos. Quiere quedarse definitivamente con nuestro bebé. <br>
   Durante mi embarazo ella ya habia planeado quedarse con la guagua. Dice a todos que le salvó la vida, que nació drogado, ect.
-</td>
-</table>
+
  </div>
 
 
