@@ -13,10 +13,10 @@ permalink: /
 Creamos este sitio web para contar lo que nos pasó con nuestro hijo recién nacido de forma fácil de entender.<br><br>
 
 <b>Motivo de la creación de este sitio web:</b>
-Los abuelos maternos de nuestro bebé recorren los establecimientos de salud para calumniarnos. Nuestra intención es demostrar a los trabajadores sociales y otros funcionarios de que, lo que ellos dicen es mentira.
+Los abuelos maternos de nuestro bebé recorren los establecimientos de salud para calumniarnos. Nuestra intención es demostrar a los trabajadores sociales y otros funcionarios que lo ellos dicen es mentira.
 <br>
 <b>El contenido:</b>
-Presentamos antecedentes como audios y otros documentos, además de contar nuestra realidad y defendernos.
+Presentamos antecedentes como archivos de audios y otros documentos, además de contar nuestra realidad y defendernos.
 <br>
 <b>Privacidad:</b> Este sitio web no esta registrado en buscadores de internet, solo se accede por link y con una clave.
 <br>
