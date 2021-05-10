@@ -20,7 +20,7 @@ Test a solicitud del hospital El Carmen. FALSO POSITIVO
 <br><br>
 
 ### Fecha 5/1/2021. 
-Test a solicitud nuestra.
+Test a solicitud nuestra. NEGATIVO
 
 <br>
 <img src="/elianbebe/assets/images/192fce93-b96c-44c7-ae9a-03182a5d4d54.jpeg" alt="drawing" width="100%"/>
