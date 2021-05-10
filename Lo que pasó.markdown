@@ -70,7 +70,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi madre comenzó a insistirme que el parto se asistiera en hospital "El Paula"</p> Semanas antes de mi fecha estimada de parto, mi madre comenzo a llamarme por teléfono y decirme que me atienda en "El Paula". Mis padres son conocidos del asistente social de ese Hospital, el funcionario los apoyó en la causa de mi hija Millarai. Yo me di cuenta que ellos querian manejar y ser los protagonistas de ese momento de mi vida y dejar de lado a mi pareja. Ellos ya habian acordado el tema del parto con el asistente social de ese hospital. Por eso yo queria evitar el Paula<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi madre comenzó a insistirme que el parto se asistiera en hospital "el Paula"</p> Semanas antes de mi fecha estimada de parto, mi madre comenzo a llamarme por teléfono y decirme que me atienda en "el Paula". Mis padres son conocidos del asistente social de ese Hospital, el funcionario los apoyó en la causa de mi hija Millarai. Yo me di cuenta que ellos querian manejar y ser los protagonistas de ese momento de mi vida y dejar de lado a mi pareja. Ya tenian acordado el tema del parto con el asistente social de ese hospital. Por ese motivo yo queria evitar ""el Paula""<br>
     <hr><br><br>
 	</td>
     <td> </td>
@@ -83,7 +83,7 @@ nav_order: 3
     <td> </td>
     <td>
 <br><br>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Nuestro Hijo Nació el 2 de enero en el hospital "El Cármen"</p>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Nuestro Hijo Nació el 2 de enero en el hospital "el Cármen"</p>
  Ese dia cometi el error de decirle por teléfono a mi madre donde yo estaba hospitalizada".
  Ella enojada me dijo: "para que fuiste ahí, si en el Paula te estaban esperando con camilla y todo". Al saber en que lugar estaba haciendo yo atendida, mi madre le envio a mi padre a hablar con la trabajadora social de maternidad del hospital "El Carmen"<br>
    <hr><br><br>
@@ -111,7 +111,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="color:#353446; font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; El tribunal dictó una medida de protección.</p> Nos separamos de nuestro bebé. Dieron el cuidado provisorio a mis padres.
+ <p style="color:#353446; font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; El tribunal dictó medida de protección.</p> Nos separamos de nuestro bebé. Dieron el cuidado provisorio a mis padres.
 	 <hr><br><br></td>
     <td> </td>
   </tr>
@@ -138,7 +138,7 @@ nav_order: 3
 </td>
 <td class="Div_b" style="text-align:justify">
   Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos. Quiere quedarse definitivamente con nuestro bebé. <br>
-  Durante mi embarazo ella ya habia planeado quedarse con nuestro hijo. Dice a todos que le salvó la vida, que nació drogado, ect.
+  Durante mi embarazo ella ya habia planeado quedarse con la guagua. Dice a todos que le salvó la vida, que nació drogado, ect.
 </td>
 </table>
  </div>
