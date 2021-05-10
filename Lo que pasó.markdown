@@ -14,7 +14,7 @@ nav_order: 3
  <table width="100%">
   <tr><big>AÑO 2019</big><br>
     <td width="10%"> </td>
-    <td width="80%"><br><br> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Junto con Robin nos proyectamos para casarnos y tener una familia </p>Robin llegó a Chile de Argentina en mayo. Tardó meses en conseguir trabajo. En esos días contamos con el apoyo de nuestras familias.<br>
+    <td width="80%"><br><br> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Junto con Robin nos proyectamos para casarnos y tener una familia </p>Robin llegó a Chile de Argentina en mayo. Tardó varios meses en conseguir trabajo. En esos días contamos con el apoyo de nuestras familias.<br>
    <hr><br><br></td>
     <td width="10%"> </td>
   </tr>
@@ -22,7 +22,7 @@ nav_order: 3
 
   <tr>
     <td> </td>
-    <td> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con la matrona de mi consultorio sobre tener un hijo a mi edad (37 años)</p>Por causa de mi edad, me encontre con el dilema de tener un hijo "ahora o ya nunca más". Yo me sentía con muchas ganas de tener un hijo. Robin estuvo de acuerdo conmigo.<br>
+    <td> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con la matrona de mi consultorio sobre tener un hijo a mi edad (37 años)</p>Por causa de mi edad, me encontre con el dilema de quedar embarazada "ahora o ya nunca más". Yo me sentía con muchas ganas de tener un hijo. Robin estuvo de acuerdo conmigo.<br>
   <hr><br><br></td>
     <td> </td>
   </tr>
@@ -41,7 +41,9 @@ nav_order: 3
     <td> </td>
     <td>
  <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Quedé embarazada en abril</p>
- Quedé embarazada después de salir bien en los exámenes médicos solicitados por matrona y déspues de asegurar nuestra situación económica.
+ Quedé embarazada después de:<br>
+ * Salir bien en los exámenes médicos solicitados por matrona.<br>
+ * De asegurar nuestra situación económica.
    <hr> <br><br>
 	</td>
     <td> </td>
@@ -61,7 +63,16 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Durante mi embarazo me sentí muchas veces sola</p>No tenía el apoyo de mis padres ni de mis hermanos. Solo conté con la compañia de mi pareja. Aunque por su trabajo y la pandemia pasaba igual muchas horas sola. Mi padre aprovechaba el tiempo que yo estaba sola viniendo a mi casa para maltratarme sicologicamente. Me empujó varias veces estando embarazada. Me mostraba fotos de mi ex pareja y me hablaba de el. Me trataba de "weona aqui, weona allá". Me quitó una copia de las llaves de mi casa<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Durante mi embarazo me sentí muchas veces sola</p>No tenía el apoyo de mis padres ni de mis hermanos. Solo conté con la compañia de mi pareja. Aunque por su trabajo y la pandemia pasaba igual muchas horas sola. Mi padre aprovechaba el tiempo que yo estaba sola viniendo a mi casa para maltratarme sicologicamente:
+ <br> * Me empujó varias veces estando embarazada. 
+ <br> * Me mostraba fotos de mi ex pareja. 
+ <br> * Me trataba de "weona aqui, weona allá". 
+ <br> * No se iba de mi casa cuando yo lo pedia.
+ <BR> * Me quitó una copia de las llaves de mi casa.
+ <br> * Me sacó documentos médicos mios.
+ <br> * Criticaba constantemente a mi pareja actual.
+ 
+ <br> * Me decia en broma que la guagua iba a ser de el. <br>
    <hr> <br><br>
 	</td>
     <td> </td>
@@ -84,7 +95,7 @@ nav_order: 3
     <td>
 <br><br>
  <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Nuestro Hijo Nació el 2 de enero en el hospital "el Cármen"</p>
- Ese dia cometi el error de decirle por teléfono a mi madre donde yo estaba hospitalizada".
+ Ese dia cometi el error de informarle por teléfono a mi madre donde yo estaba hospitalizada".
  Ella enojada me dijo: "para que fuiste ahí, si en el Paula te estaban esperando con camilla y todo". Al saber en que lugar estaba haciendo yo atendida, mi madre le envio a mi padre a hablar con la trabajadora social de maternidad del hospital "El Carmen"<br>
    <hr><br><br>
 	</td>
@@ -94,7 +105,11 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mientras yo estaba todavía hospitalizada, mi papá se presentó espontáneamente en maternidad del "Carmen"</p> Mi papá se presento con unos papeles mios del COSAM (Que extrajo sin autorización de mi casa) y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender a la asistente social que yo soy "un peligro vivo"; Que dejo botados a mis hijos. También calumniaron gravemente a mi pareja.<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mientras yo estaba todavía hospitalizada, mi papá se presentó espontáneamente en maternidad del "Carmen"</p> Mi papá se presento con unos papeles mios del COSAM (Que extrajo sin autorización de mi casa) y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender a la asistente social que:<br>
+ * Soy un peligro para el bebé.<br>
+ * Que dejo botados a mis hijos.<br>
+ * Que estoy loca.<br>
+ * Calumniaron gravemente a mi pareja.<br>
    <hr><br><br>
 	</td>
     <td> </td>
@@ -103,7 +118,12 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Estando yo hospitalizada en puerperio la trabajadora social, influenciada por mis padres, malinterpretaba lo que yo hacía</p>La funcionaria presentó un informe al tribunal de familia, dónde aseguraba de que no lo quize tener en brasos a mi bebé. Que no lo atendía, que le negue la lactancia. Además solicitó un test de droga sin fundamento muy claro. Dando este un resultado presunto positivo, siendo que nunca consumimos drogas.<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Estando yo hospitalizada en puerperio la trabajadora social, influenciada por mis padres, malinterpretaba lo que yo hacía</p>La funcionaria presentó un informe al tribunal de familia, dónde aseguraba de que:<br>
+  * No lo quize tener en brasos a mi bebé.<br>
+  * Que no lo atendía.<br>
+  * Que le negue la lactancia.<br>
+  * Que que tuve malos tratos con el personal.<br>
+  Además solicitó un test de droga sin fundamento muy claro. Dando este un resultado presunto positivo, siendo que nunca consumimos drogas.<br>
 	 <hr><br><br></td>
     <td> </td>
   </tr>
