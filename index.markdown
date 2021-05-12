@@ -16,7 +16,7 @@ Presentamos antecedentes como archivos de audios y otros documentos, además de 
 <br><br><br>
 
 
-Nosotros somos respetuosos con la justicia, comprendemos su proceder, la medida protección dictada y la vulneración de los derechos del niño.
+Nosotros somos respetuosos con la justicia. Comprendemos su proceder, la medida protección dictada y la vulneración de los derechos del niño.
 <br><br><br>
  — Los papás
 
