@@ -157,8 +157,8 @@ nav_order: 3
 <div class="Div_b" style="text-align:justify">
 
 
-  Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos, ni por videollamada. Quiere quedarse definitivamente con nuestro hijo. Durante mi embarazo, ella ya habia planeado quedarse con el.
-
+  Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis otros hijos, ni por videollamada. Busca quedarse definitivamente con el bebé. Ella ya habia planeado quedarse con el durante mi embarazo.
+  
  </div>
 
 
