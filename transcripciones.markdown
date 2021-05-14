@@ -36,7 +36,7 @@ Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su 
 
 <br>
   <HR>
-En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. (Esto ocurrió cuando el bebé recién había legado a la casa de los abuelos. Lo habian derivado allí desde el hospital El Carmen.) Aca se prueba como le quitan el derecho a una madre a opinar sobre su recién nacido (para los abuelos ya había comenzado el proceso de expropiación).
+En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. (Esto ocurrió cuando el bebé recién había legado a la casa de los abuelos.) Con esto se prueba como le quitan el derecho natural a una madre a opinar sobre su recién nacido (para los abuelos ya había comenzado el proceso de expropiación).
 
 <br><br>
 <div class="Div_a">
@@ -48,14 +48,14 @@ En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opini
 </div>
 
 <br>
- Días después la abuela llena de ira, expresa que quiere ver presos a los padres. La presencia de los padres le acusa a la Sra. Graciela que ella no es la mamá de los niños. Por eso la cercanía de los padres la perturban.<br>
+ Días después la abuela llena de ira, expresa que quiere ver presos a los padres. La presencia de los padres le acusa que ella no es la mamá de los niños. Por eso la cercanía de los padres la perturban.<br>
 <br>
 <div class="Div_a" >
 <iframe src="https://archive.org/embed/yo-le-digo-al-ruso-o-hacen-algo-o-no-se-yo-quiero-presos-a-los-dos-los-dos-padres-del-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p><strong>Sra. Graciela:</strong>&nbsp;No, ella te dice: déjalo dormir nomás, se va a resfriar me dice, esta estornudando... se va a resfriar me dijo. No, yo le digo al Ruso: ¡ustedes! ¡o hacen algo o nose...! &iexcl;<b>Yo los quiero presos a los dos!</b></p>
-</div>
+</div>6
 <br>
-El "Ruso" es el apodo de su hijo de profesión abogado que lo asesora.<br><br>
+El "Ruso" es el apodo de su hijo de profesión abogado.<br><br>
 
   <HR>
 En las grabaciones afirma que ella le salvó la vida a la guagua. No existe antecedente de esto. También miente que el bebé dió positivo en un test toxicológico de orina. y — como también se escucha en una grabación — que ella tiene esos documentos. <b>¡Asi miente a los funcionarios!</b> Pero también a sus vecinos y parientes.<br><br>
