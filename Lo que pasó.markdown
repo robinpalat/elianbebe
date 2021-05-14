@@ -22,7 +22,7 @@ nav_order: 3
 
   <tr>
     <td> </td>
-    <td> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con la matrona de mi consultorio sobre tener un hijo a mi edad (37 años)</p>Por causa de mi edad, me encontre con el dilema de quedar embarazada "ahora o ya nunca más". Yo me sentía con muchas ganas de tener un hijo. Robin estuvo de acuerdo conmigo.<br>
+    <td> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con la matrona de mi consultorio sobre tener un hijo a mi edad (37 años)</p>Por causa de mi edad, me encontre con el dilema de quedar embarazada "ahora o que sea más complicado para después". Yo me sentía con muchas ganas de tener un hijo. Robin estuvo de acuerdo conmigo.<br>
   <hr><br><br></td>
     <td> </td>
   </tr>
@@ -31,7 +31,10 @@ nav_order: 3
 <table width="100%">
   <tr><big>AÑO 2020</big><br>
     <td></td>
-    <td> <br><br><p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;A principios del 2020 Robin consiguió un trabajo importante y estable </p>Además contábamos con ingresos de un servicio técnico de teléfonos y yo comenzé a vender queques y pasteles.<br>
+    <td> <br><br><p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;A principios del 2020 Robin consiguió un trabajo importante y estable </p>Además contábamos con:<br>
+* Ingresos de un servicio técnico de teléfonos.<br>
+* Comenzé a vender queques y pasteles.<br>
+* Tengo mi propia casa.<br>
    <hr><br><br></td>
     <td> </td>
   </tr>
@@ -67,11 +70,10 @@ nav_order: 3
  <br> * Me empujó varias veces estando embarazada. 
  <br> * Me mostraba fotos de mi ex pareja. 
  <br> * Me trataba de "weona aqui, weona allá". 
- <br> * No se iba de mi casa cuando yo lo pedia.
+ <br> * No se iba de mi casa cuando yo se lo pedía.
  <BR> * Me quitó una copia de las llaves de mi casa.
- <br> * Me sacó documentos médicos mios.
+ <br> * Me quitó documentos médicos mios sin mi consentimiento.
  <br> * Criticaba constantemente a mi pareja actual.
- 
  <br> * Me decia en broma que la guagua iba a ser de el. <br>
    <hr> <br><br>
 	</td>
@@ -81,7 +83,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi madre comenzó a insistirme que el parto se asistiera en hospital "el Paula"</p> Semanas antes de mi fecha estimada de parto, mi madre comenzo a llamarme por teléfono y decirme que me atienda en "el Paula". Mis padres son conocidos del asistente social de ese Hospital, el funcionario los apoyó en la causa de mi hija Millarai. Yo me di cuenta que ellos querian manejar y ser los protagonistas de ese momento de mi vida y dejar de lado a mi pareja. Ya tenian acordado el tema del parto con el asistente social de ese hospital. Por ese motivo yo queria evitar ""el Paula""<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi madre comenzó a insistirme que el parto se asistiera en hospital "el Paula"</p> Semanas antes de mi fecha estimada de parto, mi madre comenzo a llamarme por teléfono y decirme que me atienda en "el Paula". Mis padres son conocidos del asistente social de ese Hospital, el funcionario los apoyó en la causa de mi hija Millarai. Yo me di cuenta que ellos querian manejar y ser los protagonistas de ese momento de mi vida y dejar de lado a mi pareja. Ya tenian acordado el tema del parto con el asistente social de ese hospital. Por ese motivo yo queria evitar "el Paula"<br>
     <hr><br><br>
 	</td>
     <td> </td>
@@ -95,8 +97,8 @@ nav_order: 3
     <td>
 <br><br>
  <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Nuestro Hijo Nació el 2 de enero en el hospital "el Cármen"</p>
- Ese dia cometi el error de informarle por teléfono a mi madre donde yo estaba hospitalizada".
- Ella enojada me dijo: "para que fuiste ahí, si en el Paula te estaban esperando con camilla y todo". Al saber en que lugar estaba haciendo yo atendida, mi madre le envio a mi padre a hablar con la trabajadora social de maternidad del hospital "El Carmen"<br>
+ Ese dia cometí el error de informarle por teléfono a mi madre donde yo estaba hospitalizada".
+ Ella enfadada me dijo: "para que fuiste ahí, si en el Paula te estaban esperando con camilla y todo". Al saber en que lugar estaba haciendo yo atendida, mi madre envio a mi padre a hablar con la trabajadora social de maternidad del hospital "El Carmen"<br>
    <hr><br><br>
 	</td>
     <td> </td>
@@ -105,10 +107,10 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mientras yo estaba todavía hospitalizada, mi papá se presentó espontáneamente en maternidad del "Carmen"</p> Mi papá se presento con unos papeles mios del COSAM (Que extrajo sin autorización de mi casa) y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender a la asistente social que:<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mientras aún yo estaba hospitalizada, mi papá se presentó espontáneamente en maternidad de "el Carmen"</p> Mi papá se presento con unos documentos médicos mios del COSAM (Que extrajo sin autorización de mi casa) y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender a la asistente social que:<br>
  * Soy un verdadero peligro para el bebé.<br>
  * Que dejo botados a mis hijos.<br>
- * Que estoy loca.<br>
+ * Que "estoy mal de la cabeza".<br>
  * Calumniaron gravemente a mi pareja.<br>
    <hr><br><br>
 	</td>
@@ -118,8 +120,8 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Estando yo hospitalizada en puerperio la trabajadora social, influenciada por mis padres, malinterpretaba lo que yo hacía</p>La funcionaria presentó un informe al tribunal de familia, dónde aseguraba de que:<br>
-  * No lo quize tener en brasos a mi bebé.<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Estando yo hospitalizada en puerperio la trabajadora social, influenciada por mis padres, malinterpretaba lo que yo hacía</p>La funcionaria presentó un informe al tribunal de familia, dónde aseguraba que:<br>
+  * No lo quize tener en brasos a mi bebé, que lo rechazé.<br>
   * Que no lo atendía.<br>
   * Que le negue la lactancia.<br>
   * Que que tuve malos tratos con el personal.<br>
@@ -131,7 +133,8 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="color:#353446; font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; El tribunal dictó medida de protección.</p> Nos separamos de nuestro bebé. Dieron el cuidado provisorio a mis padres.
+ <p style="color:#353446; font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; El tribunal dictó medida de protección.</p> Nos separamos de nuestro bebé. Mis padres se ofrecieron como cuidadores<br> 
+ * Dieron el cuidado provisorio a mis padres.
 	 <hr><br><br></td>
     <td> </td>
   </tr>
@@ -154,8 +157,7 @@ nav_order: 3
 <div class="Div_b" style="text-align:justify">
 
 
-  Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos. Quiere quedarse definitivamente con nuestro bebé. <br>
-  Durante mi embarazo ella ya habia planeado quedarse con la guagua. Dice a todos que le salvó la vida, que nació drogado, ect.
+  Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis hijos, ni por videollamada. Quiere quedarse definitivamente con nuestro hijo. Durante mi embarazo, ella ya habia planeado quedarse con el.
 
  </div>
 
