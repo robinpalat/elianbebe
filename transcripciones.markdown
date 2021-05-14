@@ -12,7 +12,7 @@ nav_order: 51
 
 <br>
 <p style="text-align:justify">
-Las audios que yo y mi pareja tenemos, fueron grabados durante el tiempo que visite a mi bebé en casa de mis padres. Ocurrió de la siguiente manera: a mi hija de 7 años de vez en cuando se le agotaba la batería de su teléfono y me pedía el mio para mirar sus monos. Un día se me ocurrió llevar otro teléfono que no usaba de mi casa para darle a ella y asi yo poder ocupar el mio tranquilamente. Aveces dejaba ese teléfono en casa de mis padres o mi hija misma jugando lo escondía en algún cajón. Cuando tube la oportunidad de llevar de nuevo el teléfono a mi casa, descubrí que habían grabaciones de audio de varias horas de duración. Al parecer mi hija jugando, además de sacar fotos y videos, habia  activado también la grabadora de voz. Asi quedaron registradas las conversaciones que se daban en el mismo lugar donde estaba el teléfono. Principalmente en la habitación donde estaba mi bebé.<p><br>
+Las audios con que contamos, fueron grabados durante el tiempo que visite a mi bebé en casa de mis padres. Ocurrió de la siguiente manera: a mi hija de 7 años de vez en cuando se le agotaba la batería de su teléfono y me pedía el mio para mirar sus monos. Un día se me ocurrió llevar otro teléfono que no usaba de mi casa para darle a ella y asi yo poder ocupar el mio tranquilamente. Aveces dejaba ese teléfono en casa de mis padres o mi hija misma jugando lo escondía en algún cajón. Cuando tube la oportunidad de llevar de nuevo el teléfono a mi casa, descubrí que habían grabaciones de audio de varias horas de duración. Al parecer mi hija jugando, además de sacar fotos y videos, habia  activado también la grabadora de voz. Asi quedaron registradas las conversaciones que se daban en el mismo lugar donde estaba el teléfono. Principalmente en la habitación donde estaba mi bebé.<p><br>
 <hr>
 <h2>Entendiendo las grabaciones</h2>
 <h4>Robinson</h4>
@@ -30,13 +30,13 @@ Estos son los nombres que se escuchan en las grabaciones:
 <br>
 <br>
 <p style="text-align:justify">Principalmente se escuchan las voces de los abuelos maternos: Sra. Graciela y Don Ricardo.<br>Mediante la escucha de estas conversaciones, se puede probar lamentablemente la mala intención de los abuelos, la cual es <b>calumniar a nosotros los papás para obtener la tuición definitiva de nuestro hijo.</b>
-La que promueve eso es la abuela, la autoridad en la familia y la actual cuidadora temporal de nuestro hijo. El abuelo Don Ricardo solo actua de facilitador. La Sra. Graciela ejerce la manipulación para lograr sus propósitos. Es probable que en ella la acción de manipular este asociada a un trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y — lo que resulta más perjudicial para nosotros — a los funcionarios. La idea del trastorno es quisáz más convincente cuando se tiene en cuenta que ella cortó bruzcamente el lazo de una madre con su recién nacido. Es a su propia hija a quién hace ese daño. Para ocultar esa anormal conducta, la señora hace uso impune de la calumnia y la mentira. Nos culpa a nosotros los padres de todo lo que se le ocurre. Nos atribuye enfermedades, nos quiere ver presos, quiere internarnos en un siquiátrico, ect.
+La que promueve eso es la abuela, es la autoridad en la familia y la actual cuidadora temporal de nuestro hijo. El abuelo Don Ricardo solo actua de facilitador. La Sra. Graciela ejerce manipulación para lograr sus propósitos. Es probable que en ella la acción de manipular este asociada a un trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, nieto y — lo que resulta más perjudicial para nosotros — a los funcionarios. La idea del trastorno es quisáz más convincente cuando se tiene en cuenta que ella cortó bruzcamente el lazo de una madre con su recién nacido. Es a su propia hija a quién hace ese daño sin ningún motivo aparente. Para ocultar esa anormal conducta, la señora hace uso impune de la calumnia y la mentira. Nos culpa a nosotros los padres de todo lo que se le ocurre. Nos atribuye enfermedades, nos quiere ver presos, quiere internarnos, ect.
 <br><br>
 Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su hija. Se mantuvo totalmente ausente. <br>
 
 <br>
   <HR>
-En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. (Esto ocurrió cuando el bebé recién había legado a la casa de los abuelos. Lo habian derivado allí desde el hospital El Carmen.) Aca se prueba como le quitan el derecho a una madre a opinar sobre su bebé recién nacido. Para los abuelos ya había comenzado el proceso de expropiación.
+En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. (Esto ocurrió cuando el bebé recién había legado a la casa de los abuelos. Lo habian derivado allí desde el hospital El Carmen.) Aca se prueba como le quitan el derecho a una madre a opinar sobre su recién nacido (para los abuelos ya había comenzado el proceso de expropiación).
 
 <br><br>
 <div class="Div_a">
@@ -60,7 +60,7 @@ El "Ruso" es el apodo de su hijo de profesión abogado que lo asesora.<br><br>
   <HR>
 En las grabaciones afirma que ella le salvó la vida a la guagua. No existe antecedente de esto. También miente que el bebé dió positivo en un test toxicológico de orina. y — como también se escucha en una grabación — que ella tiene esos documentos. <b>¡Asi miente a los funcionarios!</b> Pero también a sus vecinos y parientes.<br><br>
 
-La señora comenzó a pedir ropa usada de guagua a sus vecinos para asegurar su papel de víctima y dejar establecido que los padres de la guagua son irresponsables y dejaron botado al bebé.<br><br>También pidió leche en el consultorio Voullienme y envió a su marido a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros nunca le falto ropa y desde el principio dejamos bien claro que nos hariamos cargo de los pañales, la leche y sus gastos en general, mientras ellos tengan el cuidado provisorio. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer. ect. nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
+La señora comenzó a pedir ropa usada de guagua a sus vecinos para asegurar su papel de víctima y dejar establecido que los padres de la guagua son irresponsables y dejaron botado al bebé, que ella lo rescató.<br><br>También con la misma intención pidió leche en el consultorio Voullienme y envió a su marido a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros nunca le falto ropa y desde el principio dejamos bien claro que mientras ellos tengan el cuidado provisorio nos hariamos cargo de los pañales, la leche y sus gastos en general. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer. ect. nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/la-abuela-te-salvo-la-vida" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -147,7 +147,7 @@ Ella le recuerda este suceso a su marido, diciéndole que ya fue condenada una v
 
 
 
-La sra Graciela asegura que su hija esta demente. Que necesita ser internada en un siquiátrico. Se queja del COSAM porque el COSAM <b>nunca cumplió con su pedido de que diagnostique como enferma mental a su hija</b>. Esta preocupada porque necesita otra institución para su capricho. 
+La sra Graciela asegura que su hija esta demente. Que necesita ser internada en un siquiátrico. Se queja del COSAM porque el COSAM <b>nunca cumplió con su pedido de que diagnostique como enferma mental a su hija</b>. Esta preocupada porque necesita otra institución. 
 
  <br>
  
