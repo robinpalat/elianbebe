@@ -121,7 +121,7 @@ nav_order: 3
     <td> </td>
     <td>
  <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Estando yo hospitalizada en puerperio la trabajadora social, influenciada por mis padres, malinterpretaba lo que yo hacía</p>La funcionaria presentó un informe al tribunal de familia, dónde aseguraba que:<br>
-  * No lo quize tener en brasos a mi bebé, que lo rechazé.<br>
+  * que rechazé a mi bebé.<br>
   * Que no lo atendía.<br>
   * Que le negue la lactancia.<br>
   * Que que tuve malos tratos con el personal.<br>
