@@ -36,7 +36,7 @@ Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su 
 
 <br>
   <HR>
-En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. (Esto ocurrió cuando el bebé recién había legado a la casa de los abuelos.) Con esto se prueba como le quitan el derecho natural a una madre a opinar sobre su recién nacido (para los abuelos ya había comenzado el proceso de expropiación).
+En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. (Esto ocurrió cuando el bebé recién había legado a la casa de los abuelos.) Con esto se prueba como le quitan el derecho natural a una madre de opinar sobre su recién nacido (para los abuelos ya había comenzado el proceso de expropiación).
 
 <br><br>
 <div class="Div_a">
@@ -53,12 +53,12 @@ En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opini
 <div class="Div_a" >
 <iframe src="https://archive.org/embed/yo-le-digo-al-ruso-o-hacen-algo-o-no-se-yo-quiero-presos-a-los-dos-los-dos-padres-del-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p><strong>Sra. Graciela:</strong>&nbsp;No, ella te dice: déjalo dormir nomás, se va a resfriar me dice, esta estornudando... se va a resfriar me dijo. No, yo le digo al Ruso: ¡ustedes! ¡o hacen algo o nose...! &iexcl;<b>Yo los quiero presos a los dos!</b></p>
-</div>6
+</div>
 <br>
 El "Ruso" es el apodo de su hijo de profesión abogado.<br><br>
 
   <HR>
-En las grabaciones afirma que ella le salvó la vida a la guagua. No existe antecedente de esto. También miente que el bebé dió positivo en un test toxicológico de orina. y — como también se escucha en una grabación — que ella tiene esos documentos. <b>¡Asi miente a los funcionarios!</b> Pero también a sus vecinos y parientes.<br><br>
+En las grabaciones dice que ella salvó la vida de la guagua. No existe antecedente de esto. También miente que el bebé dió positivo en un test toxicológico de orina. y — como también se escucha en una grabación — que ella tiene esos documentos. <b>¡Asi miente a los funcionarios!</b> También a sus vecinos y parientes.<br><br>
 
 La señora comenzó a pedir ropa usada de guagua a sus vecinos para asegurar su papel de víctima y dejar establecido que los padres de la guagua son irresponsables y dejaron botado al bebé, que ella lo rescató.<br><br>También con la misma intención pidió leche en el consultorio Voullienme y envió a su marido a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros nunca le falto ropa y desde el principio dejamos bien claro que mientras ellos tengan el cuidado provisorio nos hariamos cargo de los pañales, la leche y sus gastos en general. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer. ect. nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
 <br>
