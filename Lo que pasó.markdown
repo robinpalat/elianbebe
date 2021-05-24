@@ -31,10 +31,10 @@ nav_order: 3
 <table width="100%">
   <tr><big>AÑO 2020</big><br>
     <td></td>
-    <td> <br><br><p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;A principios del 2020 Robin consiguió un trabajo importante y estable </p>Además contábamos con:<br>
+    <td> <br><br><p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;A principios del 2020 Robin consiguió un trabajo importante para nosotros y estable </p>Además contábamos con:<br>
 * Ingresos de un servicio técnico de teléfonos.<br>
-* Comenzé a vender queques y pasteles.<br>
-* Tengo mi propia casa.<br>
+* Ingresos por venta de queques y pasteles.<br>
+* Ser propietaria de mi casa.<br>
    <hr><br><br></td>
     <td> </td>
   </tr>
@@ -46,7 +46,9 @@ nav_order: 3
  <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Quedé embarazada en abril</p>
  Quedé embarazada después de:<br>
  * Salir bien en los exámenes médicos solicitados por matrona.<br>
- * De asegurar nuestra situación económica.
+ * De asegurar nuestra situación económica.<br><br>
+ Aunque fué irresponsable de mi parte de:<br>
+ * Dejar inconcluso mi tratamiento en COSAM, donde ingrese como víctima de violencia intrafamiliar.
    <hr> <br><br>
 	</td>
     <td> </td>
@@ -56,7 +58,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi padres se molestaron cuando supieron del embarazo</p>Me senti mal después de la ofensivas palabras de mi madre cuando supo del embarazo. Tuve que pedir apoyo al COSAM.<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi padres se molestaron cuando supieron del embarazo</p>Me senti mal después de agresiva reacción de mi madre cuando supo del embarazo. Tuve que pedir apoyo al COSAM.<br>
    <hr><br><br>
 	</td>
     <td> </td>
@@ -66,7 +68,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Durante mi embarazo me sentí muchas veces sola</p>No tenía el apoyo de mis padres ni de mis hermanos. Solo conté con la compañia de mi pareja. Aunque por su trabajo y la pandemia pasaba igual muchas horas sola. Mi padre aprovechaba el tiempo que yo estaba sola viniendo a mi casa para maltratarme sicologicamente:
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Me sentí muchas veces sola durante mi embarazo</p>No tenía el apoyo de mis padres ni de mis hermanos. Solo conté con la compañia de mi pareja. Aunque por su trabajo y la pandemia pasaba igual muchas horas sola. Mi padre aprovechaba el tiempo que yo estaba sola viniendo a mi casa para maltratarme sicologicamente:
  <br> * Me empujó varias veces estando embarazada. 
  <br> * Me mostraba fotos de mi ex pareja. 
  <br> * Me trataba de "weona aqui, weona allá". 
@@ -83,7 +85,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi madre comenzó a insistirme que el parto se asistiera en hospital "el Paula"</p> Semanas antes de mi fecha estimada de parto, mi madre comenzo a llamarme por teléfono y decirme que me atienda en "el Paula". Mis padres son conocidos del asistente social de ese Hospital, el funcionario los apoyó en la causa de mi hija Millarai. Yo me di cuenta que ellos querian manejar y ser los protagonistas de ese momento de mi vida y dejar de lado a mi pareja. Ya tenian acordado el tema del parto con el asistente social de ese hospital. Por ese motivo yo queria evitar "el Paula"<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi madre comenzó a insistirme que el parto se asistiera en hospital "el Paula"</p> Semanas antes de mi fecha estimada de parto, mi madre comenzo a llamarme por teléfono para pedirme que me atienda en "el Paula". Mis padres son conocidos del asistente social de ese Hospital, el funcionario los apoyó en la causa de mi hija Millarai. Yo me di cuenta que ellos querian ser los protagonistas de ese momento de mi vida y dejar de lado a mi pareja. Ya tenian acordado el tema del parto con el asistente social de ese hospital. Por eso yo decidí evitar "el Paula"<br>
     <hr><br><br>
 	</td>
     <td> </td>
@@ -96,7 +98,7 @@ nav_order: 3
     <td> </td>
     <td>
 <br><br>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Nuestro Hijo Nació el 2 de enero en el hospital "el Cármen"</p>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Nuestro Hijo Nació el 2 de enero en el hospital "el Carmen"</p>
  Ese dia cometí el error de informarle por teléfono a mi madre donde yo estaba hospitalizada".
  Ella enfadada me dijo: "para que fuiste ahí, si en el Paula te estaban esperando con camilla y todo". Al saber en que lugar estaba haciendo yo atendida, mi madre envio a mi padre a hablar con la trabajadora social de maternidad del hospital "El Carmen"<br>
    <hr><br><br>
@@ -107,7 +109,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mientras aún yo estaba hospitalizada, mi papá se presentó espontáneamente en maternidad de "el Carmen"</p> Mi papá se presento con unos documentos médicos mios del COSAM (Que extrajo sin autorización de mi casa) y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender a la asistente social que:<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mientras aún estaba hospitalizada, espontáneamente mi papá se presentó en maternidad de "el Carmen"</p> Mi papá se presento con unos documentos médicos mios del COSAM (Que extrajo sin autorización de mi casa) y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender a la asistente social que:<br>
  * Soy un verdadero peligro para el bebé.<br>
  * Que dejo botados a mis hijos.<br>
  * Que "estoy mal de la cabeza".<br>
@@ -120,12 +122,12 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Estando yo hospitalizada en puerperio la trabajadora social, influenciada por mis padres, malinterpretaba lo que yo hacía</p>La funcionaria presentó un informe al tribunal de familia, dónde aseguraba que:<br>
-  * que rechazé a mi bebé.<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Estando hospitalizada en puerperio, la trabajadora social, influenciada por mis padres, malinterpretaba mis acciones</p>La funcionaria presentó un informe al tribunal de familia, dónde aseguraba que:<br>
+  * Que rechazé a mi bebé.<br>
   * Que no lo atendía.<br>
   * Que le negue la lactancia.<br>
   * Que que tuve malos tratos con el personal.<br>
-  Además solicitó un test de droga sin fundamento muy claro. Dando este un resultado presunto positivo, siendo que nunca consumimos drogas.<br>
+  Además solicitó un test de droga sin fundamento muy claro. Dando este un resultado presunto positivo, siendo que nosostros sabiamos que no consumimos drogas.<br>
 	 <hr><br><br></td>
     <td> </td>
   </tr>
@@ -133,8 +135,8 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="color:#353446; font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; El tribunal dictó medida de protección.</p> Nos separamos de nuestro bebé. Mis padres se ofrecieron como cuidadores<br> 
- * Dieron el cuidado provisorio a mis padres.
+ <p style="color:#353446; font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; El tribunal dictó medida de protección.</p> Nos separamos de nuestro bebé. Mis padres se ofrecieron como cuidadores.<br> 
+ * Otorgaron el cuidado provisorio a mis padres.
 	 <hr><br><br></td>
     <td> </td>
   </tr>
