@@ -48,7 +48,8 @@ nav_order: 3
  * Salir bien en los exámenes médicos solicitados por matrona.<br>
  * De asegurar nuestra situación económica.<br><br>
  Aunque fué irresponsable de mi parte de:<br>
- * Dejar inconcluso mi tratamiento en COSAM, donde ingrese como víctima de violencia intrafamiliar.
+ * Dejar inconcluso mi tratamiento en COSAM.<br>
+ Ingrese allí como víctima de violencia intrafamiliar de mi ex pareja.
    <hr> <br><br>
 	</td>
     <td> </td>
@@ -109,7 +110,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mientras aún estaba hospitalizada, espontáneamente mi papá se presentó en maternidad de "el Carmen"</p> Mi papá se presento con unos documentos médicos mios del COSAM (Que extrajo sin autorización de mi casa) y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender a la asistente social que:<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mientras aún estaba hospitalizada, mi padre se presentó espontáneamente en maternidad de "el Carmen"</p> Mi papá se presento con unos documentos médicos mios del COSAM (Que extrajo sin autorización de mi casa) y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender a la asistente social que:<br>
  * Soy un verdadero peligro para el bebé.<br>
  * Que dejo botados a mis hijos.<br>
  * Que "estoy mal de la cabeza".<br>
