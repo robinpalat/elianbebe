@@ -78,6 +78,7 @@ nav_order: 3
  <br> * Me quitó documentos médicos mios sin mi consentimiento.
  <br> * Criticaba constantemente a mi pareja actual.
  <br> * Me decia en broma que la guagua iba a ser de el. <br>
+* Hacia planes con mi casa y con mi vida.<br>
    <hr> <br><br>
 	</td>
     <td> </td>
