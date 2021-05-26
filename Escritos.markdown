@@ -42,8 +42,8 @@ Durante esas visitas yo disfrutaba de la unión tan íntima de una mamá y su be
 
 <br>
 
-<h2>Exámen de detección de drogas en orina</h2>
-<h4>Robinson</h4>
+<h2>¿Malas prácticas o falso positivo? De todos modos un caso de negligencia profesional: Exámen de detección de drogas en orina</h2>
+<h4>por Robinson</h4>
 <h1 class="western" align="left">&nbsp;</h1>
 
 <p style="text-align:justify">
