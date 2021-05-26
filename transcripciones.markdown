@@ -33,14 +33,14 @@ Nombres que se escuchan en las grabaciones:
 La que promueve eso es la abuela, ella es la autoridad en la familia y es la actual cuidadora temporal de nuestro hijo. El abuelo Don Ricardo solo actua de facilitador. La Sra. Graciela ejerce la manipulación para lograr sus propósitos. Es probable que en ella la acción de manipular este asociada a algún trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, y — lo que resulta más perjudicial para nosotros — a los funcionarios. La idea del trastorno es quisáz más convincente cuando se tiene en cuenta que ella cortó bruzcamente el lazo de una madre con su recién nacido. Es a su propia hija a quién hace ese daño, sin ningún motivo aparente. Para ocultar esa conducta anormal, la señora hace uso impune de la calumnia y la mentira. Nos atribuye a nosostros los papás de enfermedades, nos quiere ver presos, quiere internarnos, ect.
 
 <br><br>
-Aunque quizaś es poco convincente asegurar sobre manipular a funcionarios, pero podemos demostrar que esto es un hecho en ciertos trabajadores sociales.<br>
+Aunque quizaś es poco convincente asegurar sobre manipular a funcionarios, pero es un hecho comprobable en ciertos casos.<br>
 <br><br>
 Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su hija. Se mantuvo totalmente ausente. <br>
 
 
 <br>
   <HR>
-En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. (Esto ocurrió cuando el bebé recién había legado a la casa de los abuelos.) Con esto se prueba como le quitan el derecho natural a una madre de opinar sobre su recién nacido (para los abuelos ya había comenzado el proceso de expropiación).
+En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. Esto ocurrió cuando el bebé había legado recién a la casa de los abuelos. Con esto se prueba como le quitan el derecho natural a una madre de opinar sobre su hijo recién nacido. Para los abuelos ya había comenzado el proceso de expropiación.
 
 <br><br>
 <div class="Div_a">
@@ -96,7 +96,7 @@ En el siguiente audio, don Ricardo se burla de la situación de los padres dicie
 </div>
 <br>
   <HR>
-La abuela pasa horas enteras monologando, analizando la situación. Esta obsesionada con ese tema. Aqui por ejemplo revela que le molesta sentirse obligada a aceptar el régimen de visitas.<br>
+La abuela pasa horas enteras monologando, analizando la situación. Esta muy obsesionada con ese tema. Aqui por ejemplo revela que le molesta sentirse obligada a aceptar el régimen de visitas.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/mama-como-esa-no-dejo-ni-que-le-mire-al-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -130,8 +130,8 @@ La abuela pasa horas enteras monologando, analizando la situación. Esta obsesio
 
 
   <HR>
-El siguiente es muy revelador: hace mas de 25 años, la Sra. Graciela perdió un bebe en el parto por falta de oxígeno.
-Ella le recuerda este suceso a su marido, diciéndole que ya fue condenada una vez cuando perdió ese bebe. Y que porque tienen que condenarla de nuevo ahora. Refiriendose con esto último a que va a hacer lo que sea para que no dejen que le quiten al Elián, nuestro hijo. <br>
+Hace mas de 25 años, la Sra. Graciela perdió un bebe en el parto por falta de oxígeno.
+Ella le recuerda este suceso a su marido, diciéndole que ya fue condenada una vez cuando perdió ese bebe. Y que porque tienen que condenarla de nuevo ahora. Refiriendose con esto último a que va a hacer lo que sea para que no dejen que le quiten a nuestro hijo. <br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/entonces-yo-voy-a-tener-lastima-a-todos-y-yo-a-mi-ya-me-condenaron-cuando-murio-mi-guaguita" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -151,7 +151,7 @@ Ella le recuerda este suceso a su marido, diciéndole que ya fue condenada una v
 
 
 
-La sra Graciela asegura que su hija esta demente. Que necesita ser internada en un siquiátrico. Se queja del COSAM porque el COSAM <b>nunca cumplió con su pedido de que diagnostique como enferma mental a su hija</b>. Esta preocupada porque necesita otra institución. 
+La Sra Graciela asegura que su hija necesita estar internada en un siquiátrico. Se queja del COSAM porque allí<b>nunca cumplieron con su pedido de que diagnostique como enferma mental a su hija</b>.  
 
  <br>
  
@@ -164,7 +164,7 @@ La sra Graciela asegura que su hija esta demente. Que necesita ser internada en 
 </div>
 <br>
 
-Don Ricardo tiene algo planeado para hacerme daño:<br><br>
+Don Ricardo planea hacerme algún daño:<br><br>
 
 <div class="Div_a">
 <iframe src="https://archive.org/embed/voy-a-hablar-con-el-ruso...-tengo-una-preparadita" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -178,7 +178,7 @@ Don Ricardo tiene algo planeado para hacerme daño:<br><br>
 </div>
 <br>
   <HR>
-Mientras Jaquelin se encontraba hospitalizada en unidad de puerperio en Hospital El Carmen, Su padre se presentó espontaneamente y convenció a la trabajadora social que <b>el bebé corria riezgo de muerte con nosotros</b>. Reforzo sus argumentos con informes médicos de jaquelin del COSAM y otros papeles. La trabajadora social creyendo que estaba actuando bien, envió un informe al Juzgado que culminó con la medida de protección. 
+Mientras Jaquelin se encontraba hospitalizada en unidad de puerperio en Hospital El Carmen, Su padre se presentó y convenció a la trabajadora social que <b>el bebé corria riezgo de muerte con nosotros</b>. Reforzo sus argumentos con informes médicos de jaquelin del COSAM y otros papeles. La trabajadora social creyendo que estaba actuando bien, presento un informe al Juzgado que culminó con la medida de protección. 
 <br><br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/ella-no-tiene-idea-que-nosotros-presentamos-papeles" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
