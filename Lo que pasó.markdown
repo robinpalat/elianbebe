@@ -14,7 +14,7 @@ nav_order: 3
  <table width="100%">
   <tr><big>AÑO 2019</big><br>
     <td width="10%"> </td>
-    <td width="80%"><br><br> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Junto con Robin nos proyectamos para casarnos y tener una familia </p>Robin llegó a Chile de Argentina en mayo. Tardó varios meses en conseguir trabajo. En esos días contamos con el apoyo de nuestras familias.<br>
+    <td width="80%"><br><br> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Junto con Robin nos proyectamos para casarnos y tener una familia </p>Robin llegó a Chile de Argentina en mayo. Tardó varios meses en conseguir trabajo.<br>
    <hr><br><br></td>
     <td width="10%"> </td>
   </tr>
@@ -31,7 +31,7 @@ nav_order: 3
 <table width="100%">
   <tr><big>AÑO 2020</big><br>
     <td></td>
-    <td> <br><br><p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;A principios del 2020 Robin consiguió un trabajo importante para nosotros y estable </p>Además contábamos con:<br>
+    <td> <br><br><p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;A principios del 2020 Robin consiguió un trabajo estable e importante para nosotros</p>Además contábamos con:<br>
 * Ingresos de un servicio técnico de teléfonos.<br>
 * Ingresos por venta de queques y pasteles.<br>
 * Ser propietaria de mi casa.<br>
@@ -101,7 +101,7 @@ nav_order: 3
 <br><br>
  <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Nuestro Hijo Nació el 2 de enero en el hospital "el Carmen"</p>
  Ese dia cometí el error de informarle por teléfono a mi madre donde yo estaba hospitalizada".
- Ella enfadada me dijo: "para que fuiste ahí, si en el Paula te estaban esperando con camilla y todo". Al saber en que lugar estaba haciendo yo atendida, mi madre envio a mi padre a hablar con la trabajadora social de maternidad del hospital "El Carmen"<br>
+ Me dijo enojada: "para que fuiste ahí, si en el Paula te estaban esperando con camilla y todo". Al saber en que lugar estaba haciendo yo atendida, mi padre a fue rápidamente a hablar con la trabajadora social de maternidad del hospital "El Carmen"<br>
    <hr><br><br>
 	</td>
     <td> </td>
@@ -157,10 +157,10 @@ nav_order: 3
 </table>
  
 
-<div class="Div_b" style="text-align:justify">
+<div class="Div_b" >
 
 
-  Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis otros hijos, ni por videollamada. Busca quedarse definitivamente con el bebé. Ella ya habia planeado quedarse con el durante mi embarazo.
+  Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis otros hijos, ni por videollamada. Busca quedarse definitivamente con el bebé. Ella siniestramente, ya habia planeado quedarse con el durante mi embarazo.
   
  </div>
 
