@@ -87,7 +87,8 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi madre comenzó a insistirme que el parto se asistiera en hospital "el Paula"</p> Semanas antes de mi fecha estimada de parto, mi madre comenzo a llamarme por teléfono para pedirme que me atienda en "el Paula". Mis padres son conocidos del asistente social de ese Hospital, el funcionario los apoyó en la causa de mi hija Millarai. Yo me di cuenta que ellos querian ser los protagonistas de ese momento de mi vida y dejar de lado a mi pareja. Ya tenian acordado el tema del parto con el asistente social de ese hospital. Por eso yo decidí evitar "el Paula"<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi madre comenzó a insistirme que el parto se asistiera en hospital "el Paula"</p> Semanas antes de mi fecha estimada de parto, mi madre comenzo a llamarme por teléfono para pedirme que me atienda en "el Paula". Mis padres son conocidos del asistente social de ese Hospital, el funcionario los apoyó en la causa de mi hija Millarai. Yo me di cuenta que ellos querian ser los protagonistas de ese momento de mi vida y dejar de lado a mi pareja. Ya tenian acordado el tema del parto con el asistente social de ese hospital. Por esa razón:<br>
+* Decidí evitar "el Paula".<br>
     <hr><br><br>
 	</td>
     <td> </td>
@@ -161,8 +162,10 @@ nav_order: 3
 <div class="Div_b" >
 
 
-  Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis otros hijos, ni por videollamada. Ella siniestramente, ya habia planeado quedarse con mi hijo durante mi embarazo.
-  
+  Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis otros hijos, ni por videollamada.<br>Mi mamá siniestramente durante mi embarazo ya tenía la idea de quedarse con mi hijo.
+<BR>* Renegó del apellido del padre.
+<BR>* Calumnio a los padres.
+ <BR>* Dijo que el padre no podía ni opinar sobre su hijo porque no tenía papeles.
  </div>
 
 
