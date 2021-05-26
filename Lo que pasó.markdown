@@ -22,7 +22,7 @@ nav_order: 3
 
   <tr>
     <td> </td>
-    <td> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con la matrona de mi consultorio sobre tener un hijo a mi edad (37 años)</p>Por causa de mi edad, me encontre con el dilema de quedar embarazada "ahora o que sea más complicado para después". Yo me sentía con muchas ganas de tener un hijo. Robin estuvo de acuerdo conmigo.<br>
+    <td> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Hable con matrona de mi consultorio sobre quedar embarazada a mis 37 años</p>Por causa de mi edad me encontre con el dilema de no esperar más años para tener un hijo. Yo me sentía con muchas ganas. Robin estuvo de acuerdo conmigo.<br>
   <hr><br><br></td>
     <td> </td>
   </tr>
@@ -47,9 +47,9 @@ nav_order: 3
  Quedé embarazada después de:<br>
  * Salir bien en los exámenes médicos solicitados por matrona.<br>
  * De asegurar nuestra situación económica.<br><br>
- Aunque fué irresponsable de mi parte de:<br>
+ Fuí irresponsable de:<br>
  * Dejar inconcluso mi tratamiento en COSAM.<br>
- Ingrese allí como víctima de violencia intrafamiliar de mi ex pareja.
+ Había ingresado allí como víctima de violencia intrafamiliar de mi ex pareja.
    <hr> <br><br>
 	</td>
     <td> </td>
@@ -59,7 +59,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi padres se molestaron cuando supieron del embarazo</p>Me senti mal después de agresiva reacción de mi madre cuando supo del embarazo. Tuve que pedir apoyo al COSAM.<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi padres se molestaron cuando supieron del embarazo</p>Me senti mal después de la agresiva reacción de mi madre cuando supo del embarazo. Tuve que pedir apoyo al COSAM.<br>
    <hr><br><br>
 	</td>
     <td> </td>
