@@ -128,7 +128,7 @@ nav_order: 3
   * Que no lo atendía.<br>
   * Que le negue la lactancia.<br>
   * Que que tuve malos tratos con el personal.<br>
-  Además solicitó un test de droga sin fundamento muy claro. Dando este un resultado presunto positivo, siendo que nosostros sabiamos que no consumimos drogas.<br>
+  Además solicitó un test de droga sin fundamento muy claro. Dando este un resultado presunto positivo, siendo que nosostros sabiamos que no tenemos hábito de consumo.<br>
 	 <hr><br><br></td>
     <td> </td>
   </tr>
@@ -147,7 +147,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi madre hace meses no nos deja ver a nuestro hijo</p>Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Dijo que yo bañaba a la guagua en agua casi hirviendo. Que discriminaba a mi otros hijos. Estas mentiras las presentó en la audiencia para suspender las visitas. 
+ <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi madre hace meses nos priva de ver a nuestro hijo</p>Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Dijo que yo bañaba a la guagua en agua casi hirviendo. Que discriminaba a mi otros hijos. Estas mentiras las presentó en la audiencia para suspender las visitas y cortar así el lazo con mi bebé. 
  <hr><br><br>
 
 	</td>
@@ -160,7 +160,7 @@ nav_order: 3
 <div class="Div_b" >
 
 
-  Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis otros hijos, ni por videollamada. Busca quedarse definitivamente con el bebé. Ella siniestramente, ya habia planeado quedarse con el durante mi embarazo.
+  Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis otros hijos, ni por videollamada. Ella siniestramente, ya habia planeado quedarse con mi hijo durante mi embarazo.
   
  </div>
 
