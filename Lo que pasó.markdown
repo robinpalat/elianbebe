@@ -112,7 +112,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mientras aún estaba hospitalizada, mi padre se presentó espontáneamente en maternidad de "el Carmen"</p> Mi papá se presento con unos documentos médicos mios del COSAM (Que extrajo sin autorización de mi casa) y de causas judiciales de mis otros hijos. Entre otras cosas le dieron a entender a la asistente social que:<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mientras aún estaba hospitalizada, mi padre se presentó en maternidad de "el Carmen"</p> Mi papá se presento con unos documentos médicos mios del COSAM (Que extrajo sin autorización de mi casa) y de causas judiciales de mis otros hijos. Le dió a entender a la asistente social que:<br>
  * Soy un verdadero peligro para el bebé.<br>
  * Que dejo botados a mis hijos.<br>
  * Que "estoy mal de la cabeza".<br>
@@ -149,7 +149,8 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi madre hace meses nos priva de ver a nuestro hijo</p>Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Dijo que yo bañaba a la guagua en agua casi hirviendo. Que discriminaba a mi otros hijos. Estas mentiras las presentó en la audiencia para suspender las visitas y cortar así el lazo con mi bebé. 
+ <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi madre nos priva de ver a nuestro hijo</p>Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Dijo que yo bañaba a la guagua en agua casi hirviendo. Que discriminaba a mi otros hijos. Estas mentiras las presentó en la audiencia para suspender las visitas y cortar así el lazo con mi bebé. <BR>
+ * ¡Hace 4 meses que no lo vemos!
  <hr><br><br>
 
 	</td>
