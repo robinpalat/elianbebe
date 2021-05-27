@@ -16,7 +16,7 @@ nav_order: 2
 </td>
 <td style="vertical-align:top">
 <p style="text-align:justify;vertical-align:top">
-Somos Maria Jaquelin Ramirez y Robinson Palatnik, papás de nuestro precioso Elián.<br> Jaquelin además tiene dos encantadores hijos más. Nacimos en la misma ciudad en Corrientes, Argentina. Nos conocimos en el año 2000. Nos separamos cuando Jaquelin fué a vivir a Chile y nos reencontamos después de 19 años cuando yo también vine a vivir a Chile.<br>Estamos juntos hace 2 años viviendo en casa propiedad de Jaquelin. Yo trabajo a pocas cuadras en una panaderia y también en la misma casa con un servicio técnico.<br> Mantenemos una relación alegre, unida, tranquila, socialmente abierta y nos tenemos mucha confianza. Somos preocupados por nuestra vida a futuro. Ambos nos sentimos muy felices con nuestra relación a pesar de lo que nos pasó.
+Somos Maria Jaquelin Ramirez y Robinson Palatnik, papás de nuestro precioso Elián.<br> Jaquelin además tiene dos encantadores hijos más. Nacimos en la misma ciudad en Corrientes, Argentina. Nos conocimos en el año 2000. Nos separamos cuando Jaquelin fué a vivir a Chile y nos reencontamos después de 19 años cuando yo también vine a vivir a Chile.<br>Estamos juntos hace 2 años viviendo en casa propiedad de Jaquelin. Yo trabajo a pocas cuadras en una panaderia y también en la misma casa con un servicio técnico.<br> Mantenemos una relación alegre, unida, tranquila, socialmente abierta y nos tenemos mucha confianza. Ambos preocupados por nuestra vida a futuro. Ambos estamos felices con nuestra relación a pesar de lo que nos pasó.
 </p>
 </td>
 </table>
