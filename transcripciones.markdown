@@ -39,7 +39,8 @@ Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su 
 
 <br>
   <HR>
-En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. Esto ocurrió cuando el bebé había legado recién a la casa de los abuelos. Con esto se prueba como le quitan el derecho natural a una madre de opinar sobre su hijo recién nacido. Para los abuelos ya había comenzado el proceso de expropiación.
+En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. Esto ocurrió cuando el bebé había legado recién a la casa de los abuelos.
+Le quitan el derecho natural a una madre de opinar sobre su hijo recién nacido (abuso sicológico). Para los abuelos ya había comenzado el proceso de expropiación.
 
 <br><br>
 <div class="Div_a">
@@ -150,7 +151,7 @@ Ella le recuerda este suceso a su marido, diciéndole que ya fue condenada una v
 
 
 
-La Sra Graciela asegura que su hija necesita estar internada en un siquiátrico. Se queja del COSAM porque allí<b>nunca cumplieron con su pedido de que diagnostique como enferma mental a su hija</b>.  
+La Sra Graciela asegura que su hija necesita estar internada en un siquiátrico. Se queja del COSAM porque allí<b> nunca cumplieron con su deseo de que se diagnostique como "enferma mental" a su hija</b>.  
 
  <br>
  
@@ -163,7 +164,7 @@ La Sra Graciela asegura que su hija necesita estar internada en un siquiátrico.
 </div>
 <br>
 
-Don Ricardo planea hacerme algún daño:<br><br>
+Don Ricardo tiene la idea de hacerme a mi algún daño:<br><br>
 
 <div class="Div_a">
 <iframe src="https://archive.org/embed/voy-a-hablar-con-el-ruso...-tengo-una-preparadita" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -197,7 +198,7 @@ Mientras Jaquelin se encontraba hospitalizada en unidad de puerperio en Hospital
   <br><br>
 
 Estos audios nos confirman lo que sospechábamos. No quedan dudas que usan la calumnia para obtener la tenencia definitiva del bebé. Jaquelin está convencida de que esto, sus padres ya lo planearon durante su embarazo. Dado los antecedentes de ella, sus padres sabian que si injerian de esa forma era muy probable que nosotros ibamos a tener problemas.<br><br>
-Ellos aprovechan el hecho de que están al cuidado de una niña especial para ganar la aprobación y la voluntad de los funcionarios. Sus nietos no son una carga ni un problema para ellos, como ellos lo presentan. Es todo lo contrario. Los niños dan propósito a su vida, los hacen sentir con una segunda juventud. La señora Graciela duerme con nuestro bebé y su nieta de 7 años.<p><br>
+Sus nietos no son una carga ni un problema para ellos, como ellos lo presentan. Es todo lo contrario. Los niños dan propósito a su vida, los hacen sentir con una segunda juventud. La señora Graciela duerme con nuestro bebé y su nieta de 7 años.<p><br>
 
 <br>
 
