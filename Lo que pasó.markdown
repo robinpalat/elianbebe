@@ -49,7 +49,7 @@ nav_order: 3
  * De asegurar nuestra situación económica.<br><br>
  Fuí irresponsable de:<br>
  * Dejar inconcluso mi tratamiento en COSAM.<br>
- Había ingresado allí como víctima de violencia intrafamiliar de mi ex pareja.
+ Ingrese en COSAM como víctima de violencia intrafamiliar de mi ex pareja.
    <hr> <br><br>
 	</td>
     <td> </td>
@@ -59,7 +59,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi padres se molestaron cuando supieron del embarazo</p>Me senti mal después de la agresiva reacción de mi madre cuando supo del embarazo. Tuve que pedir apoyo al COSAM.<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi padres se molestaron cuando supieron del embarazo</p>Me sentí agraviada después del abuso verbal y emocional de parte de mi madre cuando supo del embarazo. Tuve que pedir apoyo al COSAM.<br>
    <hr><br><br>
 	</td>
     <td> </td>
@@ -69,13 +69,13 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Me sentí muchas veces sola durante mi embarazo</p>No tenía el apoyo de mis padres ni de mis hermanos. Solo conté con la compañia de mi pareja. Aunque por su trabajo y la pandemia pasaba igual muchas horas sola. Mi padre aprovechaba el tiempo que yo estaba sola viniendo a mi casa para maltratarme sicologicamente:
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Me sentí muchas veces sola durante mi embarazo</p>No tenía el apoyo de mis padres ni hermanos. Solo conté con mi pareja. Aunque por su trabajo y la pandemia pasaba igual muchas horas sola. Mi padre aprovechaba el tiempo que yo estaba sola, viniendo a mi casa para maltratarme sicologicamente:
  <br> * Me empujó varias veces estando embarazada. 
  <br> * Me mostraba fotos de mi ex pareja. 
  <br> * Me trataba de "weona aqui, weona allá". 
  <br> * No se iba de mi casa cuando yo se lo pedía.
  <BR> * Me quitó una copia de las llaves de mi casa.
- <br> * Me quitó documentos médicos mios sin mi consentimiento.
+ <br> * Tomó documentos médicos mios sin mi consentimiento.
  <br> * Criticaba constantemente a mi pareja actual.
  <br> * Me decia en broma que la guagua iba a ser de el. <br>
 * Hacia planes con mi casa y con mi vida.<br>
@@ -87,7 +87,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi madre comenzó a insistirme que el parto se asistiera en hospital "el Paula"</p> Semanas antes de mi fecha estimada de parto, mi madre comenzo a llamarme por teléfono para pedirme que me atienda en "el Paula". Mis padres son conocidos del asistente social de ese Hospital, el funcionario los apoyó en la causa de mi hija Millarai. Yo me di cuenta que ellos querian ser los protagonistas de ese momento de mi vida y dejar de lado a mi pareja. Ya tenian acordado el tema del parto con el asistente social de ese hospital. Por esa razón:<br>
+ <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Mi madre comenzó a insistirme que el parto se asistiera en hospital "el Paula"</p> Semanas antes de mi fecha estimada de parto, mi madre comenzo a llamarme por teléfono para pedirme que me atienda en "el Paula".<br>Mis padres son conocidos del asistente social de ese Hospital, el funcionario los apoyó en la causa de mi hija Millarai. Yo me di cuenta que ellos querian ser los protagonistas de ese momento de mi vida y dejar de lado a mi pareja. Ya tenian acordado el tema del parto con el asistente social de ese hospital. Por esa razón:<br>
 * Decidí evitar "el Paula".<br>
     <hr><br><br>
 	</td>
@@ -103,7 +103,7 @@ nav_order: 3
 <br><br>
  <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Nuestro Hijo Nació el 2 de enero en el hospital "el Carmen"</p>
  Ese dia cometí el error de informarle por teléfono a mi madre donde yo estaba hospitalizada".
- Me dijo enojada: "para que fuiste ahí, si en el Paula te estaban esperando con camilla y todo". Al saber en que lugar estaba haciendo yo atendida, mi padre a fue rápidamente a hablar con la trabajadora social de maternidad del hospital "El Carmen"<br>
+ Me dijo enojada: "para que fuiste ahí, si en el Paula te estaban esperando con camilla y todo". Al saber en que hospital estaba yo haciendo atendida, mi padre se dirigió allí a hablar con la trabajadora social de maternidad.<br>
    <hr><br><br>
 	</td>
     <td> </td>
@@ -149,8 +149,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi madre nos priva de ver a nuestro hijo</p>Mintió que yo le creaba problemas en su casa durante las visitas y que ya no podia más con esa situación. Dijo que yo bañaba a la guagua en agua casi hirviendo. Que discriminaba a mi otros hijos. Estas mentiras las presentó en la audiencia para suspender las visitas y cortar así el lazo con mi bebé. <BR>
- * ¡Hace 4 meses que no lo vemos!
+ <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi madre nos priva de ver a nuestro hijo</p>Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis otros hijos, ni por videollamada.<br>Ella, durante mi embarazo, ya tenía la idea de quedarse con mi hijo.
  <hr><br><br>
 
 	</td>
@@ -159,15 +158,3 @@ nav_order: 3
 
 </table>
  
-
-<div class="Div_b" >
-
-
-  Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis otros hijos, ni por videollamada.<br>Mi mamá siniestramente durante mi embarazo ya tenía la idea de quedarse con mi hijo.
-<BR>* Renegó del apellido del padre.
-<BR>* Calumnio a los padres.
- <BR>* Dijo que el padre no podía ni opinar sobre su hijo porque no tenía papeles.
- </div>
-
-
-
