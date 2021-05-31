@@ -157,7 +157,7 @@ La Sra Graciela asegura que su hija necesita estar internada en un siquiátrico.
  
 <br>
     <HR>
-  En la siguiente grabación la Sra Graciela le exije a Don Ricardo que vaya a la panaderia donde yo trabajo para hablar mal de mi. Dijo alli que yo era un <b>abusador sexual de niños</b> <br><br>
+  En la siguiente grabación la Sra Graciela le exije a Don Ricardo que vaya a la panaderia donde yo trabajo para hablar mal de mi. Dijo alli que yo era una persona peligrosa. Su intención ingenua claro está fué que me despidan.<br><br>
   <div class="Div_a">
 <iframe src="https://archive.org/embed/el-martes-tambien-vas-a-ir-a-tener-que-hablar-en-la-panaderiasino-vas-voy-a-ir-yo" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p><strong>Sra. Graciela:</strong>&nbsp;Y el martes tambi&eacute;n vas a ir hablar... Si vos no vas a ir a hablar voy a ir yo a hablar a la panederia. Yo no voy a andar en boca de la gente por el weon [INAUDIBLE]</p>
