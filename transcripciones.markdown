@@ -15,7 +15,7 @@ nav_order: 51
 Las audios con que contamos, fueron grabados durante el tiempo que visite a mi bebé en casa de mis padres. Ocurrió de la siguiente manera: a mi hija de 7 años de vez en cuando se le agotaba la batería de su teléfono y me pedía el mio para mirar sus monos. Un día se me ocurrió llevar otro teléfono que no usaba de mi casa para darle a ella y asi yo poder ocupar el mio tranquilamente. Aveces dejaba ese teléfono en casa de mis padres o mi hija misma jugando lo escondía en algún cajón. Cuando tube la oportunidad de llevar de nuevo el teléfono a mi casa, descubrí que habían grabaciones de audio de varias horas de duración. Al parecer mi hija jugando, además de sacar fotos y videos, habia  activado también la grabadora de voz. Asi quedaron registradas las conversaciones que se daban en el mismo lugar donde estaba el teléfono. Principalmente en la habitación donde estaba mi bebé.<p><br>
 <hr>
 <h2>Entendiendo las grabaciones</h2>
-<h4>Robinson</h4>
+<h4>Por Robinson</h4>
 <br><br>
 Nombres que se escuchan en las grabaciones:
 <br><br>

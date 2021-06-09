@@ -9,7 +9,7 @@ permalink: /
 <img src="/elianbebe/assets/images/inicio.png" />
 
 <strong>Motivo de la presentación de este sitio web:</strong>
-Los abuelos maternos de nuestro bebé, usan malas prácticas para obtener la tenencia de nuestro hijo. Nuestra intención, con la información que ofrecemos aquí, es demostrar a los funcionarios que ellos no dicen la verdad.
+Los abuelos maternos de nuestro bebé usan malas prácticas para obtener la tenencia de nuestro hijo. Nuestra intención, con la información que ofrecemos aquí, es demostrar a los funcionarios que ellos no dicen la verdad.
 <br><br>
 <b>El contenido:</b>
 Presentamos antecedentes además de contar nuestra realidad.
