@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lo nos que pasó
+title: Lo que nos pasó
 permalink: /loquepaso/
 nav_order: 3
 ---
