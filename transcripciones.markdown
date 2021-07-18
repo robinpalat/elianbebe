@@ -30,8 +30,8 @@ Nombres que se escuchan en las grabaciones:
 <br>
 <br>
 <p style="text-align:justify">Principalmente se escuchan las voces de los abuelos maternos: Sra. Graciela y Don Ricardo.<br>Mediante la escucha de estas conversaciones, se puede probar la mala intención de los abuelos, la cual es <b>calumniar a nosotros los papás para obtener la tenencia de nuestro hijo.</b>
-La que promueve eso es la abuela, ella es la autoridad en la familia y es la actual cuidadora temporal de nuestro hijo. El abuelo Don Ricardo solo actua de facilitador. La Sra. Graciela ejerce la manipulación para lograr sus propósitos. Es probable que en ella la acción de manipular este asociada a algún trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, y — lo que resulta más perjudicial para nosotros — a los funcionarios. La idea del trastorno es quisáz más convincente cuando se tiene en cuenta que ella cortó bruzcamente el lazo de una madre con su recién nacido. Es a su propia hija a quién hace ese daño, sin ningún motivo aparente. Para ocultar esa conducta anormal, la señora hace uso impune de la calumnia y la mentira. Nos atribuye a nosostros los papás de enfermedades, de irresponsables,
- locos, drogados,ect. Nos quiere ver presos, ect.
+La que promueve eso es la abuela, ella es la autoridad en la familia y es la actual cuidadora temporal de nuestro hijo. El abuelo Don Ricardo solo actua de facilitador. La Sra. Graciela ejerce la manipulación para lograr sus propósitos. Es probable que en ella la acción de manipular este asociada a algún trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, y — lo que resulta más perjudicial para nosotros — a los funcionarios. La idea del trastorno es quisáz más convincente cuando se tiene en cuenta que ella cortó bruzcamente el lazo de una madre con su recién nacido. Es a su propia hija a quién hace ese daño, sin ningún motivo aparente. Para ocultar esa conducta anormal, la señora hace uso impune de la calumnia y la mentira. Nos atribuye a nosostros los papás de enfermos, irresponsables,
+ locos, drogados, nos quiere ver presos, ect.
 
 
 <br><br>
@@ -40,8 +40,8 @@ Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su 
 
 <br>
   <HR>
-En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. Esto ocurrió cuando el bebé había legado recién a la casa de los abuelos.
-Le quitan el derecho natural a una madre de opinar sobre su hijo recién nacido (abuso sicológico). Para los abuelos ya había comenzado el proceso de expropiación.
+En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. Esto ocurrió cuando el bebé había llegado recién a la casa de los abuelos.
+De esta forma le quitan el derecho natural de una madre de opinar sobre su hijo recién nacido (abuso sicológico). Para los abuelos ya había comenzado el proceso de expropiación.
 
 <br><br>
 <div class="Div_a">
@@ -63,9 +63,9 @@ Le quitan el derecho natural a una madre de opinar sobre su hijo recién nacido 
 El "Ruso" es el apodo de su hijo de profesión abogado.<br><br>
 
   <HR>
-En las grabaciones dice que ella salvó la vida de la guagua. No existe antecedente de esto. También miente que el bebé dió positivo en un test toxicológico de orina. y — como también se escucha en una grabación — que ella tiene esos documentos. <b>¡Asi miente a los funcionarios!</b> También a sus vecinos y parientes.<br><br>
+En las grabaciones asegura que ella le salvó la vida a la guagua. No existe ningún antecedente de esto. También miente que el bebé dió positivo en un test toxicológico de orina. y — como también se escucha en una grabación — que ella tiene esos documentos. <b>¡Asi miente a los funcionarios!</b> También a sus vecinos... parientes...<br><br>
 
-La señora comenzó a pedir ropa usada de guagua a sus vecinos para asegurar su papel de víctima y dejar establecido que los padres de la guagua son irresponsables y dejaron botado al bebé, que ella lo rescató.<br><br>También con la misma intención pidió leche en el consultorio Voullienme y envió a su marido a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros nunca le falto ropa y desde el principio dejamos bien claro que mientras ellos tengan el cuidado provisorio nos hariamos cargo de los pañales, la leche y sus gastos en general. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer. ect. nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
+La señora comenzó a pedir ropa usada de guagua a sus conocidos para dejar establecido que los padres del bebé son irresponsables y lo dejaron botado. Que ella lo rescató.<br><br>También con la misma intención pidió leche en el consultorio Voullienme y envió a su marido a la municipalidad a pedir lo mismo. Siendo que al bebé por parte de nosotros, nunca le falto ropa y desde el principio dejamos bien claro que mientras ellos tengan el cuidado provisorio nos hariamos cargo de los pañales, la leche y sus gastos en general. El ajuar de la cuna, los piluchos, la ropa en general completa, el coche, la tina, su sillita de comer, ect. Nuestro hijo ya tenia todas sus cosas antes de nacer.<br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/la-abuela-te-salvo-la-vida" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -152,20 +152,20 @@ Ella le recuerda este suceso a su marido, diciéndole que ya fue condenada una v
 
 
 
-La Sra Graciela asegura que su hija necesita estar internada en un siquiátrico. Se queja del COSAM porque allí<b> nunca cumplieron con su deseo de que se diagnostique como "enferma mental" a su hija</b>.  
+La Sra Graciela asegura que su hija necesita estar internada en un siquiátrico. Se queja del COSAM porque allí<b> nunca cumplieron con su deseo de que la diagnostiquen como "enferma mental"</b>.  
 
  <br>
  
 <br>
     <HR>
-  En la siguiente grabación la Sra Graciela le exije a Don Ricardo que vaya a la panaderia donde yo trabajo para hablar mal de mi. Dijo alli que yo era una persona peligrosa. Su intención ingenua claro está fué que me despidan.<br><br>
+  En la siguiente grabación la Sra Graciela le exije a Don Ricardo que vaye a la panaderia donde yo trabajo para hablar mal de mi. Dijo alli que yo era una persona peligrosa.<br><br>
   <div class="Div_a">
 <iframe src="https://archive.org/embed/el-martes-tambien-vas-a-ir-a-tener-que-hablar-en-la-panaderiasino-vas-voy-a-ir-yo" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p><strong>Sra. Graciela:</strong>&nbsp;Y el martes tambi&eacute;n vas a ir hablar... Si vos no vas a ir a hablar voy a ir yo a hablar a la panederia. Yo no voy a andar en boca de la gente por el weon [INAUDIBLE]</p>
 </div>
 <br>
 
-Don Ricardo tiene la idea de hacerme a mi algún daño:<br><br>
+Don Ricardo planea hacerme a mi algún daño:<br><br>
 
 <div class="Div_a">
 <iframe src="https://archive.org/embed/voy-a-hablar-con-el-ruso...-tengo-una-preparadita" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
