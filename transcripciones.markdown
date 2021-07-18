@@ -41,7 +41,7 @@ Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su 
 <br>
   <HR>
 En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. Esto ocurrió cuando el bebé recién había llegado a la casa de los abuelos.
-De esta forma le quitan el derecho natural de una madre de opinar sobre su hijo recién nacido (abuso sicológico). Para los abuelos ya había comenzado el proceso de expropiación.
+De esta forma le quitan el derecho natural de una madre a opinar sobre su hijo recién nacido (abuso sicológico). Para los abuelos ya había comenzado el proceso de expropiación.
 
 <br><br>
 <div class="Div_a">
