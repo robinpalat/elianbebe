@@ -129,8 +129,8 @@ nav_order: 3
   * Que rechazé a mi bebé.<br>
   * Que no lo atendía.<br>
   * Que le negue la lactancia.<br>
-  * Que que tuve malos tratos con el personal.<br>
-  Además solicitó un test de droga sin fundamento muy claro. Dando este un resultado presunto positivo, siendo que nosostros sabiamos que no tenemos hábito de consumo.<br>
+  * Que tuve malos tratos con el personal.<br>
+  Tambien solicitó un test de droga sin fundamento claro, dando este un resultado presunto positivo. Siendo que nosostros sabiamos que no tenemos hábito de consumo de drogas.<br>
 	 <hr><br><br></td>
     <td> </td>
   </tr>
