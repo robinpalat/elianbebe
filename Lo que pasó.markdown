@@ -138,7 +138,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="color:#353446; font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; El tribunal dictó medida de protección.</p> Nos separamos de nuestro bebé. Mis padres se ofrecieron como cuidadores.<br> 
+ <p style="color:#353446; font-size:16px; font-weight: bold;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; El tribunal dictó medida de protección.</p> Nos separamos de nuestro bebé. Mis padres se presentaron como cuidadores.<br> 
  * Otorgaron el cuidado provisorio a mis padres.
 	 <hr><br><br></td>
     <td> </td>
@@ -149,7 +149,7 @@ nav_order: 3
   <tr>
     <td> </td>
     <td>
- <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi madre nos priva de ver a nuestro hijo</p>Desde el 16 de febrero, dia de la audiencia preparatoria, mi madre no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis otros hijos, ni por videollamada.<br>Ella, durante mi embarazo, ya tenía la idea de quedarse con mi hijo.
+ <p style="font-size:16px; color:#353446;font-weight:bold;"><span style="font-size:12px;">▶</span>&nbsp;&nbsp;&nbsp;&nbsp; Mi madre nos priva de ver a nuestro hijo</p>Desde el 16 de febrero, dia de la audiencia preparatoria, ella no me atiende las llamadas telefónicas, no me permite ver a ninguno de mis otros hijos.<br>Ella, durante mi embarazo, ya tenía la idea de quedarse con mi hijo.
  <hr><br><br>
 
 	</td>
