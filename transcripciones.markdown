@@ -7,12 +7,12 @@ nav_order: 51
 ---
 
 
-<h2>Como obtuvimos las grabaciones</h2>
+<h2>Como se obtuvieron las grabaciones</h2>
 <h4>Testimonio de Jaquelin. Redactado por Robinson</h4>
 
 <br>
 <p style="text-align:justify">
-Las audios con que contamos, fueron grabados durante el tiempo que visite a mi bebé en casa de mis padres. Ocurrió de la siguiente manera: a mi hija de 7 años de vez en cuando se le agotaba la batería de su teléfono y me pedía el mio para mirar sus monos. Un día se me ocurrió llevar otro teléfono que no usaba de mi casa para darle a ella y asi yo poder ocupar el mio tranquilamente. Aveces dejaba ese teléfono en casa de mis padres o mi hija misma jugando lo escondía en algún cajón. Cuando tube la oportunidad de llevar de nuevo el teléfono a mi casa, descubrí que habían grabaciones de audio de varias horas de duración. Al parecer mi hija jugando, además de sacar fotos y videos, habia  activado también la grabadora de voz. Asi quedaron registradas las conversaciones que se daban en el mismo lugar donde estaba el teléfono. Principalmente en la habitación donde estaba mi bebé.<p><br>
+Las audios con que contamos fueron grabados durante el tiempo que visite a mi bebé en casa de mis padres. Ocurrió de la siguiente manera: a mi hija de 7 años de vez en cuando se le agotaba la batería de su teléfono y me pedía el mio para mirar sus monos. Un día se me ocurrió llevar otro teléfono que no usaba de mi casa para darle a ella y asi yo poder ocupar el mio tranquilamente. Aveces dejaba ese teléfono en casa de mis padres o mi hija misma jugando lo escondía en algún cajón. Cuando tube la oportunidad de llevar de nuevo el teléfono a mi casa, descubrí que habían grabaciones de audio de varias horas de duración. Al parecer mi hija jugando, además de sacar fotos y videos, habia  activado también la grabadora de voz. Asi quedaron registradas las conversaciones que se daban en el mismo lugar donde estaba el teléfono. Principalmente en la habitación donde estaba mi bebé.<p><br>
 <hr>
 <h2>Entendiendo las grabaciones</h2>
 <h4>Por Robinson</h4>
@@ -30,18 +30,17 @@ Nombres de las personas que se escuchan o se refieren en las grabaciones:
 <br>
 <br>
 <p style="text-align:justify">Principalmente se escuchan las voces de los abuelos maternos: Sra. Graciela y Don Ricardo.<br>Mediante la escucha de estas conversaciones, se puede probar la mala intención de los abuelos, la cual es <b>calumniar a nosotros los papás para obtener la tenencia de nuestro hijo.</b>
-La que promueve eso es la abuela, ella es la autoridad en la familia y es la actual cuidadora temporal de nuestro hijo. El abuelo Don Ricardo solo actua de facilitador. La Sra. Graciela ejerce la manipulación para lograr sus propósitos. Es probable que en ella la acción de manipular este asociada a algún trastorno psicológico. Ella manipula la mayor parte del tiempo, a su marido, hijos, vecinos, y — lo que resulta más perjudicial para nosotros — a los funcionarios. La idea del trastorno es quisáz más convincente cuando se tiene en cuenta que ella cortó bruzcamente el lazo de una madre con su recién nacido. Es a su propia hija a quién hace ese daño, sin ningún motivo aparente. Para ocultar esa conducta anormal, la señora hace uso impune de la calumnia y la mentira. Nos difama a nosostros los padres de enfermos, irresponsables,
- locos, drogados, que debemos estar presos, ect.
+La que promueve eso es la abuela, ella es la autoridad en la familia y es la actual cuidadora temporal de nuestro hijo. El abuelo Don Ricardo solo actua de facilitador. La Sra. Graciela ejerce la manipulación para lograr sus propósitos. Es probable que en ella la acción de manipular este asociada a un trastorno psicológico. Ella manipula a su marido, hijos, vecinos, y — lo que resulta más perjudicial para nosotros — a los funcionarios. La idea del trastorno es quisáz más convincente cuando se tiene en cuenta que cortó bruzcamente el lazo de una madre con su recién nacido. Es a su propia hija a quién hace ese daño, sin ningún motivo. Y, para ocultar esa conducta anormal, impunemente hace uso de la calumnia y se victimiza.
 
 
 <br><br>
-Durante los meses de embarazo de Jaquelin, la señora no acompaño en nada a su hija. Se mantuvo totalmente ausente. <br>
+Durante los meses de embarazo de Jaquelin, no acompaño en nada a su hija. Se mantuvo totalmente ausente. <br>
 
 
 <br>
   <HR>
-En el siguiente audio se puede apreciar como le molesta que Jaquelin le de opinión sobre el bebé. Esto ocurrió cuando el bebé recién había llegado a la casa de los abuelos.
-De esta forma le quitan el derecho natural de una madre a opinar sobre su hijo recién nacido (abuso sicológico). Para los abuelos ya había comenzado el proceso de expropiación.
+En el siguiente audio se puede apreciar como a ella le molesta que Jaquelin le de opinión sobre el bebé. Esto ocurrió cuando el bebé recién había llegado a la casa de los abuelos.
+De esta forma le quitaban el derecho natural de una madre a opinar sobre su hijo recién nacido (abuso sicológico). Para los abuelos ya había comenzado el proceso de expropiación.
 
 <br><br>
 <div class="Div_a">
@@ -53,7 +52,7 @@ De esta forma le quitan el derecho natural de una madre a opinar sobre su hijo r
 </div>
 
 <br>
- Días después la abuela llena de ira, expresa que quiere ver presos a los padres. La presencia de los padres le acusa que ella no es la mamá de los niños. Por eso la cercanía de los padres la perturban.<br>
+ Días después llena de ira, expresa que quiere ver presos a los padres. La misma presencia de los padres le acusa que ella no es la mamá de los niños. Por eso le perturba la cercanía de los padres.<br>
 <br>
 <div class="Div_a" >
 <iframe src="https://archive.org/embed/yo-le-digo-al-ruso-o-hacen-algo-o-no-se-yo-quiero-presos-a-los-dos-los-dos-padres-del-bebe" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -132,7 +131,7 @@ La abuela pasa horas enteras monologando, analizando la situación. Esta muy obs
 
   <HR>
 Hace mas de 25 años, la Sra. Graciela perdió un bebe en el parto por falta de oxígeno.
-Ella le recuerda este suceso a su marido, diciéndole que ya fue condenada una vez cuando perdió ese bebe. Y que porque tienen que condenarla de nuevo ahora. Refiriendose con esto último a que va a hacer lo que sea para que no dejen que le quiten a nuestro hijo. <br>
+Ella le recuerda este suceso a su marido, diciéndole que ya fue condenada una vez cuando perdió ese bebe. Y que porque tienen que condenarla de nuevo ahora. Dando a entender con esto, que seria injusto para ella que le quiten nuestro hijo. <br>
 <br>
 <div class="Div_a">
 <iframe src="https://archive.org/embed/entonces-yo-voy-a-tener-lastima-a-todos-y-yo-a-mi-ya-me-condenaron-cuando-murio-mi-guaguita" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -158,7 +157,7 @@ La Sra Graciela asegura que su hija necesita estar internada en un siquiátrico.
  
 <br>
     <HR>
-  En la siguiente grabación la Sra Graciela le exije a Don Ricardo que vaye a la panaderia donde yo trabajo para hablar mal de mi. Dijo alli que yo era una persona peligrosa.<br><br>
+  En la siguiente grabación la Sra Graciela le exije a Don Ricardo que vaye a la panaderia donde yo trabajo para calumniarme. Dijo alli que yo era una persona peligrosa.<br><br>
   <div class="Div_a">
 <iframe src="https://archive.org/embed/el-martes-tambien-vas-a-ir-a-tener-que-hablar-en-la-panaderiasino-vas-voy-a-ir-yo" width="100%" height="34" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p><strong>Sra. Graciela:</strong>&nbsp;Y el martes tambi&eacute;n vas a ir hablar... Si vos no vas a ir a hablar voy a ir yo a hablar a la panederia. Yo no voy a andar en boca de la gente por el weon [INAUDIBLE]</p>
