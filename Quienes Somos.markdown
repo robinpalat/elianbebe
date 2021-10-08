@@ -12,7 +12,7 @@ nav_order: 2
 <table style="notable">
 <td style="vertical-align:top">
 <br>
- <img src="/elianbebe/assets/images/20200606_194653.jpg" alt="Nosotros" width="100%"/>
+ <img  style="float: right;" src="/elianbebe/assets/images/20200606_194653.jpg" alt="Nosotros" width="100%"/>
 </td>
 <td style="vertical-align:top">
 <p style="text-align:justify;vertical-align:top">
@@ -21,6 +21,4 @@ Somos Maria Jaquelin Ramirez y Robinson Palatnik, papás de nuestro precioso Eli
 </p>
 </td>
 </table>
-
-
 
