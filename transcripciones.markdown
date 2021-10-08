@@ -17,16 +17,16 @@ Las audios con que contamos, fueron grabados durante el tiempo que visite a mi b
 <h2>Entendiendo las grabaciones</h2>
 <h4>Por Robinson</h4>
 <br><br>
-Nombres que se escuchan en las grabaciones:
+Nombres de las personas que se escuchan o se refieren en las grabaciones:
 <br><br>
-<b>Mauricio:</b> hijo mayor de mi pareja, 18 años<br>
-<b>Millaray:</b> hija de mi pareja, 7 años<br>
-<b>Negra:</b> aveces llaman asi a mi pareja<br>
-<b>La tonta:</b> aveces se refieren asi a mi pareja<br>
-<b>Fredy:</b> ex pareja de mi pareja.<br>
-<b>Ruso:</b> joven abogado, hermano de mi pareja<br>
-<b>Neffer:</b> joven abogado, socio y amigo del hermano de mi pareja<br>
-<b>El tonto, el zángano, el tipo:</b> así se refieren a mi
+<b>Mauricio:</b> hijo mayor de Jaquelin<br>
+<b>Millaray:</b> hija de Jaquelin<br>
+<b>Negra:</b> aveces llaman asi a Jaquelin<br>
+<b>La tonta:</b> aveces se refieren asi a Jaquelin<br>
+<b>Fredy:</b> ex pareja de Jaquelin<br>
+<b>Ruso:</b>Hermano de Jaquelin<br>
+<b>Neffer:</b>Abogado, socio y amigo del hermano de Jaquelin<br>
+<b>El tonto, el zángano, el tipo:</b> se refieren a mi
 <br>
 <br>
 <p style="text-align:justify">Principalmente se escuchan las voces de los abuelos maternos: Sra. Graciela y Don Ricardo.<br>Mediante la escucha de estas conversaciones, se puede probar la mala intención de los abuelos, la cual es <b>calumniar a nosotros los papás para obtener la tenencia de nuestro hijo.</b>
