@@ -12,9 +12,9 @@ nav_order: 3
 <br><br><br><br>
  
  <table width="100%">
-  <tr><big>AÑO 2019</big><br>
+  <tr><big>AÑO  2019: Los primeros pasos</big><br>
     <td width="10%"> </td>
-    <td width="80%"><br><br> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Junto con Robin nos proyectamos para casarnos y tener una familia </p>Robin llegó a Chile de Argentina en mayo. Tardó varios meses en conseguir trabajo.<br>
+    <td width="80%"><br><br> <p style="font-size:16px; font-weight: bold;color:#353446;"><span style="font-size:12px">▶</span>&nbsp;&nbsp;&nbsp;&nbsp;Robin llega a Chile desde Argentina. Le costó meses encontrar trabajo, pero seguíamos adelante con nuestro sueño de formar una familia.<br>
    <hr><br><br></td>
     <td width="10%"> </td>
   </tr>
